@@ -1,1 +1,368 @@
-# A title for Unit 2
+# Work with Addictions
+
+## Overview {.unnumbered}
+
+Unit 1 explores the complexity of trauma, why it happens, and how to deal with it when it shows up in our work. This unit is designed to provide you with some research, theory, and practical resources so that you will feel confident and competent when you encounter trauma at work or in daily life. Although you will not be expected to become an expert on every topic we will examine, it is imperative that you be able to locate information when confronted with it in order not to become overwhelmed by the amount and sources of information available.
+
+### Topics {.unnumbered}
+
+This unit is divided into the following topics:
+
+1. What is addiction?
+2. How/Why does it develop?
+3. How do we work with it?
+
+### Unit Learning Outcomes {.unnumbered}
+
+When you have completed this unit, you will be able to:
+
+- Identify and discuss some of the major authors in the field of addiction
+- Interpret the phrase, “Not why the addiction, but why the pain?”
+- Conceptualize an addictions case
+- Practice the skill of validation as outlined in EFFT
+- Develop a preliminary treatment plan and know where to find resources and further specialized training
+
+### Learning Activities {.unnumbered}
+
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
+
+1. Read…
+2. Watch…
+3. Explore…
+4. Complete the ungraded quiz.
+
+::: {.note icon="true"}
+
+Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
+:::
+
+:::
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
+
+### Resources {.unnumbered}
+
+Here are the resources you will need to complete this unit.
+
+- Other online resources will be provided in the unit.
+
+## What is Addiction?
+
+An addiction is a chronic brain disorder with rewards, motivation, and memory components. Basically, it refers to a tendency to seek a reward in a compulsive or obsessive manner without taking into account the consequences. The previous  is just one definition of it.
+
+In the long run, addiction can significantly interfere with a person's daily activities. Those who suffer from addiction may also experience cycles of relapse and remission. It is therefore possible for them to cycle between intensified and mild usage. Over time, addictions often worsen despite these cycles. These types of problems can cause permanent health complications, as well as having serious consequences, such as bankruptcy, alienation from family, and rejection by society.
+
+There is a wide variety of resources available on the topic of addiction; they describe the types of addiction, their triggers, what the signs and causes of addiction are, as well as the stages and their complications.
+
+There are many definitions of addiction available online. Through the Learning Activities, we will explore some of the most important terms in this field as well as hear from some of the leading researchers.
+
+### Activity: Reading | In the Realm of Hungry Ghosts
+
+::: {.learning-activity time="00"}
+
+Read pages 1-3, & Chapters 11-16. In the Realm of Hungry Ghosts, Gabor Mate's entire book, is a very important and valuable book. For the sake of time available for this course, it is recommended that you complete specific readings. It is strongly recommended that you follow along with the questions provided below as the chapters are quite substantial in and of themselves. As a result, you will be able to retain more information.
+
+Additionally, before you read this chapter, take a moment to consider your own definition of addictions and what automatic thoughts or assumptions you have about people struggling with addictions.
+
+!! Note that the learning activities in this course are ungraded, unless specified.  They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.
+
+**Questions to Consider**
+
+You will be able to check your understanding of the topic by considering these questions.
+
+1. What is our present day definition of addiction?
+2. What are the four components of addiction? (p.129)
+3. Why do all addictions also have a biological dimension to them?
+4. Why is it unhelpful to view addiction as a disease?
+5. What did the study done with Vietnam War Veterans show?
+6. What is the significance of ‘Rat Park’?
+7. What three factors need to coincide in order for a substance addiction to develop?
+8. What does having a diminished amount of dopamine receptors in the brain mean? Why would someone with a lower amount of dopamine receptors be at a higher risk for addiction?
+9. What are the short term effects of drugs on the brain and what are the long term effects?
+10. Take note of the story of Claire at the end of Chapter 16 and how her story is described using the information that we have recently learned.
+
+:::
+
+### Activity: Watch | A Visual Portrayal
+
+::: {.learning-activity time="00"}
+
+Please take a moment to watch the following video. Please be aware that this video may evoke some strong emotions.  
+
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/HUngLgGRJpo >}}
+
+</div>
+
+**Journal Opportunity**
+
+It is important to note that closing this active browser will not save your responses, so you will need to save/download your document before closing it.
+
+<!-- [h5p id="458"] -->
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=458" width="853" height="252" frameborder="0" allowfullscreen="allowfullscreen" title="A Visual Portrayal"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+:::
+
+### Activity: Key terms
+
+::: {.learning-activity time="00"}
+
+Take a moment to read some of the terms below. The purpose of reviewing the definitions specifically is to reinforce the information presented in this topic.
+
+1. **Tolerance:** decreased reaction to the process or substance after repeated use. Increasing uptake may only increase the tolerance.  
+2. **Relationship between Opioids and Oxytocin:** oxytocin helps us to not become tolerant of our own natural opiates. When endorphins lock onto opiate receptors they trigger the chemistry of love and connection, helping us be the social creatures we are.
+3. **Dopamine Receptors:** a decreased presence of these is correlated with more of an uptake of substances or addictive behaviors.
+4. **Dopamine system:** most active during the initiation and establishment of drug intake and other addictive behaviors and is key in reinforcing patterns of all drugs of abuse.
+5. **Opiates:** Don’t take away pain, but reduce our consciousness of it as unpleasant stimuli. Are responsible for the pleasure reward aspects of addiction  
+6. **Reinforcement:** the triggering of VTA (ventral tegmental apparatus) activation and dopamine release in the NA (nucleus accumbens)
+7. **Prefrontal cortex:** is responsible for the impulse control center, executive functioning and where social behaviors are learned. This becomes impaired in an addicted brain.
+8. **Orbitofrontal cortex:** decision making, inhibiting impulses, initiating cravings and balancing short-term objectives against longer term consequences in the process of decision making. Images show that the OFC works abnormally in drug users.
+9. **Salience attribution:** the assignment of  great value to a false need and the depreciation of true ones.
+10. **Epigenetics:** the effects are most powerful in early development. the ability for genes to turn on and off based on environmental factors. “As a result of life events, chemicals attach themselves to DNA and direct gene activities.” p. 204
+11. **Gene expression:** how a gene acts.
+12. **Process addictions/Behavior Addictions:** Gambling, shopping, food, love, sex, internet, dangerous activities, thrill seeking activities, pornography
+13. **Substance Addictions:** alcohol, drugs, pain pills, tobacco
+
+:::
+
+### Activity: Optional Reading | A Biblical Reflection
+
+::: {.learning-activity time="00"}
+
+_Read Deuteronomy 4:15-16, Isaiah 44:9, and Colossians 3:5_
+
+The Bible talks about how an idol is anything that takes priority over our ability and willingness to worship and serve God. An idol can ‘replace’ God in our lives and our relationship with whatever we have made an idol in our lives; it becomes more important than our relationship with God. An addiction could be considered an idol as when one is in the midst of an addiction, it becomes the sole priority and as we have read, even one’s basic health may be pushed aside for the sake of engaging in the addiction.
+
+In addition, we have read that the same neural pathways in the brain are involved in addictions and attachments. According to Genesis 2:18-23, we were created for attachment. As we have discussed previously, addiction can fill a hole inside of us when we lack the type of attachment that God intended, the secure base that allows us to fail and be okay. This is especially true for people who are trying to numb or eliminate intolerable pain.  
+
+Consider how far our world has fallen from God's intended design for us and how far we have fallen from that design. **How does this context affect your perception of those suffering from addiction?** **Does it make a difference?**
+
+:::
+
+## How/Why does addiction develop?
+
+Among the most common causes of addiction development mentioned in the literature are chronic stress, trauma, mental illness, and a family history of addiction. Researchers are still uncertain what causes addiction, or how it develops as risks vary from person to person.
+
+The purpose of this section is to discuss the six basic theories of addiction, followed by an analysis of Gabor Mate's analysis of how and why addiction develops. To conclude, we will examine some brain scans of addicted individuals and discuss the various categories of addicts that can be identified by these brain scans.
+
+### Activity: Website | Six fundamental theories
+
+::: {.learning-activity time="00"}
+
+Gabor Mate’s work with and view of addiction and the how/why it forms is a biopsychosocial one. This view is backed up by the most research and brain science, so we are focusing primarily on it. To better understand how and why addiction develops, it is worthwhile to examine the other 5 theories.
+
+Take a look at the following presentation that discusses the theories.
+
+[https://www.nwosu.edu/uploads//academics/social-sciences/bjcc/cbrp-training/theories-of-addiction.pdf ](https://www.nwosu.edu/uploads//academics/social-sciences/bjcc/cbrp-training/theories-of-addiction.pdf){target="_blank"}
+
+:::
+
+### Activity: Reading | In the Realm of Hungry Ghosts - Chapter 17-19
+
+::: {.learning-activity time="00"}
+
+In this section, we will explore the reasons and mechanisms behind addiction. You will continue reading In the Realm of Hungry Ghosts through Chapter 19 in order to gain further insight into addiction and how it manifests in the brain for this activity. You have already read chapters 17 & 18 during the last unit. You can take this opportunity to review the information or just read Chapter 19 if you feel like you have a good handle on the information.
+
+**Questions to consider**
+
+You will be able to check your understanding of the topic by considering these questions.
+
+1. What is epigenetics and its significance?
+2. What can we focus on in regards to prevention?
+3. At what stage can one already begin to have a predisposition to alcohol ‘programmed’ in them?
+4. When/where is the amount and density of dopamine receptors determined?
+
+:::
+
+### Activity: Optional Website Exploration | Brain Imaging with Dr. Amen
+
+::: {.learning-activity time="00"}
+
+On the Amen Clinics website, you will find information on addiction and how they use brain imaging to identify what type of addict a person is. Despite the fact that this presentation of addiction is based on a medical model rather than a therapeutic model, it is valuable information nonetheless. You should keep scrolling down- sometimes it seems as though there is no additional information to be reviewed, but there is.
+
+Visit the link below to learn more about Brain Imaging for this activity.
+
+[What are Drugs and Alcohol Addiction?](https://www.amenclinics.com/conditions/drugs-and-alcohol-addiction/){target="_blank"}
+
+:::
+
+## Working with Addictions
+
+It may be difficult for individuals who have been affected by addiction for a considerable amount of time to determine moral leanings, personal boundaries, and what kinds of behaviors are normative, rather than simply performative and survival-based. Public policy and literature are increasingly recognizing that addiction is a maladaptive response to trauma. It is estimated that approximately two-thirds of those seeking treatment for alcohol and substance abuse issues have been affected by trauma. There is no doubt that addiction is extremely difficult to navigate and overcome, and not everyone is able to succeed for long periods of time.
+
+Addiction is a complex issue that can be addressed with many theories and models, but EFFT remains the main approach/theory that will be discussed in this unit. During the following Learning activities you will learn about Gabor Mate’s insights into the healing process and what he calls ‘Compassionate Inquiry’ which pairs nicely with EFFT. Through Compassionate Inquiry, the client gains an understanding of how the unconscious dynamics in their lives can be released.
+
+### Activity: Reading | In the Realm of Hungry Ghosts - Chapter 29-33
+
+::: {.learning-activity time="00"}
+
+In order to develop a healthy brain, two realms must be considered; the external world, the environment and support, as well as the internal world, your own self awareness and ability to be mindful. In the following chapters, we will explore the concept of wellness and sobriety (versus abstinence), as well as how to maintain both. Take note of the correlations between the EFFT principles as you read.
+
+:::
+
+### Activity: Reading | EFFT Chapters 2-3 & pages 153-154
+
+::: {.learning-activity time="00"}
+
+According to Chapter 19 in Gabor Mate's book, there are many things that one cannot control, such as genetic makeup, temperament, where one is born, etc. Thus, it is important to focus on things that can be controlled.
+
+Two areas are highlighted by EFFT: family environment and emotional processing. This diagram provides a good visual and was created by Adele LaFrance and Natasha Files (2018) for presentation purposes.
+
+![This is a caption for a fig-image](assets/u2/diagram.jpg){#fig-u2_1 .lightbox fig-alt="" source-text="" source-link="" source-author="Jasmine Pang" source-author-link="" source-copyright="" source-license-text="" source-license-link=""}
+
+As we learned in our previous unit, Gabor Mate also emphasizes the importance of caregivers and community in the recovery process, which fits well with the EFFT model that emphasizes parental and caregiver involvement in mental health issues. Family environment and emotional processing are the two areas we can 'control', and if we work on both, the healing process will be extremely powerful.
+
+::: {.note icon="true"}
+
+During class you will be doing an activity that revolves around the skill of emotion coaching/validation, so make sure you read Chapter 2 and 3.
+
+:::
+
+:::
+
+### Activity: Video | Visual of Emotion Coaching
+
+::: {.learning-activity time="00"}
+
+An excellent illustration of what EFFT's emotion coaching aims to accomplish is Dr. Siegel's hand model. The purpose of emotion coaching is to build a bridge between the prefrontal cortex and the limbic system over time. The hand metaphor can be a very effective way to explain the concept to parents and to our clients.
+
+Watch the following video of Dr. Daniel Siegel presenting a Hand Model of the Brain.
+
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/gm9CIJ74Oxw >}}
+
+</div>
+
+:::
+
+### Activity: Reflect | Looking back
+
+::: {.learning-activity time="00"}
+
+In order to do the reflection for this activity. Go back and read the first chapter of In the Realm of Hungry Ghosts. Take in the Vancouver Downtown Eastside as Gabor Mate describes it.
+
+**Reflect:**
+
+- What comes up for you?
+- In comparison to your previous attitude towards this area of town and its residents, do you feel any different now?
+
+:::
+
+### Activity: Validation Exercise
+
+::: {.learning-activity time="00"}
+
+For this activity, read Chapter 4 of the book “In the Realm of Hungry Ghosts”.
+You will practice how to write a proper validation statement to explain why Serena has been using and continues to use, or if you would like you can write a validation statement to explain her inability to see her own inner strength and innate perfection. Most likely, these will sound too scripted and strange, but this is an integral part of the learning process.
+
+**This exercise can be broken down into two steps:**
+
+To begin with, it would look something like this...
+
+- _No wonder/It makes sense why you continue to use because…. because… because…_
+
+or
+
+- _It makes sense to me why you would be struggling with seeing your own inner strength and value because… because… because…_
+
+Then make sure you add the second part of the emotional support and then practical support.
+
+- _I want you to know that…_
+- _Why don’t we start by…_
+
+There are examples in the Behavior Coaching section of the EFFT manual that are similar to Serena's situation.
+
+:::
+
+If you are interested in accessing more resources, feel free to peruse the following websites:
+
+- [https://www.recoverynation.com/](https://www.recoverynation.com/){target="_blank"}
+- [https://www.smartrecovery.org/](https://www.smartrecovery.org/){target="_blank"}
+
+## Unit 2 Resources
+
+### Topic 1: What is Addiction?
+
+**Videos**
+
+- [Nuggets | Filmbilder & Friends](https://youtu.be/HUngLgGRJpo){target="_blank"}
+
+**Readings**
+
+- Maté Gabor. (2018). In the realm of hungry ghosts: Close encounters with addiction. North Atlantic Books.
+- Bible | Deuteronomy 4:15-16, Isaiah 44:9, and Colossians 3:5
+
+**Websites**
+
+- There are no recommended websites for Topic 1.
+
+---
+
+### Topic 2: How/Why Does Addiction Develop?
+
+**Videos**
+
+- There are no recommended videos for Topic 2.
+
+**Readings**
+
+- Maté Gabor. (2018). In the realm of hungry ghosts: Close encounters with addiction. North Atlantic Books.
+
+**Websites**
+
+- [Theories of Addiction](https://www.nwosu.edu/uploads//academics/social-sciences/bjcc/cbrp-training/theories-of-addiction.pdf){target="_blank"}
+- [Amen Clinics | Drugs and Alcohol Addiction](https://www.amenclinics.com/conditions/drugs-and-alcohol-addiction/){target="_blank"}
+
+---
+
+### Topic 3: Working with Addictions
+
+**Videos**
+
+- [Dr Daniel Siegel presenting a Hand Model of the Brain](https://youtu.be/gm9CIJ74Oxw){target="_blank"}
+
+**Readings**
+
+- Maté Gabor. (2018). In the realm of hungry ghosts: Close encounters with addiction. North Atlantic Books.
+
+**Websites**
+
+- [Recovery Nation](https://www.recoverynation.com/){target="_blank"}
+- [Smart Recovery](https://www.smartrecovery.org/){target="_blank"}
+
+## Summary {.unnumbered}
+
+You have learned what addictions are, how and when they develop, and how to deal with them. Additionally, this unit examined the connection between addiction and trauma. For the summary of this unit. I invite you to watch the following two clips. The information in these two clips is the most important information to retain.
+
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/T5sOh4gKPIg >}}
+
+</div>
+
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/PY9DcIMGxMs >}}
+
+</div>
+
+::: {.check}
+
+Before you move on to the next unit, you may want to check that you are able to:
+
+- Identify and discuss some of the major authors in the field of addiction
+- Interpret the phrase, “Not why the addiction, but why the pain?”
+- Conceptualize an addictions case
+- Practice the skill of validation as outlined in EFFT
+- Develop a preliminary treatment plan and know where to find resources and further specialized training
+
+:::
+
+
