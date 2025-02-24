@@ -76,8 +76,7 @@ View the following videos and listen to one of the most prominent trauma researc
 
 <div class="video-container">
 
-<!-- {{< video https://www.youtube-nocookie.com/embed/JmDLI8aaT4oHlqp >}} -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BJfmfkDQb14?si=-JmDLI8aaT4oHlqp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< video https://www.youtube-nocookie.com/embed/JmDLI8aaT4oHlqp >}}
 
 </div>
 
