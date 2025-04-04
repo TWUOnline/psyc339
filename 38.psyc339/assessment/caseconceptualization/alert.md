@@ -1,0 +1,41 @@
+---
+title: 'Assignment 2'
+alert_style: alert-info
+published: true
+visible: false
+---
+
+# Case Conceptualization
+
+&nbsp;
+
+### Description
+
+Each student will need to complete **3 out of the 6** case conceptualizations. Each case conceptualization is due by the next week’s class. For example if you choose to do this week’s case conceptualization on Trauma, you will need to complete it by our next class. Please take note of the due dates on these and plan ahead which topics you would like to do. The case conceptualization form that you will need to fill out is provided at the bottom of this page; you will use the same form for all three case conceptualizations. We will go over how to complete this assignment during our first virtual class together. If you cannot attend, then a recording of our class will be uploaded to Moodle for your viewing convenience. I would recommend that you choose your case conceptualizations based on which topics you are most interested in. Students will have the opportunity to use these case conceptualizations for their other assignments.
+
+Spend the most time focusing on the observations and impressions section of this form. (The other sections shouldn’t take long to fill out). In the Observations and Impressions section I need to see evidence that you are connecting what you are learning to what you have watched- we are practicing the application of our learning through this exercise. As always, look at the grading rubric to see how items are weighted.
+
+!!! Watching these movies can be triggering and so I encourage you to choose the topics that will be less triggering for you.  
+
+&nbsp;
+
+**The 6 Movie Titles are:**
+
+- Trauma: I Can Only Imagine (2018)
+- Addictions: Beautiful Boy (2018)
+- Death/Dying: The Descendents (2011)
+- Mental Health Issues: Ordinary People (1980)
+- Resilience/Stress: Wonder (2017)
+- Integration: Miracles From Heaven (2016)
+
+&nbsp;
+
+### Grading Rubric
+
+- Is the Demographics section filled out correctly?  /1
+- Reason for referral   /1
+- Background information demonstrates that you watched the movie /2
+- Observations and Impressions: connecting the movie to what you have learned /4
+- Treatment recommendations  /2
+
+**TOTAL: /10**
