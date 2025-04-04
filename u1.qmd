@@ -29,10 +29,20 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ::: {.learning-activity}
 
-1. Read…
-2. Watch…
-3. Explore…
-4. Complete the ungraded quiz.
+1. Watch: What is Trauma?
+2. Read: The Body Keeps the Score Prologue
+3. Read: The Body Keeps the Score Chapter 3
+4. Watch: A Note on Childhood Trauma/ACE’s
+5. Practice: Terminology
+6. Read: The Body Keeps the Score
+7. Read: In the Realm of Hungry Ghosts
+8. Read: The Effects of Complex Trauma on Brain Development
+9. Read: Treating Adult Survivors of Childhood Emotional Abuse and Neglect
+10. Read: Treating Adult Survivors of Childhood Emotional Abuse and Neglect Article
+11. Read: Complex Trauma and the Christian Context
+12. Read: Emotion Focused Family Therapy
+13. Explore: Trauma Informed therapies
+14. Take notes: Case Study
 
 ::: {.note icon="true"}
 
@@ -52,13 +62,13 @@ Here are the resources you will need to complete this unit.
 
 - Other online resources will be provided in the unit.
 
-## What is Trauma?
+## What is Trauma? 
 
 This first unit will lead you to explore some of the research on trauma. Topic 1, will help you not only to gain a basic understanding of the varying types of trauma and how to define them, but also to identify the main researchers in the field. Learning about the prominent researchers in this field will give you a good foundation and direction to fall back on as you go further in your studies and as you encounter trauma in your day-to-day activities.
 
 The resources provided for this topic will discuss the areas of the brain it affects and how it differs from stress. Van der Kolk's famous 'The Body Keeps the Score' book will also be discussed, and we will conclude this section with some definitions and key terms you should know.
 
-### Trauma
+### Trauma {.unnumbered}
 
 Trauma is a very difficult mental health issue to work with. A trauma is a painful, confusing, intergenerational, illogical, interfering, irrational, and shocking experience. The treatment of trauma requires more than a series of four to five sessions; it can be a lengthy and complex process with advances and setbacks.
 
@@ -68,17 +78,19 @@ The culture of our society is so geared towards avoiding pain at any cost that w
 
 In the course of working with trauma as therapists, we have the tendency to desire a quick fix or to avoid entering into the dark pit of pain. It can be difficult to navigate this fine line between going too far and experiencing secondary trauma and avoiding feeling the pain with our clients. As a consequence, we would like to warn you that some of the stories and case studies we will be discussing in this course may be triggering or difficult to listen to. Take note of your ability to engage with the material as the intention is not to create dysregulation within you.
 
-### Activity: What is Trauma?
+### Activity: Video | What is Trauma?
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 View the following videos and listen to one of the most prominent trauma researchers: Bessel Van der Kolk, then answer the questions.  You may want to watch the first clip more than once since a lot of information is packed into a short timeframe.
 
-<div class="video-container">
+<!-- <div class="video-container">
 
 {{< video https://www.youtube-nocookie.com/embed/JmDLI8aaT4oHlqp >}}
 
-</div>
+This video is not working...
+
+</div> -->
 
 <div class="video-container">
 
@@ -101,7 +113,7 @@ You will be able to check your understanding of the topic by considering these q
 
 ### Activity: Reading | The Body Keeps the Score Prologue
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 [The Body Keeps the Score Prologue](assets/u1/BKTS_Prologue.pdf){target="_blank"} will provide you a good introduction to trauma and Dr. Van der Kolk’s experience/work with it.
 
@@ -117,7 +129,7 @@ You will be able to check your understanding of the topic by considering these q
 
 ### Activity: Optional reading | The Body Keeps the Score Chapter 3
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 If you plan to work with traumatized individuals, [The Body Keeps the Score, Chapter 3](assets/u1/TBKTS_Ch.3.pdf){target="_blank"}, is an excellent suggested resource for you.
 
@@ -129,9 +141,9 @@ Van der Kolk also describes trauma succinctly in this chapter. He describes trau
 
 :::
 
-### Activity: A Note on Childhood Trauma/ACE’s
+### Activity: Video | A Note on Childhood Trauma/ACE’s
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 There are two sections to this activity. In the first clip, Dr. van der Kolk explains how trauma manifests in children, and in the second, Pediatrician Nadine Burke Harris shares during a Ted Talk explaining the importance of acknowledging childhood trauma and how it impacts our physical well-being.
 
@@ -163,7 +175,7 @@ To gain a better understanding of your own past experiences, you can take the fo
 
 ### Activity: Terminology
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 This activity will introduce you to some of the concepts and terminology used in this field by looking up some of the following terms. The following website is recommended to do the search, [https://www.complextrauma.org/glossary/](https://www.complextrauma.org/glossary){target="_blank"}. By doing the search yourself, you are more likely to remember the definitions. Try to write out or type out the definitions instead of just copying them and pasting them. This section aims to define these terms at the end of this section rather than at the beginning so you will recognize some of them and have a context from the chapters you have read.
 
@@ -184,7 +196,7 @@ Furthermore, the resources will discuss what happens to our brains when trauma o
 
 ### Activity: Reading | The Body Keeps the Score
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Despite being potentially overwhelming, this chapter is extremely informative regarding what happens to the brain when trauma occurs. Please use the following questions to guide your reading, as they will assist you in focusing on the most important information.
 
@@ -207,9 +219,9 @@ You will be able to check your understanding of the topic by considering the fol
 
 :::
 
-### Activity: Reading |  In the Realm of Hungry Ghosts
+### Activity: Reading | In the Realm of Hungry Ghosts
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Gabor Mate's book, In the Realm of Hungry Ghosts, focuses on addiction.  You may want to spend some time reading **Chapters 17 and 18** to better understand how addiction and trauma are intertwined.
 
@@ -232,7 +244,7 @@ You will be able to check your understanding of the topic by considering the fol
 
 ### Activity: Optional Website Reading | The Effects of Complex Trauma on Brain Development
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Complextrauma.org is an excellent website to familiarize yourself with for research and information about trauma, as well as for resources and opportunities. In addition to defining some terms on this site, I invite you to read this explanation on the impact trauma has on the brain. Hopefully, some of this information will sound familiar to you.
 
@@ -242,7 +254,7 @@ Visit this link: [https://www.complextrauma.org/](https://www.complextrauma.org/
 
 ### Activity: Optional Reading | Treating Adult Survivors of Childhood Emotional Abuse and Neglect (Pgs.3-12)
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Literature in this section discusses emotional abuse/neglect and psychological trauma. Emotional and psychological trauma is a relatively new and complex area of trauma study and it is crucial that we learn how this affects the systems in which we live, work, and commune. As you read this section, keep their working definition of complex trauma in the back of your mind. The authors describe complex trauma as:
 
@@ -251,7 +263,7 @@ Literature in this section discusses emotional abuse/neglect and psychological t
 
 Read pages 3 to 12 of [Hopper, E. K., Grossman, F. K., Spinazzola, J., & Zucker, M. (2021). Treating adult survivors of childhood emotional abuse and neglect: Component-based psychotherapy. The Guilford Press.](assets/u1/Survivors_of_Emotional_Abuse_and_Neglect.pdf){target="_blank"}
 
-### Questions to consider
+**Questions to consider**
 
 You will be able to check your understanding of the topic by considering the following questions.
 
@@ -274,7 +286,7 @@ There are many therapy modalities that are specifically designed for trauma. EFF
 
 ### Activity: Optional Reading | Treating Adult Survivors of Childhood Emotional Abuse and Neglect Article
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Read the following article for a description on a New Framework for treating childhood emotional abuse and neglect. This article will be describing Component Based Psychotherapy. This is not essential for you to know as we will be focussing on learning Emotionally Focused Family Therapy in our time together, but if you are interested in working with Trauma or have been, I would recommend reading this article. [Treating Adult Survivors of Childhood Emotional Abuse and Neglect](assets/u1/Survivors_of_Emotional_Abuse_and_Neglect.pdf){target="_blank"}
 
@@ -289,7 +301,7 @@ You will be able to check your understanding of the topic by considering the fol
 
 ### Activity: Optional Reading | Complex Trauma and the Christian Context
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 An Adult with complex trauma history, frequently experience disrupted systems of meaning, which can lead to adversely affected belief systems. The experiences of shame, betrayal, meaning-making, and mourning experienced by adult survivors of childhood trauma often complicate their spiritual and/or religious beliefs. The goal of this activity is to provide you with a better understanding of how a complex trauma treatment is applied within a Christian context.
 
@@ -310,7 +322,7 @@ You will be able to check your understanding of the topic by considering the fol
 
 ### Activity: Reading | Emotion Focused Family Therapy
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 - Read Pages 3-48 of EFFT (Emotion Focused Family Therapy). The purpose of this unit is to process this new model and make our own deductions regarding how this model may be applied to the treatment of trauma.
 - Lafrance, A., Henderson, K. A., & Mayman, S. (2020). Emotion-focused family terapy: A transdiagnostic model for caregiver-focused interventions. American Psychological Association. Purchase online.
@@ -342,7 +354,7 @@ Please do your own application in the case study below as well as the correspond
 
 ### Activity: Optional Exploration | Trauma Informed therapies
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Look up the following modalities to see what types of treatment options are available and notice which modalities resonate with you and why. These modalities do not require in-depth knowledge. Again, the aim is to provide you with a foundation so that when you come across trauma in your work environment, you will already know which modality resonates with you and which you would benefit from further training.
 
@@ -356,7 +368,7 @@ Look up the following modalities to see what types of treatment options are avai
 
 ### Activity: Case Study
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Take note of the following questions as you read the following case study. An overview of David, the client, is provided in this case study, followed by snapshots of his therapy.
 
@@ -371,9 +383,27 @@ Take notes using the tool below. You can download your notes, please consider th
 
 :::
 
+## Summary {.unnumbered}
+
+In this first unit, you have been introduced to a couple of researchers in the field of trauma as well as developed your ability to conceptualize a case that involves trauma. During this unit, we were only able to touch on the surface of the research that has been conducted in this area. We hope that you will leave this workshop with an understanding of where to turn for assistance, what resources you can access, and how to interact with trauma in therapy.
+
+::: {.check}
+
+Before you move on to the next unit, you may want to check that you are able to:
+
+- Demonstrate knowledge of some of the major Trauma researchers
+- Distinguish between emotional abuse, physical abuse, and sexual abuse
+- Identify some of the signs and triggers of trauma
+- Begin to conceptualize a trauma case
+- Use the validation skill outlined in EFFT
+- Develop a preliminary treatment plan and know where to find resources and further specialized training
+
+:::
+
+
 ## Resources
 
-### Topic 1: What is Trauma?
+### Topic 1: What is Trauma? {.unnumbered}
 
 **Videos**
 
@@ -391,7 +421,7 @@ Take notes using the tool below. You can download your notes, please consider th
 
 ---
 
-### Topic 2: Why and how does Trauma happen?
+### Topic 2: Why and how does Trauma happen? {.unnumbered}
 
 **Videos**
 
@@ -409,7 +439,7 @@ Take notes using the tool below. You can download your notes, please consider th
 
 ---
 
-### Topic 3: How do we work with Trauma?
+### Topic 3: How do we work with Trauma? {.unnumbered}
 
 **Videos**
 
@@ -429,20 +459,3 @@ Take notes using the tool below. You can download your notes, please consider th
 - [complextrauma.org | Treatments for Adults - Accelerated Experiential Dynamic Psychotherapy (AEDP)](https://www.complextrauma.org/treatment/complex-trauma-treatments-for-adults/){target="_blank"}
 - [stopabusecampaign.com](https://stopabusecampaign.org/take-your-ace-test/){target="_blank"}
 - [arcframwork.org | What is ARC](https://arcframework.org/what-is-arc/){target="_blank"}
-
-## Summary {.unnumbered}
-
-In this first unit, you have been introduced to a couple of researchers in the field of trauma as well as developed your ability to conceptualize a case that involves trauma. During this unit, we were only able to touch on the surface of the research that has been conducted in this area. We hope that you will leave this workshop with an understanding of where to turn for assistance, what resources you can access, and how to interact with trauma in therapy.
-
-::: {.check}
-
-Before you move on to the next unit, you may want to check that you are able to:
-
-- Demonstrate knowledge of some of the major Trauma researchers
-- Distinguish between emotional abuse, physical abuse, and sexual abuse
-- Identify some of the signs and triggers of trauma
-- Begin to conceptualize a trauma case
-- Use the validation skill outlined in EFFT
-- Develop a preliminary treatment plan and know where to find resources and further specialized training
-
-:::

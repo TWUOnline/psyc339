@@ -35,10 +35,17 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ::: {.learning-activity}
 
-1. Read…
-2. Watch…
-3. Explore…
-4. Complete the ungraded quiz.
+1. Watch: What is grief?
+2. Watch: Kubler-Ross’ 5 Stages of Grief
+3. Read: ‘Experiencing Grief’ by H. Norman Wright
+4. Explore: Additional resources
+5. Read: A Personal Journey through the Grief and Healing Process
+6. Read: “Being Mortal’ Chapter 1: The Independent Self
+7. Read: “Being Mortal’ Chapter 2
+8. Research: Complicated Grief
+9. Read: Generating a Vocabulary of Mourning: Supporting Families Through the Process of Grief
+10. Review: EFFT Chapters 1-2, READ chapter 5
+11. Read: “Walking with God through Pain and Suffering” by Timothy Keller
 
 ::: {.note icon="true"}
 
@@ -64,45 +71,7 @@ When a person endures a loss, they will inevitably experience grief. At some poi
 
 ### Activity: Watch | What is grief?
 
-::: {.learning-activity time="00"}
-
-Julia Samuel talks about what grieving is and what the process is like. Note that she brings up a similar concept to what we read about in previous units: it’s not so much the event surrounding the death, but having to go through the process on our own without community.
-
-<div class="video-container">
-
-{{< video https://www.youtube-nocookie.com/embed/eEsxoO1gVks >}}
-
-</div>
-
-<div class="video-container">
-
-{{< video https://www.youtube-nocookie.com/embed/fNNU-ajnG-s >}}
-
-</div>
-
-**What is it like to be a dying patient?**
-An older video by Elisabeth Kubler-Ross explains what matters most in the end and what it is like to die.
-
-<div class="video-container">
-
-{{< video https://www.youtube-nocookie.com/embed/H6yvJ_MWnJE >}}
-
-</div>
-
-**What Dying looks like:**
-Katherine Mannix explains what the signs we see towards the end of life actually mean. It is really important for you to understand this for your own experience of death, as well as when you are interacting with clients to provide them with some psychoeducation.
-
-<div class="video-container">
-
-{{< video https://www.youtube-nocookie.com/embed/CruBRZh8quc >}}
-
-</div>
-
-:::
-
-### Activity: Watch | What is grief?
-
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Julia Samuel talks about what grieving is and what the process is like. Note that she brings up a similar concept to what we read about in previous units: it’s not so much the event surrounding the death, but having to go through the process on our own without community.
 
@@ -140,7 +109,7 @@ Katherine Mannix explains what the signs we see towards the end of life actually
 
 ### Activity: Watch | Kubler-Ross' 5 Stages of Grief
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 One of the first models in this field was the 5 stages of grief, which we will cover in this section. It is important to acknowledge and learn from our past, even if not everyone uses this model.
 
@@ -182,7 +151,7 @@ Students can access the full text via the EPUB Full Text link on the left. They 
 
 ### Activity: Optional Read | 'Experiencing Grief' by H. Norman Wright
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 In order to complete this optional reading, you will need to purchase the book, "Experiencing Grief" by N.T. Wright. This is not a required text, however the read may be valuable to you if you are interested in working in the area of grief or if you have experienced grief yourself. Again, this is an optional read and the text does not have to be purchased, nor does the reading have to be completed.
 
@@ -215,7 +184,7 @@ Think about Easter, Jesus dying, suffering an excruciating death on the cross. I
 
 ### Activity: Websites exploration
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Please browse the following two websites for additional resources, training and information on grief, both for those who are dying and for those who are grieving.
 
@@ -232,7 +201,7 @@ The purpose of this section is to discuss how grief/loss and death affect us. 'B
 
 ### Activity: Read | A Personal Journey through the Grief and Healing Process
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 - _Blevins, S. (2008). A Personal Journey through the Grief and Healing Process with Virginia Satir, Dr. E. Kubler-Ross, and J. William Worden. Satir Journal, 2(2), 89–105._
 <br>As you read this article, you will have the opportunity to gain an understanding of how grief/loss and death affect us from the point of view of three main clinicians/researchers in this field. There is an online version of this article available through TWU's library.
@@ -254,7 +223,7 @@ The purpose of this section is to discuss how grief/loss and death affect us. 'B
 
 ### Activity: Read | “Being Mortal’ Chapter 1: The Independent Self
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Atul Gwande's book "Being Mortal" is a great resource for you to examine how our views of the elderly have shifted in our culture, starting with the first chapter. It is my hope that you will come back to this reading when you have the time, as the entire book presents important viewpoints on the topic.
 
@@ -275,7 +244,7 @@ Death/dying is not explicitly discussed in Chapter 1, but how we view the elderl
 
 ### Activity: Read | “Being Mortal’ Chapter 2
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 The purpose of this chapter is to describe the various trajectories our lives can take and what will occur to our bodies in these scenarios. Furthermore, this chapter explores the priorities we have in our culture, in particular those related to dying and aging, and how, despite the fact that there are ways to be properly supported in our elder years, we do not prioritize it enough to bring about this change. This chapter is important for us to read as I am hoping it stimulates some thoughts about how we deal with the elderly and ultimately with death; how our avoidance of talking about aging and death may be preventing us from receiving the appropriate care at this time of our lives.
 
@@ -296,7 +265,7 @@ Becoming more comfortable with talking about death is not only beneficial for us
 
 ### Activity: Complicated Grief
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Please search in your browser and review the ICG (Inventory of Complicated Grief). It is recommended that you take the ICG for the experience; however, if you have recently suffered a loss and this activity would trigger too many emotions for you, please feel free to skip it. There is research out there to be read about complicated grief, how it develops and what treatment to use with it, however it will be too much for our unit today to go over it. I encourage you to recall, instead, your readings by H. Norman Wright on “Experiencing Grief” as he writes a little bit about complicated grief towards the end of his book.
 
@@ -322,7 +291,7 @@ _Brown, B. (2021). Atlas of the heart. Vermilion._
 
 ### Activity: Read | Generating a Vocabulary of Mourning: Supporting Families Through the Process of Grief
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 As a result of the premise that bereavement practices can help mitigate the chances of complex grief developing, the following article explores a variety of mourning practices. As well, it is argued that clinicians should receive training in mourning and bereavement practices in order to assist in the treatment of their patients. Additionally, this article emphasizes the importance of understanding the broader system, but also taking into account the unique needs of the individual within the system.
 
@@ -340,7 +309,7 @@ As a result of the premise that bereavement practices can help mitigate the chan
 
 ### Activity: Review | EFFT Chapters 1-2, READ chapter 5
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 In this section, we will revisit how EFFT can be applied in our work with grief, loss, and death. EFFT, along with the ability to validate emotions, offers a way to express those unspeakable moments by providing language and bridging the gap between the prefrontal cortex and the limbic system. The goal of this exercise is to learn how to guide emotional experiences even when words are unavailable. The use of EFFT aligns well with the ideas presented in the preceding article, as the author emphasizes that every individual’s grieving process is unique, influenced by various factors. Therefore, effective validation skills will be crucial throughout this journey.
 
@@ -384,7 +353,7 @@ An alternative to writing out a validation of silence for someone else could be 
 
 ### Activity: Optional Reading | “Walking with God through Pain and Suffering” by Timothy Keller
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 The book written by Timothy Keller is an excellent resource for those interested in learning more about theology of suffering and pain. The only section that pertains to our topic today will be read. Despite the fact that he is primarily discussing pain and suffering, his words are applicable to our discussion on grief, loss, and death, as they are also engulfed in worlds of pain and suffering.
 
@@ -422,25 +391,25 @@ We can apply the concepts from this chapter to all of our units so far as well a
 
 :::
 
-### Activity: Complicated Grief
+## Summary {.unnumbered}
 
-::: {.learning-activity time="00"}
+You have been able to learn about grief and dying from both the perspective of the dying as well as the perspective of those left behind during this third unit. Upon completion of this unit, you will hopefully have a better understanding of how to begin interacting with death, the systemic view of death, dying, and the elderly, as well as the importance of confronting our own fears and hesitations concerning death before we are able to assist our clients. Being the conversation starters of death also places us in a position to be an instrument of change. Creating more of a comfort and vocabulary around death, grieving and loss on a societal level will create huge change on the systemic level. We can be a part of this movement.
 
-Please review the ICG (Inventory of Complicated Grief). It is recommended that you take the ICG for the experience; however, if you have recently suffered a loss and this activity would trigger too many emotions for you, please feel free to skip it. There is research out there to be read about complicated grief, how it develops and what treatment to use with it, however it will be too much for our unit today to go over it. I encourage you to recall, instead, your readings by H. Norman Wright on “Experiencing Grief” as he writes a little bit about complicated grief towards the end of his book.
+::: {.check}
 
-The score is out of 76 for the ICG and a score of 25 or greater is a person at high risk for requiring clinical care.
+Before you move on to the next unit, you may want to check that you are able to:
 
-**Recommended Resource**
-
-Mary Frances O’Connor has done a lot of research in the field of grief, relating it to biology. If you are interested in reading some of her articles, and specifically her articles on complicated grief, I will provide her website for you to peruse. This is added reading however, and does not need to be completed for this unit.
-
-[maryfrancesoconnor.com](https://www.maryfrancesoconnor.com/research/#block-yui_3_17_2_1_1625438886334_6091){target="_blank"}
+- Identify and discuss some of the major authors in the field of addiction
+- Interpret the phrase, “Not why the addiction, but why the pain?”
+- Conceptualize an addictions case
+- Practice the skill of validation as outlined in EFFT
+- Develop a preliminary treatment plan and know where to find resources and further specialized training
 
 :::
 
 ## Unit 3 Resources
 
-### Topic 1: What is Grief?
+### Topic 1: What is Grief? {.unnumbered}
 
 **Videos**
 
@@ -462,7 +431,7 @@ Mary Frances O’Connor has done a lot of research in the field of grief, relati
 
 ---
 
-### Topic 2: How Does Grief/Loss and Death Affect Us?
+### Topic 2: How Does Grief/Loss and Death Affect Us? {.unnumbered}
 
 **Videos**
 
@@ -480,7 +449,7 @@ Mary Frances O’Connor has done a lot of research in the field of grief, relati
 
 ---
 
-### Topic 3: How Do We Work With It?
+### Topic 3: How Do We Work With It? {.unnumbered}
 
 **Videos**
 
@@ -499,19 +468,3 @@ Mary Frances O’Connor has done a lot of research in the field of grief, relati
 - [complextrauma.org | Treatments for Adults - Accelerated Experiential Dynamic Psychotherapy (AEDP)](https://www.complextrauma.org/treatment/complex-trauma-treatments-for-adults/){target="_blank"}
 - [stopabusecampaign.com](https://stopabusecampaign.org/take-your-ace-test/){target="_blank"}
 - [arcframwork.org | What is ARC](https://arcframework.org/what-is-arc/){target="_blank"}
-
-## Summary {.unnumbered}
-
-You have been able to learn about grief and dying from both the perspective of the dying as well as the perspective of those left behind during this third unit. Upon completion of this unit, you will hopefully have a better understanding of how to begin interacting with death, the systemic view of death, dying, and the elderly, as well as the importance of confronting our own fears and hesitations concerning death before we are able to assist our clients. Being the conversation starters of death also places us in a position to be an instrument of change. Creating more of a comfort and vocabulary around death, grieving and loss on a societal level will create huge change on the systemic level. We can be a part of this movement.
-
-::: {.check}
-
-Before you move on to the next unit, you may want to check that you are able to:
-
-- Identify and discuss some of the major authors in the field of addiction
-- Interpret the phrase, “Not why the addiction, but why the pain?”
-- Conceptualize an addictions case
-- Practice the skill of validation as outlined in EFFT
-- Develop a preliminary treatment plan and know where to find resources and further specialized training
-
-:::

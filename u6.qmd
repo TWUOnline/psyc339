@@ -27,10 +27,24 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ::: {.learning-activity}
 
-1. Read…
-2. Watch…
-3. Explore…
-4. Complete the ungraded quiz.
+1. Watch: “Introduction” Clip
+2. Read and Watch: “Levels of Explanation” Clip
+3. Watch: “An Integration View”
+4. Read: Counselling and Christianity pg. 149-178 - PDF
+5. Read: Chapter 6 p. 149-178
+6. Read: Counselling and Christianity pg. 27-29 - PDF
+7. Watch: “A Transformational Psychology View
+8. Read: Counselling and Christianity pg. 29-31 - PDF
+9. Watch: “A Biblical Counselling Approach” Clip
+10. Read: Counselling and Christianity pg. 32-34 - PDF
+11. Reflect: Faith in your work place
+12. Read: Counselling and Christianity pg. 60-64 & 72-74 & 81 - PDF
+13. Read: An Integration View - p. 84-90 & 95-99 & 107-108
+14. Read: A Christian Psychology Approach p. 110-113 &129-130
+15. Read: A Transformational Approach p. 135, 140-142, 144 & 154
+16. Read: A Biblical Counselling Approach p. 157-162 & 181
+17. Read: Summary PDF: p. 187-191
+18. Optional Case Study
 
 ::: {.note icon="true"}
 
@@ -56,9 +70,9 @@ We will be unpacking the five views of approaching faith and counselling that ha
 
 In the following learning activities, you will learn more about the five approaches to integration; ‘A Levels of Explanation View’, ‘An integration view’, ‘A Christian Psychology View',’ A Transformational Psychology View’, and ‘A Biblical Counselling Approach’. Although I encourage you to read Eric L Johnson’s book, for the sake of time we will not be going through it. We will be using and benefiting from City Vision University’s series of free lectures that unpack these five views for us. Pay attention to where you need to start and end in the youtube clips as you do not need to listen to the whole presentation. The lectures are provided by the president of the City Vision University, Andrew Sears, PhD. City Vision University is an online accredited program located in Kansas City. Consider which view resonates most with you as we walk through each of the views. We will discuss how each of the views appears in the therapy room in our next topic.
 
-### Activity: Watch “Introduction” Clip
+### Activity: Watch | “Introduction” Clip
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Watch the following YouTube clips to help introduce us to this discussion. We will cover some of the practical reasons why it is important to cover these different approaches and why it is important to start formulating our own ideas around this.
 
@@ -98,9 +112,9 @@ After completing the activities above, consider the following questions:
 
 :::
 
-### Activity: Read | Watch “Levels of Explanation” Clip
+### Activity: Read & Watch | “Levels of Explanation” Clip
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 - [Lesson 2: Levels of Explanation & Christian Counselors in Secular Contexts](https://www.youtube.com/watch?v=57HiA2kwQTA){target="_blank"} (City Vision University)
 Start: 1:51-6:20 & 18:50-end
@@ -129,9 +143,9 @@ The repetition here will assist us in better understanding this approach. Feel f
 
 :::
 
-### Activity: Watch “An Integration View”
+### Activity: Watch | “An Integration View”
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 - [Lesson 3: Counseling Integration Model and Christian Worldview](https://www.youtube.com/watch?v=4Xj9FezdpXY){target="_blank"} (City Vision University)
 Start to 10:56
@@ -160,7 +174,7 @@ This view calls strong integrationists to really study the word, study christian
 
 ### Activity: Read | Counselling and Christianity pg. 149-178 - PDF
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 In order to fully understand this approach, we will be using repetition. Feel free to skip this reading if you have a thorough understanding of the perspective from the previous readings. You may take notes on the following section in Counselling and Christianity for a succinct summary of this approach. This very brief description will be expanded upon in the reading.
 
@@ -170,7 +184,7 @@ In order to fully understand this approach, we will be using repetition. Feel fr
 
 ### Activity: Read | Chapter 6 p. 149-178
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 **“A Christian Psychology View”**
 The following is a short summary of what 'A Christian Psychology View' is. This will hopefully assist you in guiding your reading along with the 'questions to consider'.
@@ -200,7 +214,7 @@ After completing the activities above, consider the following questions:
 
 ### Activity: Read | Counselling and Christianity pg. 27-29 - PDF
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 We will be using repetition here to really help us understand this approach. If you feel like you have a good understanding of the view from the clip, feel free to skip this reading. Read the following section in Counselling and Christianity for a succinct summary of this approach ; you may take notes on this section if you would like to.
 
@@ -208,9 +222,9 @@ We will be using repetition here to really help us understand this approach. If 
 
 :::
 
-### Activity: Watch “A Transformational Psychology View
+### Activity: Watch | “A Transformational Psychology View
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 <div class="video-container">
 
@@ -251,7 +265,7 @@ can see how John Coe talks about transformational psychology particularly around
 
 ### Activity: Read | Counselling and Christianity pg. 29-31 - PDF
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 - [Counselling_And_Christianity_Pg.29-31](assets/u6/Counselling_And_Christianity_Pg.29-31.pdf){target="_blank"}
 
@@ -261,7 +275,7 @@ We will be using repetition here to really help us understand this approach. If 
 
 ### Activity: Watch | “A Biblical Counselling Approach” Clip
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 <div class="video-container">
 
@@ -305,7 +319,7 @@ After completing the activities above, consider the following questions:
 
 ### Activity: Read | Counselling and Christianity pg. 32-34 - PDF
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 - [Counselling_And_Christanity_Pg.32-34](assets/u6/Counselling_And_Christianity_Pg.32-34.pdf){target="_blank"}
   
@@ -315,7 +329,7 @@ We will be using repetition here to really help us understand this approach. If 
 
 ### Activity: Reflect
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Take a moment to write down in paragraph or point form some of your reactions to what you have read. Apply it to your practice.
 
@@ -334,7 +348,7 @@ It is important to note before we begin that regardless of the integration appro
 
 ### Activity: Read | Counselling and Christianity pg. 60-64 & 72-74 & 81 - PDF
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Please refer to the pdf provided for an example of how the 'Levels of Explanation View' would look in a therapy room. It can be difficult to determine how each of the five approaches will affect the way we work, which is why the book Counselling and Christianity: Five Approaches addresses this issue. By providing these examples, it is hoped that the knowledge will be better integrated into practice.
 
@@ -353,7 +367,7 @@ After the reading, consider the following questions:
 
 ### Activity: Read | An Integration View - p. 84-90 & 95-99 & 107-108
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Take a look at the pdf provided to see how an "Integration View" would appear in the therapy room. It is sometimes difficult to imagine how each of the five approaches would affect the way we work, and this is precisely why Counselling and Christianity: Five Approaches was written. Hopefully, these examples will help solidify how the knowledge is applied.   
 
@@ -372,7 +386,7 @@ After the reading, consider the following questions:
 
 ### Activity: Read | A Christian Psychology Approach p. 110-113 &129-130
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 See how a "Christian Psychology Approach" would manifest in the therapy room by reading the pdf provided. It can be challenging to recognize how each of the five approaches would impact the way in which we work, and this is precisely why the book Counselling and Christianity: Five Approaches was written. It is hoped that these concrete examples will help solidify how knowledge is applied in practice.  
 
@@ -392,7 +406,7 @@ After the reading, consider the following questions:
 
 ### Activity: Read | A Transformational Approach p. 135, 140-142, 144 & 154
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 In the following section, the author does not provide a clear cut way of discussing the implications for the therapy room. As a result, he grapples with the parts that he feels have been overlooked and presents his nuanced interpretation. The intention of this section is to provide you with as much information as possible about the Transformational approach as we have been reading about it.
 
@@ -415,7 +429,7 @@ After the reading, consider the following questions:
 
 ### Activity: Read |  A Biblical Counselling Approach p. 157-162 & 181
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Take a look at the pdf file provided to see how the "Biblical Counselling Approach" will play out in a therapy session. It is difficult to see how each of the five approaches would influence how we work, and this is precisely the purpose of Counselling and Christianity: Five Approaches. It is hoped that these tangible examples will assist in solidifying how the knowledge is applied in practice.
 
@@ -438,7 +452,7 @@ After the reading, consider the following questions:
 
 ### Activity: Read | Summary PDF: p. 187-191
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 This unit contains a lot of repetition, so if you have difficulty understanding the differences between the 5 approaches, please refer to the summary PDF file available in Unit 6 resources.
 
@@ -457,7 +471,7 @@ In this unit and for this section, the goal is to define your values, beliefs, a
 
 ### Activity: Optional Case Study
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Please select the viewpoint/approach that you feel most comfortable with and most drawn to for this activity. After reading the following case study, write down how you would begin to approach it. Please consider the following questions:
 
@@ -478,9 +492,24 @@ _Sandra’s presentation flows steadily with restrained emotion until the therap
 
 :::
 
+## Summary {.unnumbered}
+
+You have learned about five views of integration and have begun thinking about what integration might look like for you in this sixth unit. In addition, it should be noted that you are not obligated to choose one of the views and follow it in your own journey or practice. In processing and interacting with these views, the goal is to begin your own journey of thinking about integration. This will enable you to establish a belief system regarding health and wellness. To reiterate, it is not expected that you will have all these views memorized or know what distinguishes them from each other. Instead, we will begin an internal and external dialog around this topic.  
+
+::: {.check}
+
+Before you move on to the next unit, you may want to check that you are able to:
+
+- Compare and contrast the 5 approaches to counseling and faith
+- Discover and determine which approach best suits each student
+- Understand the parameters of talking about faith and spirituality in the counseling room
+- Discuss one's own faith journey and how it relates to their future profession
+
+:::
+
 ## Unit 6 Resources
 
-### Topic 1: What is each view/approach to integration?
+### Topic 1: What is each view/approach to integration? {.unnumbered}
 
 **Videos**
 
@@ -503,7 +532,7 @@ _Sandra’s presentation flows steadily with restrained emotion until the therap
 
 - There are no websites to visit for this topic.
 
-### Topic 2: Clinical Implications
+### Topic 2: Clinical Implications {.unnumbered}
 
 **Videos**
 
@@ -513,21 +542,6 @@ _Sandra’s presentation flows steadily with restrained emotion until the therap
 
 - [Greggo, S., & Sisemore, T. (2012). Counselling and Christianity: 5 Approaches. Intervarsity Press.](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=579536&site=eds-live&scope=site&ebv=EB&ppid=pp_Cover){target="_blank"}
 
-### Topic 3: Application
+### Topic 3: Application {.unnumbered}
 
 - There are no recommended resources for Topic 3
-
-## Summary {.unnumbered}
-
-You have learned about five views of integration and have begun thinking about what integration might look like for you in this sixth unit. In addition, it should be noted that you are not obligated to choose one of the views and follow it in your own journey or practice. In processing and interacting with these views, the goal is to begin your own journey of thinking about integration. This will enable you to establish a belief system regarding health and wellness. To reiterate, it is not expected that you will have all these views memorized or know what distinguishes them from each other. Instead, we will begin an internal and external dialog around this topic.  
-
-::: {.check}
-
-Before you move on to the next unit, you may want to check that you are able to:
-
-- Compare and contrast the 5 approaches to counseling and faith
-- Discover and determine which approach best suits each student
-- Understand the parameters of talking about faith and spirituality in the counseling room
-- Discuss one's own faith journey and how it relates to their future profession
-
-:::

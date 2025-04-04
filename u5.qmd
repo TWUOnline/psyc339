@@ -30,10 +30,17 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ::: {.learning-activity}
 
-1. Read…
-2. Watch…
-3. Explore…
-4. Complete the ungraded quiz.
+1. Watch and Read: The “Fathers of Stress and Resilience”
+2. Read: The Meaning of Stress - Chapter 1 - PDF
+3. Reflect: Stress
+4. Watch: What is resilience?
+5. Watch: Daniel Siegel Clips - Empathy and Resilience
+6. Read: Stress Management and Prevention - Chapter 2
+7. Watch: An Illustration
+8. Read: Gordon Neufeld Institute
+9. Watch: The Power of Vulnerability - Brené Brown
+10. Watch: Dan Siegel on Neurobiology & Resilience
+11. Read: Case Study
 
 ::: {.note icon="true"}
 
@@ -61,7 +68,7 @@ In the same manner as in previous units, I would like to acknowledge and hear fr
 
 ### Activity: Video and Reading | The "Fathers of Stress and Resilience"
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 **Dr. Hans Seyle**
 
@@ -108,7 +115,7 @@ After reading the chapter, consider the following questions and use them as a to
 
 ### Activity: Reading | The Meaning of Stress - Chapter 1 - PDF
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 To begin our conversation on stress and its meaning, please read the pdf file that you can find here.
 
@@ -138,7 +145,7 @@ After the reading, consider the following questions and use them as a tool to he
 
 ### Activity: Optional Reflection | Stress
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Consider the following questions and use the tool to save your notes. It is important to note that closing this active browser will not save your responses, so you will need to save/download your document before closing it. The file can be downloaded and worked on on your computer or device.
 
@@ -148,7 +155,7 @@ Consider the following questions and use the tool to save your notes. It is impo
 
 ### Activity: Video | What is resilience?
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Different perspectives and points of view can be taken into account when discussing resilience. For an overview/introduction to resilience, watch the following YouTube video. Please consider that this video is 2.29 minutes long.  
 
@@ -162,7 +169,7 @@ Different perspectives and points of view can be taken into account when discuss
 
 ### Activity: Videos | Daniel Siegel Clips - Empathy and Resilience
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 The researcher Daniel Siegel is well known for his theory of interpersonal neurobiology, which explains how the brain, mind, and body are interconnected. Throughout his speech, he emphasizes the importance of resilience. As opposed to reading some of his books and articles, we will view some of his YouTube talks.
 
@@ -210,7 +217,7 @@ The purpose of this section is to discuss how and why stress occurs, and how we 
 
 ### Activity: Read | Stress Management and Prevention - Chapter 2
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 In this chapter, we will examine how stress manifests in the body and how our body responds to stress. We should note that this is a continuation or a parallel from our previous learning about trauma. You are not expected to memorize all of the details or remember all of the parts of the body. This article is intended to give you a general understanding of how stress affects the body and how it can manifest itself.
 
@@ -238,7 +245,7 @@ Consider the following questions and use them as tools to help you process the i
 
 ### Activity: Video | An Illustration
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 This clip with Dr. Gabor Maté on *The Connection Between Stress and Disease* illustrates how the body and the brain are connected and how stress manifests itself in the body. For the sake of time, let's watch this clip to get an idea of the book's content.
 
@@ -256,7 +263,7 @@ After the video, consider the following questions to help guide your learning.
 
 ### Activity: Read | Gordon Neufeld Institute
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 You may find the following article on Gordon Neufeld's website, the Neufeld Institute, helpful in understanding how resilience develops and how it can be fostered. The work of Gordon Neufeld in the area of parenting and family work has made him an internationally recognized researcher.
 
@@ -279,9 +286,9 @@ Being resilient means overcoming setbacks and challenges, such as losing a job, 
 
 This is another opportunity for us to continue learning from EFFT. The goal is for you to have a reasonably good understanding of what validation entails by now. During this session, we will develop a validation statement and add a behaviour coaching component.
 
-### Activity: Optional Watch | The Power of Vulnerability - Brené Brown
+### Activity: Optional Video | The Power of Vulnerability - Brené Brown
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Brown has spent the past two decades studying courage, vulnerability, shame, and empathy at the University of Texas at Austin McCombs School of Business. Five of her books are New York Times bestsellers.
 
@@ -305,7 +312,7 @@ After the video, consider the following question and use it to help you process 
 
 ### Activity: Watch | Dan Siegel on Neurobiology & Resilience
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 This short clip by Daniel Siegel discusses how to build resilience and connection by focusing not only on the individual, but on the collective "we."
 
@@ -319,7 +326,7 @@ This short clip by Daniel Siegel discusses how to build resilience and connectio
 
 ### Activity: Case Study
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Please refer back to the EFFT manual if you need any reminders on emotion coaching or behavior coaching.
 
@@ -337,9 +344,27 @@ Read the following Case Study and then spend some time creating a validation sta
 
 :::
 
+## Summary {.unnumbered}
+
+In Unit 5, you have learned about Stress and Resilience. It is so important that we understand how prolonged stress can affect our bodies and how urgent it is to take action. The fact that we can build up our resilience tangibly should also encourage you. In the beginning, it is easier to do it when we are young, but it is also possible to do when we are older. Fortunately, the brain is very malleable and can still be taught and learned.
+
+::: {.check}
+
+Before you move on to the next unit, you may want to check that you are able to:
+
+- Identify some of the major researchers in the field of resilience and stress
+- Demonstrate and practice what wellness and thriving could look like
+- Describe what the brain looks like under stress and how resilience is built
+- Conceptualize a case dealing with stress and resilience
+- Practice the skill of validation as outlined in EFFT
+- Develop a preliminary treatment plan and know where to find resources and further specialized training
+
+:::
+
+
 ## Unit 5 Resources
 
-### Topic 1: Stress and Resilience
+### Topic 1: Stress and Resilience {.unnumbered}
 
 **Videos**
 
@@ -357,7 +382,7 @@ Read the following Case Study and then spend some time creating a validation sta
 
 - There are no websites to visit for this topic.
 
-### Topic 2: Stress and Resilience
+### Topic 2: Stress and Resilience {.unnumbered}
 
 **Videos**
 
@@ -371,7 +396,7 @@ Read the following Case Study and then spend some time creating a validation sta
 
 - [Resilience: Embracing the Emotional Journey](https://neufeldinstitute.org/resilience-embracing-the-emotional-journey/){target="_blank"}
 
-### Topic 3: Strategies for dealing with stress and resilience
+### Topic 3: Strategies for dealing with stress and resilience {.unnumbered}
 
 **Videos**
 
@@ -385,20 +410,3 @@ Read the following Case Study and then spend some time creating a validation sta
 **Websites**
 
 - There are no websites to visit for this topic.
-
-## Summary {.unnumbered}
-
-In Unit 5, you have learned about Stress and Resilience. It is so important that we understand how prolonged stress can affect our bodies and how urgent it is to take action. The fact that we can build up our resilience tangibly should also encourage you. In the beginning, it is easier to do it when we are young, but it is also possible to do when we are older. Fortunately, the brain is very malleable and can still be taught and learned.
-
-::: {.check}
-
-Before you move on to the next unit, you may want to check that you are able to:
-
-- Identify some of the major researchers in the field of resilience and stress
-- Demonstrate and practice what wellness and thriving could look like
-- Describe what the brain looks like under stress and how resilience is built
-- Conceptualize a case dealing with stress and resilience
-- Practice the skill of validation as outlined in EFFT
-- Develop a preliminary treatment plan and know where to find resources and further specialized training
-
-:::

@@ -28,10 +28,24 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ::: {.learning-activity}
 
-1. Read…
-2. Watch…
-3. Explore…
-4. Complete the ungraded quiz.
+1. Watch: Neuroscience of Depression
+2. Read: “I don’t want to talk about it” - pdf
+3. Read: Look over the PHQ-9
+4. Watch & Read: Shneidman
+5. Read: Suicide Clusters
+6. Watch: What is an eating disorder?
+7. Read: Emotional eating
+8. Read: “I don’t want to talk about it…” Chapter 4
+9. Read: Bible - Psalm 88
+10. Watch: Suicide and the brain
+11. Read: Risk Factors for Depression and Suicide Ideation
+12. Watch: Eating Disorders and the Brain
+13. Read: Eating Disorders and Generational influences
+14. Read: Eating Disorders and Caregiver Involvement
+15. Explore: Community Resources
+16. Practice: Emotion Coaching/Behavior Coaching
+17. Understand: EFFT and Suicidality
+18. Understand: EFFT and Eating Disorders
 
 ::: {.note icon="true"}
 
@@ -59,7 +73,7 @@ In our EFFT text, we have been learning that mental health issues are caused by 
 It may seem that the first two topics are disjointed from the previous topics, but the purpose is to pique your interest and introduce you to the researchers and clinicians in this field.
 Throughout this unit, I encourage you to draw upon and incorporate what you have learned from the previous units, particularly about the brain and how it interacts with these issues.
 
-#### Depression
+### Depression {.unnumbered}
 
 The medical term depression (major depressive disorder) refers to a serious, common psychological illness that negatively affects your feelings, your thoughts, and your actions. An individual suffering from depression may experience sadness and/or a loss of interest in activities they previously enjoyed. Depression may also make it difficult for an individual to perform their duties at work or at home. There may be a variety of emotional and physical problems associated with it.
 
@@ -67,7 +81,7 @@ There is a wide range of symptoms associated with depression, ranging from mild 
 
 ### Activity: Video | Neuroscience of Depression
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 I invite you to watch the following YouTube clip to introduce yourself to the different hypothesis out there that are linking brain activity to the development and maintenance of depression.
 
@@ -96,7 +110,7 @@ I invite you to watch the following YouTube clip to introduce yourself to the di
 
 ### Activity: Read | “I don’t want to talk about it” - pdf
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 In his work as a psychotherapist, Terry Real has made a significant contribution to the discussion and advocacy of male depression. The publication of his book "I don't want to talk about it" created a significant wave in the field of psychology, and he has been presenting on the subject ever since. The author of this book incorporates his own narrative and his own journey through depression into the book. The teaser will only be a brief excerpt, and you are encouraged to read the whole book.
 
@@ -129,7 +143,7 @@ Please view the following video clip, not for information regarding psychotherap
 
 ### Activity: Look over the PHQ-9
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Take a moment to read the patient health questionnaire that is used to assess depression in patients. This is one of many scales available.
 
@@ -137,7 +151,7 @@ Take a moment to read the patient health questionnaire that is used to assess de
 
 :::
 
-#### Suicidality
+### Suicidality {.unnumbered}
 
 Suicidality includes suicide attempts as well as suicidal ideation. A suicidal ideation is the presence of suicidal thoughts. A person may experience suicidal ideation in a variety of ways, from fleeting and unwelcome thoughts to a preoccupation with death that requires extensive planning.
 
@@ -145,7 +159,7 @@ In this section, you will read older sources, which provide a very good explanat
 
 ### Activity: Watch & Read | Shneidman
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Edwin Shneidman is known as the “Father of Suicide” and has used the term ‘psychache’ to describe the psychological pain that underlies suicidal acts. Take note in this article of both his name and the reference to his coined term ‘psychache’ as it is one of our goals throughout this course to refer to some of the original researchers.
 
@@ -179,7 +193,7 @@ Read [Shnediman’s *Contributions to the Understanding of Suicidal Thinking*](a
 
 ### Activity 4.6: Read | Suicide Clusters
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Read the following research article about suicide clusters.
 
@@ -210,13 +224,13 @@ After the reading, consider the following questions to help guide your learning.
 
 :::
 
-#### Eating Disorders
+### Eating Disorders {.unnumbered}
 
 An eating disorder is a behavioral condition characterized by persistent and severe disturbances of eating behaviors, as well as distressing thoughts and emotions. Physical, psychological, and social functioning can all be affected by these conditions. In addition to anorexia nervosa, bulimia nervosa, binge eating disorder, avoidant restriction of food intake disorder, and pica and rumination disorders, there are several other eating disorders.
 
 ### Activity: Watch | What is an eating disorder?
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 A leading researcher in the field of eating disorders, Cynthia Bulik, gives an overview of what eating disorders are and how common they are.
 
@@ -240,7 +254,7 @@ After watching the video, consider the following questions to help you track you
 
 ### Activity: Optional Read | Emotional eating
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Janet Treasure is a well-known therapist and professor in the field of eating disorders in England. A number of her papers have been published and she has also focused on the role of the family in the healing process. Her animal models appear in our manual on EFFT.
 
@@ -265,13 +279,13 @@ The aim of this discussion is to explore some of the potential causes of mental 
 
 We will discuss some of the research behind why these mental health issues occur in this section. As we continue our study of the brain, draw upon the knowledge you have gained from your previous units. The topic of depression will be discussed first, followed by suicidality and then eating disorders.
 
-#### Depression
+### Depression {.unnumbered}
 
 While depressive disorders are often labelled as chemical imbalances, this oversimplifies their complexity. Research shows that depression isn’t simply caused by a lack or excess of certain brain chemicals. Factors like faulty mood regulation, genetic vulnerability, and stressful life events all contribute, often interacting with one another. Individuals with similar symptoms of depression may have entirely different underlying causes and respond to different treatment approaches.
 
 ### Activity: Read | “I don’t want to talk about it…” Chapter 4
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Terry Real's book provides insight into how and why depression develops. This chapter will focus on the relationship between trauma and depression, which we discussed extensively in our first unit.
 
@@ -294,7 +308,7 @@ After the reading, consider the following questions and use them as a tool to he
 
 ### Activity: Optional Read | Bible - Psalm 88
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Take a look at [Psalm 88](https://www.biblegateway.com/passage/?search=Psalm%2088&version=NIV){target="_blank"}, one of the darkest psalms in the Bible.
 
@@ -305,13 +319,13 @@ Take a look at [Psalm 88](https://www.biblegateway.com/passage/?search=Psalm%208
 
 :::
 
-#### Suicide
+### Suicide {.unnumbered}
 
 Suicide ideation is a very prevalent issue in our society. For those who have never experienced suicide ideation, or being close to that moment of contemplation, it can be difficult to imagine the reasoning behind why this can occur. We will explore in this next section why suicide ideation might occur and why the ideation can lead to dying by suicide. As with our previous units, we will spend time looking at the brain and what brain activity occurs when suicide ideation is present.
 
 ### Activity: Video | Suicide and the brain
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Dr. Amen is a prominent researcher who studies the brain in relation to mental health problems; we have previously discussed some of his work.
 
@@ -336,7 +350,7 @@ After the video, consider the following questions and use them as a tool to help
 
 ### Activity: Read | Risk Factors for Depression and Suicide Ideation
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 In this activity, you will read two articles and reflect on their respective questions. The second article is an optional read. In the first article, you will learn about the risk factors associated with adolescents with complex depression.
 
@@ -375,13 +389,13 @@ After the reading, consider the following questions and use them as a tool to he
 
 :::
 
-#### Eating Disorders
+### Eating Disorders {.unnumbered}
 
 In eating disorders, the exact cause is unknown. As previously discussed, there are many possible causes of mental illness.  Psychological, environmental, and social factors may contribute to the development of eating disorders in some individuals due to their genes and relational issues.
 
 ### Activity: Video |  Eating Disorders and the Brain
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 In this clip, you will learn how eating disorders affect the brain and what the difference between a well-functioning brain and a brain affected by an eating disorder is.
 
@@ -401,7 +415,7 @@ After watching the video, consider the following question and use them as a tool
 
 ### Activity: Read |  Eating Disorders and Generational influences
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 As part of the EFFT curriculum, we are taught that families have a profound impact on treatment outcomes. In order to illustrate this point, I selected the following article.
 
@@ -419,7 +433,7 @@ Brun, I., Russell-Mayhew, S., & Mudry, T. (2021). Last Word: Ending the intergen
 
 ### Activity: Optional Read | Eating Disorders and Caregiver Involvement
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 There is an important study done related to eating disorders and EFFT intervention in this research article. It is likely that by this point you will recognize some of the researchers' names and have some understanding of some of the concepts they are discussing.
 
@@ -448,7 +462,7 @@ EFFT was developed as a result of studies conducted with people who suffer from 
 
 ### Activity: Explore | Community Resources
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 Do you have access to any resources in the area where you work? When a crisis arises, how can you help? The following are just a few options available; we recommend exploring more.
 
@@ -474,7 +488,7 @@ Do you have access to any resources in the area where you work? When a crisis ar
 
 ### Activity: Practice | Emotion Coaching/Behavior Coaching
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 In this section, we will practice our skills of Emotion Coaching and Behavior Coaching. While this may seem repetitive, the more you practice, the easier it will become. The EFFT manual contains suggestions for behavior coaching strategies for depression, as well as what depression requires in terms of emotional support. As an example, consider a scenario in which a parent seeks your assistance with their child who is suffering from depression. You will assist the parent in developing a script that they can use at home with their children.
 
@@ -486,7 +500,7 @@ In this section, we will practice our skills of Emotion Coaching and Behavior Co
 
 ### Activity: EFFT and Suicidality
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 In order to conduct a preliminary assessment, it is extremely important to understand the signs of possible suicidal behavior. In accordance with the literature, the risk assessment should not be regarded as an absolute. Continual monitoring and assessment are essential, especially at the beginning of your career. One of the exceptions to confidentiality, if you have not yet taken SOCI 400, is when there is a risk of harm to oneself or another. Whenever you suspect that your client's life is in danger, you must report it to the appropriate authorities.
 
@@ -498,13 +512,14 @@ This validation statement will not be accompanied by an actual scenario. Imagine
 
 _Note: Download the file when you fill the tool below. Remember that if you close your browser, the work done will be lost._
 
-[h5p id="484"]
+<!-- [h5p id="484"] -->
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=484" width="853" height="252" frameborder="0" allowfullscreen="allowfullscreen" title="EFFT and Suicidality"></iframe></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 :::
 
 ### Activity: EFFT and Eating Disorders
 
-::: {.learning-activity time="00"}
+::: {.learning-activity}
 
 It has been shown in the literature that parental body image (in particular, a mother's) and eating habits can be associated with the manifestation of an eating disorder in their loved one. Note that this is a correlation and not a causation. This is important for relieving caregiver self blame and to then empower a caregiver/parent to become a part of the healing process. There is evidence to support the benefits of caregiver involvement in the literature we have been reading.
 
@@ -512,13 +527,30 @@ If a caregiver has struggled or continues to struggle with an eating disorder or
 
 Download the file when you fill the tool below. Remember that if you close your browser, the work done will be lost.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=485" width="853" height="252" frameborder="0" allowfullscreen="allowfullscreen" title="EFFT and Eating Disorders"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=485" width="853" height="252" frameborder="0" allowfullscreen="allowfullscreen" title="EFFT and Eating Disorders"></iframe>
 
 :::
 
+## Summary {.unnumbered}
+
+You have learned about three different major mental health issues in this fourth unit, depression, suicidality, and eating disorders. As part of this unit, you have learned what a mental health issue is, why it occurs, and how it can be dealt with considering the resources available. Additionally, you have practiced with case scenarios. Having acquired a broad understanding of each mental health issue, you will be prepared to begin validating these very difficult conditions. In the event that you were triggered or stirred up in any way by this unit's discussions, I encourage you to take care of yourself and seek out someone to talk to as well as implement any other grounding techniques you find helpful.
+
+::: {.check}
+
+Before you move on to the next unit, you may want to check that you are able to:
+
+- Demonstrate knowledge of some of the major researchers in the field of mental health
+- Engage in conversations about suicidality, eating disorders, and self-harm
+- Start conceptualizing mental health crisis cases
+- Practice the skill of validation as outlined in EFFT
+- Develop a preliminary treatment plan and know where to find resources and further specialized training
+
+:::
+
+
 ## Unit 4 Resources
 
-### Topic 1: What is Depression, Suicidality and Eating Disorders?
+### Topic 1: What is Depression, Suicidality and Eating Disorders? {.unnumbered}
 
 **Videos**
 
@@ -540,7 +572,7 @@ Download the file when you fill the tool below. Remember that if you close your 
 - [depression_patient_health_questionnaire.pdf | Patient Health Questionnaire (PHQ-9)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/depression_patient_health_questionnaire.pdf){target="_blank"}
 - [https://www.cambridge.org](https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/novel-approaches-to-tackling-emotional-loss-of-control-of-eating-across-the-weight-spectrum/320DBB5D71D83A6C8597BEFAE7BAAEA9){target="_blank"}
 
-### Topic 2: What Causes It?
+### Topic 2: What Causes It? {.unnumbered}
 
 **Videos**
 
@@ -559,7 +591,7 @@ Download the file when you fill the tool below. Remember that if you close your 
 
 - There are no websites to review for this topic.
 
-### Topic 3: How We Work with It
+### Topic 3: How We Work with It {.unnumbered}
 
 **Videos**
 
@@ -577,19 +609,3 @@ Download the file when you fill the tool below. Remember that if you close your 
 - [National Eating Disorder Information Centre](https://nedic.ca/){target="_blank"}
 - [Foundry](https://foundrybc.ca/youmatter/?gclid=CjwKCAjwq5-WBhB7EiwAl-HEkk2herv2QF8l8z0Q5Afj8zb5XwY9G_3MzgcweKhJ5aUTuDU7vupErBoCNWcQAvD_BwE){target="_blank"}
 - [eMental Health](https://www.ementalhealth.ca/){target="_blank"}
-
-## Summary {.unnumbered}
-
-You have learned about three different major mental health issues in this fourth unit, depression, suicidality, and eating disorders. As part of this unit, you have learned what a mental health issue is, why it occurs, and how it can be dealt with considering the resources available. Additionally, you have practiced with case scenarios. Having acquired a broad understanding of each mental health issue, you will be prepared to begin validating these very difficult conditions. In the event that you were triggered or stirred up in any way by this unit's discussions, I encourage you to take care of yourself and seek out someone to talk to as well as implement any other grounding techniques you find helpful.
-
-::: {.check}
-
-Before you move on to the next unit, you may want to check that you are able to:
-
-- Demonstrate knowledge of some of the major researchers in the field of mental health
-- Engage in conversations about suicidality, eating disorders, and self-harm
-- Start conceptualizing mental health crisis cases
-- Practice the skill of validation as outlined in EFFT
-- Develop a preliminary treatment plan and know where to find resources and further specialized training
-
-:::
