@@ -22,6 +22,11 @@ book:
     - u4.qmd
     - u5.qmd
     - u6.qmd
+    - course_assessment.qmd
+    - assignment1.qmd
+    - assignment2.qmd
+    - assignment3.qmd
+    - assignment4.qmd
 
 #    - cheatsheet.qmd
 # Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.    
@@ -73,7 +78,7 @@ format:
 
 # Format - Doc
   docx:
-    toc: false
+    toc: true
     number-sections: true
     highlight-style: github
   #   cite-method: biblatex
