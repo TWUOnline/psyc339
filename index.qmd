@@ -1,36 +1,70 @@
 # Welcome {.unnumbered}
 
-This is the course book for **PYSC 339: *Mental Health and Adjustment***. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
+This is the course book for **PYSC 339: Mental Health and Adjustment**. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
 
-::: {.note icon="true"}
+Please read the full **Course Syllabus** located on the Course Home page in Moodle. It includes key information about the course schedule, assignments, and policies.
 
-Please read the full course syllabus located on the Course Home page in Moodle. It includes key information about the course schedule, assignments, and policies. 
+# Course Learning Outcomes
 
-:::
+After successfully completing the course, you will be able to:
 
-## Course Activities {.unnumbered}
+1. Have a preliminary understanding of how to work with emotional and physical trauma and be able to articulate the effect trauma has on the brain.
+2. Interact with addictions through a grounded and compassionate lens.
+3. Discuss grief and loss on a personal level and a cultural (North American) level.
+4. Demonstrate a preliminary knowledge of the main mental health crises and know where to engage with resources around these crises.
+5. Recognize, respond and engage with stress and begin to formulate your own ideas on what wellness and thriving look like.
+6. Articulate and understand what talking about spirituality looks like in the therapy room and what some of the various approaches to doing this are.
 
-Below is some key information on features you may see throughout the course.
+# Course Learning Evaluation
 
-::: {.learning-activity}
+<table> <colgroup> <col style="width: 30%" /> <col style="width: 23%" /> <col style="width: 23%" /> <col style="width: 23%" /> </colgroup> <thead> <tr class="header"> <th><strong>Assignment</strong></th> <th><strong>% of Grade</strong></th> <th><strong>Connection to CLOs</strong></th> <th><strong>Due Dates</strong></th> </tr> </thead> <tbody> <tr class="odd"> <td>1. Term Paper</td> <td>35%</td> <td>1, 2, 3, 4, 5, 6</td> <td>Last day of class</td> </tr> <tr class="even"> <td>2. Oral Presentation</td> <td>20%</td> <td>1, 2, 3, 4, 5, 6</td> <td>Week 6</td> </tr> <tr class="odd"> <td>3. Case Conceptualization</td> <td>20%</td> <td>1, 2, 3, 4, 5, 6</td> <td>Week 2 (1) Week 3 (2) Week 4 (3) Week 5 (4) Week 6 (5) Week 7 (6)</td> </tr> <tr class="even"> <td>4. Forum Discussion Participation</td> <td>25%</td> <td>1, 2, 3, 4, 5, 6</td> <td>Week 2 (1) Week 3 (2) Week 4 (3) Week 5 (4) Week 6 (5) Week 7 (6)</td> </tr> </tbody> </table>
 
-This box will prompt you to engage in course concepts by:
+# Required Texts and Materials
 
-- Viewing resources and reflecting on your experience and/or learning. 
-- Checking your understanding to make sure you are ready for what follows. Ways to check your learning might include self-check quizzes or questions for discussion.
+## Required
 
-::: {.note icon="true"}
+- *In the Realm of Hungry Ghosts* by Gabor Mate
+- *Emotionally Focused Family Therapy* by Adele LaFrance
 
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+## Recommended
 
-:::
+- *Being Mortal* by Atul Gwande
+- *The Body Keeps the Score* by Bessel Van der Kolk
+- *Counseling and Christianity: 5 Approaches* by Stephen Greggrio & Timothy Sisemore
 
-:::
+# Course Policies
 
-Below is an accordion.
+## Academic Integrity and Avoiding Plagiarism at TWU
 
-::: {.accordion title="This is an accordion. Click/tap this banner to show/hide the content."}
+One of the core values of Trinity Western University is the integration of academic excellence with high standards of personal, moral, and spiritual integrity. The University considers it a serious offence when an individual attempts to gain unearned academic credit. It is the student’s responsibility to be informed about what constitutes academic misconduct. For details on this, and on identifying and avoiding plagiarism go to the University Policy on [Academic Misconduct & Fraud](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"}.
 
-An accordion may contain extra content such as worked examples or sample answers.
+Also watch these presentations to help you understand what is plagiarism and how to avoid it.
 
-:::
+- [https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/](https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/){target="_blank"} (Prezi presentation)
+- [http://bit.ly/1p00KX3](http://bit.ly/1p00KX3){target="_blank"} (Google Slide presentation offering more comprehensive information)
+
+## Artificial Intelligence Policy Excerpt
+
+> It is vitally important that you understand the purpose of your Christian Liberal arts university education at TWU. In order to equip you to think truthfully, act justly, and live faithfully for the good of the world and the glory of God, we know that you must grow in your ability to engage in geunine critical thinking, generate original work, and express your own ideas in an organized and clear manner. Quite simply, generative AI tools can shortcut that process. We urge you to avoid thinking of your education as transactional (produce something, get a grade, get a degree) and instead consider it as transformational (helping you to become a better human being).
+>
+> At the same time, we also understand that we are preparing you for a life and career after graduation wherein the use of generative AI tools will become more commonplace. To that end, we hope to guide you toward its use in ethical ways that do not shortcut the overall purpose of your education but rather enhance it.
+>
+> Your responsibility is to ensure that you understand the ethical and legal issues inherent in the use of these tools, avoid the use of any tool that shortcuts the learning process, and pay close attention to the expectations that each of your professors has based on the learning outcomes for each course that you take at TWU. If anything is unclear, please ask.
+
+## Professor Expectations of AI Usage
+
+AI usage in this class is limited to the following:
+
+1. Using AI to come up with a list of resources and articles that pertain to your assignment.
+2. Wording or grammar on a couple of sentences throughout your assignments. Please do not do entire paragraphs. AI is not creative and will regurgitate the same paragraphs across students' assignments. This is also considered plagarism as this is not your writing.
+3. Help in fixing citation errors or generating reference pages. You are responsible that the citation is correct as sometimes the AI doesn’t do a good job of this.
+4. Please do not use any AI for Forum postings or for your case conceptualizations
+
+## Protocol if AI Usage is Suspected
+
+1. Professor will issue a warning and an opportunity to redo the assignment which will need to be done within 24 hours otherwise it will be given a 0 on the assignment. There will be no extensions granted as there has been a warning issued to not use AI.
+2. If the assignment is not fixed within the 24 hour period, professor will reach out to the Dean and further action may be taken other than a zero on the assignment.
+
+## University Standard Grading System
+
+The University Standard Grading System can be found in the Academic Calendar at [https://www.twu.ca/about-us/policies-guidelines/student-policies/university-standard-grading-system](https://www.twu.ca/about-us/policies-guidelines/student-policies/university-standard-grading-system){target="_blank"}.

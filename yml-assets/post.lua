@@ -561,7 +561,7 @@ local function callouts_docx_handler()
       elseif time:match("%D") then
         return time
       else
-        return time .. " minutesminutes"
+        return time .. " minutes"
       end
     end
   

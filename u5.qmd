@@ -2,24 +2,23 @@
 
 ## Overview {.unnumbered}
 
-In Unit 5, both stress and resilience will be explored in detail. While these may appear to be distinct topics, they are deeply interconnected. Stress is an inevitable part of life, arising from various external and internal pressures, while resilience is the capacity to adapt and bounce back from these challenges. The relationship between the two is significant: the more resilient we become, the better we are at managing stress. Although stress will always exist, a resilient individual can approach it differently, viewing obstacles as opportunities for growth rather than insurmountable difficulties.
-Resilience doesn’t eliminate stress, but it transforms the way we interact with it. With greater resilience, stressful situations are less likely to overwhelm us, and we develop healthier coping mechanisms. Instead of being paralyzed or drained by stress, resilience empowers us to stay grounded, think clearly, and respond effectively. Through building resilience, we gain the tools to reduce the impact of stress on our emotional, mental, and even physical well-being. In other words, by strengthening our resilience, we can significantly alter our experience of stress, making it less of a burden and more of a manageable part of our personal and professional lives.
+In Unit 5, both stress and resilience will be explored in detail. While these may appear to be distinct topics, they are deeply interconnected. Stress is an inevitable part of life, arising from various external and internal pressures, while resilience is the capacity to adapt and bounce back from these challenges. The relationship between the two is significant: the more resilient we become, the better we are at managing stress. Although stress will always exist, a resilient individual can approach it differently, viewing obstacles as opportunities for growth rather than insurmountable difficulties. Resilience doesn’t eliminate stress, but it transforms the way we interact with it. With greater resilience, stressful situations are less likely to overwhelm us, and we develop healthier coping mechanisms. Instead of being paralyzed or drained by stress, resilience empowers us to stay grounded, think clearly, and respond effectively. Through building resilience, we gain the tools to reduce the impact of stress on our emotional, mental, and even physical well-being. In other words, by strengthening our resilience, we can significantly alter our experience of stress, making it less of a burden and more of a manageable part of our personal and professional lives.
 
 ### Topics {.unnumbered}
 
 This unit is divided into the following topics:
 
 1. Stress and Resilience
-2. The development of stress/resilience
-3. Therapy room strategies for dealing with stress and resilience
+2. The Development of Stress and Resilience
+3. Strategies for Dealing with Stress and Resilience
 
 ### Unit Learning Outcomes {.unnumbered}
 
-When you have completed this unit, you will be able to:
+When you have completed this unit you will be able to:
 
 - Identify some of the major researchers in the field of resilience and stress
 - Demonstrate and practice what wellness and thriving could look like
-- Describe what the brain looks like under stress and how resilience is built
+- Describe the brain under stress and how resilience is built
 - Conceptualize a case dealing with stress and resilience
 - Practice the skill of validation as outlined in EFFT
 - Develop a preliminary treatment plan and know where to find resources and further specialized training
@@ -28,19 +27,12 @@ When you have completed this unit, you will be able to:
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
-1. Watch and Read: The “Fathers of Stress and Resilience”
-2. Read: The Meaning of Stress - Chapter 1 - PDF
-3. Reflect: Stress
-4. Watch: What is resilience?
-5. Watch: Daniel Siegel Clips - Empathy and Resilience
-6. Read: Stress Management and Prevention - Chapter 2
-7. Watch: An Illustration
-8. Read: Gordon Neufeld Institute
-9. Watch: The Power of Vulnerability - Brené Brown
-10. Watch: Dan Siegel on Neurobiology & Resilience
-11. Read: Case Study
+1. Read…
+2. Watch…
+3. Explore…
+4. Complete the ungraded quiz.
 
 ::: {.note icon="true"}
 
@@ -50,7 +42,7 @@ Working through course activities will help you to meet the learning outcomes an
 
 :::
 
-### Assessment {.unnumbered} 
+### Assessment {.unnumbered}
 
 Please see the Assessment section in Moodle for assignment details.
 
@@ -58,172 +50,228 @@ Please see the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
+- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association.
+
+::: {.prote}
+
+Comment(s) from Werd:
+
+Reference: Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions
+
+Comment: Link if appropriate Deb Troendle-Scott | 2025-06-04T16:34:00Z
+
+:::
+
 - Other online resources will be provided in the unit.
 
 ## Stress and Resilience
 
 Stress and its manifestation in the body are the topics we explore in Unit 5. As research shows, experiencing stress is detrimental to our bodies and our health in general. It is therefore very important to develop and expand our resilience in order to properly handle and interact with stress.
 
-In the same manner as in previous units, I would like to acknowledge and hear from those who have contributed to the field of stress and resilience research. Although the scope of research has expanded since then, it is important to recall where we began.
+In the same manner as in previous units, I would like to acknowledge and hear from those who have contributed to the field of stress and resilience research. Although the scope of research has expanded greatly, it is important to recall where we began.
 
-### Activity: Video and Reading | The "Fathers of Stress and Resilience"
+### Activity: Video and Reading | The "Fathers" of Stress and Resilience
 
-::: {.learning-activity}
+::: {.learning-activity time="00 minutesminutes"}
 
 **Dr. Hans Seyle**
 
-In the world of stress management, Hans Selye is widely acknowledged as the "father of the field." As such, he is a Canadian resource for the rest of the world. Over 1700 scholarly papers and 39 books have been published since Dr. Selye published the first scientific paper to identify and define "stress" in 1936. His work was cited in more than 362,000 scientific papers and in countless popular magazine articles, in nearly every major language and in every country in the world at the time of his death in late 1982. There is no doubt that he is the most frequently cited author on stress issues in the world. Throughout a period of exposure to a nonspecific demand, Selye proposed that stress remains present in the individual's body. Among his distinctions, he called the cumulative effects of chronically applied stressors 'general adaptation syndrome,' also known as Selye's syndrome in the literature.
+In the world of stress management, Hans Selye is widely acknowledged as the "father of the field." As such, he is a Canadian resource for the rest of the world. Over 1,700 scholarly papers and 39 books were published by Dr. Selye following his first scientific paper to identify and define "stress" in 1936. His work was cited in more than 362,000 scientific papers and in countless popular magazine articles, in nearly every major language, and in every country in the world by the time of his death in late 1982. There is no doubt that he is the most frequently cited author on stress in the world. Selye proposed that throughout a period of exposure to a nonspecific demand, stress remains present in an individual’s body. Among his distinctions, Selye called the cumulative effects of chronically applied stressors "general adaptation syndrome," also known as Selye’s syndrome in the literature.
 
-Dr. Selye is one of the founders of the Canadian Institute of Stress. You may wish to spend a few minutes exploring the following website: <https://stresscanada.org/>
+Dr. Selye is one of the founders of the Canadian Institute of Stress. You may wish to spend a few minutes exploring their [website](https://stresscanada.org/){target="_blank"} (2024).
 
-To learn more about one of Dr. Hans Selye's major contributions to stress research, please watch the following video. Please note that the video is 4:01 minutes long.
+Watch the following video to learn more about one of Dr. Hans Selye’s major contributions to stress research. Please note that the video is 4:01 minutes long.
 
-<div class="video-container">
+::: {.prote}
 
-{{< video https://www.youtube-nocookie.com/embed/9FdmxfXrygA >}}
+Comment(s) from Werd:
 
-</div>
+Reference: Please note that the video is 4:01 minutes long.
+
+Comment: If important, this information could be given in the template for estimated time above (generally speaking, unless videos are much longer than usual, e.g., an hour-long video, it is probably not necessary to note the time) Deb Troendle-Scott | 2025-06-04T16:38:00Z
+
+:::
+
+- [*Hans Selye’s General Adaption Syndrome and the HPA Axis: Exploring the Connection*](https://www.youtube.com/watch?v=9FdmxfXrygA){target="_blank"} (2017)
 
 **Questions to Consider**
 
-After viewing the video, consider the following questions and use them as a tool to help you process the information.
+After viewing the video consider the following questions and use them as a tool to help you process the information.
 
-1. What is General Adaptation Syndrome?
+1. What is general adaptation syndrome?
 2. What is it better described as?
 3. What is the HPA? How can it weaken?
 
 **Norman Garmezy**
 
-The resilience theory is regarded as the brainchild of Norman Garmezy, the ‘father’ of resilience theory. In addition to his work in developmental psychopathology, he was a professor of psychology. Garmezy held positions at Duke University (1950–1961) and the Institute of Child Development at the University of Minnesota (1961–1989) after receiving his doctorate from the University of Iowa in 1950. It was his early work that focused on schizophrenia etiology, but his later work focuses on child development risks, resilience, stress, and coping. We will spend some time getting to know his research, even though there have been more advances since his discoveries in the 1980s and 1990s.
+The resilience theory is regarded as the brainchild of Norman Garmezy, the "father" of resilience theory. In addition to his work in developmental psychopathology, Garmezy was a professor of psychology; he held positions at Duke University (1950–1961) and the Institute of Child Development at the University of Minnesota (1961–1989) after receiving his doctorate from the University of Iowa in 1950. His early work focused on the etiology of schizophrenia, but his later work focused on child development risks, resilience, stress, and coping. We will spend some time getting to know his research, even though there have been further advances since his discoveries in the 1980s and 1990s.
 
-We will be reading from Ann Masten’s book, [Ordinary Magic](assets/u5/Ordinary_Magic_Introduction.pdf){target="_blank"}.
+We will be reading from Ann Masten’s book, *[Ordinary Magic](https://d.docs.live.net/47342b2749fd82eb/Desktop/_Trinity%20Western_Editing/Psych%20339/1.%20Original%20Files%20From%20Production/assets/u5/Ordinary_Magic_Introduction.pdf){target="_blank"}* ( ).
 
-Ann Masten is a prominent resilience researcher and professor of child development at the University of Minnesota. She is widely recognized for her work on resilience in children and how they thrive despite adversity. In her book Ordinary Magic, Masten explores the concept of resilience, arguing that it is not a rare, extraordinary trait but a common capacity that arises from ordinary human resources like supportive relationships, problem-solving skills, and community support. The book highlights the power of everyday systems that foster resilience in individuals facing challenges. Masten studied under Garmezy and take note of when he is mentioned.
+::: {.prote}
+
+Comment(s) from Werd:
+
+Reference: book
+
+Comment: TWU link; please check and add date for Zotero Deb Troendle-Scott | 2025-05-28T14:37:00Z
+
+:::
+
+Ann Masten is a prominent resilience researcher and professor of child development at the University of Minnesota. She is widely recognized for her work on resilience in children and how they thrive despite adversity. In her book *Ordinary Magic*, Masten explores the concept of resilience, arguing that it is not a rare, extraordinary trait but a common capacity that arises from ordinary human resources such as supportive relationships, problem-solving skills, and community support. The book highlights the power of everyday systems that foster resilience in individuals facing challenges. Masten studied under Garmezy—take note of when he is mentioned.
+
+::: {.prote}
+
+Comment(s) from Werd:
+
+Reference: ,
+
+Comment: Add date for Zotero citation Deb Troendle-Scott | 2025-06-04T16:39:00Z
+
+:::
 
 **Questions to Consider**
 
-After reading the chapter, consider the following questions and use them as a tool to help you process the information.
+After completing the reading above, consider the following questions and use them as a tool to help you process the information.
 
-1. What historic event were the key individuals who initiated studies on resilience in children a part of?
+1. The key individuals who initiated studies on resilience in children were a part of which historic event?
 2. What are the four waves of resilience science?
 3. What was the biggest surprise that emerged from the study of children who overcome adversity?
 4. What does the word resilience mean?
-5. What two kinds of evaluation are required to identify resilience in a persons life?
+5. What two kinds of evaluation are required to identify resilience in a person’s life?
 6. What are some examples of risk factors?
 
 :::
 
-### Activity: Reading | The Meaning of Stress - Chapter 1 - PDF
+### Activity: Reading | *The Meaning of Stress*, Chapter 1
 
-::: {.learning-activity}
+::: {.prote}
 
-To begin our conversation on stress and its meaning, please read the pdf file that you can find here.
+Comment(s) from Werd:
 
-[Stress Management And Prevention-Ch 1.pdf](assets/u5/Stress_Management_And_Prevention_Ch_1.pdf){target="_blank"}
+Reference: The Meaning of Stress
 
-This chapter's Key Questions will be used as our Questions to consider section. Reading these ahead of time will assist you in guiding your reading.
+Comment: Is this the title chapter or more of a generic heading?In previous units the title of the book or resource has been used in the heading, along with the chapter and or page #s, rather than the specific chapter title for each. It’s a minor editing quibble ☺️ but for consistency you might wish to use the book title, as was done for the assigned Chapter 2 reading later in the unit Deb Troendle-Scott | 2025-06-04T17:02:00Z
+
+:::
+
+::: {.learning-activity time="00 minutesminutes"}
+
+To begin our conversation on stress and its meaning, please read the resource below.
+
+- *Stress Management and Prevention*, Chapter 1 ( )
+
+This chapter’s Key Questions will be used as our Questions to Consider section. Reading these ahead of time will assist you in guiding your reading.
 
 ::: {.note icon="true"}
 
 Note that the learning activities in this course are ungraded, unless specified. They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.
 
+::: {.prote}
+
+Comment(s) from Werd:
+
+Reference: Note that the learning activities in this course are ungraded, unless specified. They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.
+
+Comment: This note has been included in some, but not all units - should it be before the first Learning Activity, if including? Deb Troendle-Scott | 2025-06-04T16:41:00Z
+
+:::
+
 :::
 
 **Questions to Consider**
 
-After the reading, consider the following questions and use them as a tool to help you process the information.
+After reading, consider the following questions and use them as a tool to help you process the information.
 
 1. What are the different ways that stress can be defined and conceptualized?
 2. What are the different ways that people respond to adversity in their lives?
-3. Stress is ordinarily thought of as a fairly negative state, something to be avoided whenever possible. But how can stress be highly functional and operate as a survival mechanism
+3. Stress is ordinarily thought of as a fairly negative state, something to be avoided whenever possible. But how can stress be highly functional and operate as a survival mechanism?
 4. What is the general adaptation syndrome (GAS) and how does it function during times of stress?
 5. What is the primary goal of stress management? Can such a program completely eliminate stress?
 6. What are major sources of stress and how are they recognized?
-7. How do you interpret the following statement: “Stress is not what exists on the outside, but how you perceive a situation on the inside?
+7. How do you interpret the following statement: Stress is not what exists on the outside, but how you perceive a situation on the inside?
 
 :::
 
 ### Activity: Optional Reflection | Stress
 
-::: {.learning-activity}
+::: {.learning-activity time="00 minutesminutes"}
 
-Consider the following questions and use the tool to save your notes. It is important to note that closing this active browser will not save your responses, so you will need to save/download your document before closing it. The file can be downloaded and worked on on your computer or device.
+Consider the following questions and use the tool below to save your notes. Note that the active browser will not save your responses so you will need to save or download your document before closing it. You may wish to download the document on your computer or device to work on it.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=489" width="853" height="252" frameborder="0" allowfullscreen="allowfullscreen" title="Stress"></iframe>
-
-:::
-
-### Activity: Video | What is resilience?
-
-::: {.learning-activity}
-
-Different perspectives and points of view can be taken into account when discussing resilience. For an overview/introduction to resilience, watch the following YouTube video. Please consider that this video is 2.29 minutes long.  
-
-<div class="video-container">
-
-{{< video https://www.youtube-nocookie.com/embed/1r8hj72bfGo >}}
-
-</div>
+- [https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=489](https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=489){target="_blank"}
 
 :::
 
-### Activity: Videos | Daniel Siegel Clips - Empathy and Resilience
+### Activity: Video | What is Resilience?
 
-::: {.learning-activity}
+::: {.learning-activity time="00 minutesminutes"}
 
-The researcher Daniel Siegel is well known for his theory of interpersonal neurobiology, which explains how the brain, mind, and body are interconnected. Throughout his speech, he emphasizes the importance of resilience. As opposed to reading some of his books and articles, we will view some of his YouTube talks.
+Different perspectives and points of view can be taken into account when discussing resilience. For an overview and introduction to resilience, watch the following video. Please consider that this video is 2.29 minutes long.
+
+::: {.prote}
+
+Comment(s) from Werd:
+
+Reference: . Please consider that this video is 2.29 minutes long.
+
+Comment: As previously, this information to be included in the estimated time as part of the template (if at all)? Deb Troendle-Scott | 2025-05-28T14:48:00Z
+
+:::
+
+- [*The Science of Resilience*](https://www.youtube.com/watch?v=1r8hj72bfGo){target="_blank"} (2015)
+
+:::
+
+### Activity: Videos | Daniel Siegel—Empathy and Resilience
+
+::: {.learning-activity time="00 minutesminutes"}
+
+The researcher Daniel Siegel is well known for his theory of interpersonal neurobiology, which explains how the brain, mind, and body are interconnected. Throughout his work he emphasizes the importance of resilience. Rather than reading some of his books and articles, we will view some of his YouTube talks:
 
 **Building Resilience**
 
-<div class="video-container">
-
-{{< video https://www.youtube-nocookie.com/embed/RkC8hx-_k3Y >}}
-
-</div>
+- [*Building Resilience in Care Providers*](https://www.youtube.com/watch?v=RkC8hx-_k3Y){target="_blank"} (2019)
 
 **Questions to Consider**
 
-After the video, consider the following questions and use them as tools to help you process the information.
+After watching the video consider the following questions and use them as tools to help you process the information.
 
-1. What are the 5 states of empathy?
+1. What are the five states of empathy?
 2. What does compassion build on?
-3. What are the two states of the brain that Daniel Siegel describes?
-4. What is the metaphor that Daniel Siegel uses about the importance of awareness with resiliency?
+3. What are the two states of the brain that Siegel describes?
+4. What is the metaphor that Siegel uses about the importance of awareness with resiliency?
 
-**The Opportunity to Build the Circuits of Kindness and Resilience**
+**Opportunities to Build the Circuits of Kindness and Resilience**
 
-This next clip focuses on building resilience as parents with their children.
+This next video focuses on parents building resilience with their children.
 
-<div class="video-container">
-
-{{< video https://www.youtube-nocookie.com/embed/0XG8uOWEBbc >}}
-
-</div>
+- [*Building the Circuits for Kindness and Resilience*](https://www.youtube.com/watch?v=0XG8uOWEBbc){target="_blank"} (2012)
 
 **Questions to Consider**
 
-After the video, consider the following questions and use them as tools to help you process the information.
+After watching the video consider the following questions and use them as tools to help you process the information.
 
 1. When are the first circuits of kindness and resilience growing?
-2. What moments does Daniel Siegel encourage us to reframe?
-3. How do you see this clip by Daniel Siegel as related to what EFFT explores?
-4. What is the opportunity to build kindness and resilience that he talks about?
+2. What moments does Siegel encourage us to reframe?
+3. How do you see this video by Siegel as related to issues that EFFT explores?
+4. What is the opportunity to build kindness and resilience that Siegel talks about?
 
 :::
 
-## Stress and Resilience
+## The Development of Stress and Resilience
 
-The purpose of this section is to discuss how and why stress occurs, and how we can enhance our resilience to minimize stress; that is, as Daniel Siegel explains, by increasing our awareness, we will be able to handle things with less impact when they occur; despite the fact that they may still affect us, they will not have the same negative impact.
+The purpose of this section is to discuss how and why stress occurs, and how we can enhance our resilience to minimize stress; that is, as Siegel explains, by increasing our awareness, we will be able to handle things with less impact when they occur—despite the fact that they may still affect us, they will not have the same negative impact.
 
-### Activity: Read | Stress Management and Prevention - Chapter 2
+### Activity: Read | *Stress Management and Prevention*, Chapter 2
 
-::: {.learning-activity}
+::: {.learning-activity time="00 minutesminutes"}
 
-In this chapter, we will examine how stress manifests in the body and how our body responds to stress. We should note that this is a continuation or a parallel from our previous learning about trauma. You are not expected to memorize all of the details or remember all of the parts of the body. This article is intended to give you a general understanding of how stress affects the body and how it can manifest itself.
+In this chapter we will examine how stress manifests in the body and how our body responds to stress. We should note that this is a continuation or a parallel from our previous learning about trauma. You are not expected to memorize all of the details or remember all of the parts of the body affected. This article is intended to give you a general understanding of how stress affects the body and how it can manifest itself.
 
-Read p.30 to end of chapter. Please pay particular attention to pages 36-37 and observe how they are aligned with our understanding of EFFT. The Questions to consider section will be based on the Key Questions in the chapter. By reading these ahead of time, you will be able to guide your reading.
+Read p. 30 to the end of the chapter. Pay particular attention to pages 36–37, and observe how they are aligned with our understanding of EFFT. The Questions to Consider section will be based on the Key Questions in the chapter. By reading these ahead of time, you will be able to guide your reading.
 
-[Stress Management and Prevention - ch 2.pdf](assets/u5/Stress_Management_And_Prevention_Ch_2.pdf){target="_blank"}
+- *Stress Management and Prevention*, Chapter 2 ( )
 
 **Questions to Consider**
 
@@ -245,168 +293,271 @@ Consider the following questions and use them as tools to help you process the i
 
 ### Activity: Video | An Illustration
 
-::: {.learning-activity}
+::: {.learning-activity time="00 minutesminutes"}
 
-This clip with Dr. Gabor Maté on *The Connection Between Stress and Disease* illustrates how the body and the brain are connected and how stress manifests itself in the body. For the sake of time, let's watch this clip to get an idea of the book's content.
+This video with Dr. Gabor Maté on the connection between stress and disease illustrates how the body and the brain are connected and how stress manifests itself in the body. For the sake of time, let’s watch this clip to get an idea of the book’s content.
 
-[Dr. Gabor Maté on The Connection Between Stress and Disease](https://www.youtube.com/watch?v=ajo3xkhTbfo&t=1861s){target="_blank"}
+::: {.prote}
+
+Comment(s) from Werd:
+
+Reference: the book’s content
+
+Comment: To what does this refer? (Presumably a newer book by Mate? You might wish to introduce this briefly) Deb Troendle-Scott | 2025-05-28T15:03:00Z
+
+:::
+
+::: {.prote}
+
+Comment(s) from Werd:
+
+Reference: clip
+
+Comment: Section of the video? See note below about length and the beginning of the video Deb Troendle-Scott | 2025-06-04T16:57:00Z
+
+:::
+
+- *Dr. Gabor Maté on the Connection Between Stress and Disease* (2019)
 
 **Questions to Consider**
 
-After the video, consider the following questions to help guide your learning.
+After watching the video consider the following questions to help guide your learning.
 
 1. Who is the illustration about at the beginning of the clip? At what age did she die?
-2. What does he mean by responsibility?
-3. What does Gabor describe we have to do in order to maintain an attachment relationship? When does illness come along?
+
+::: {.prote}
+
+Comment(s) from Werd:
+
+Reference: about at the beginning of the clip
+
+Comment: See above - link begins at 31:17 Deb Troendle-Scott | 2025-06-04T16:49:00Z
+
+:::
+
+1. What does Maté mean by responsibility?
+2. What does Maté describe we have to do in order to maintain an attachment relationship? When does illness arise?
 
 :::
 
 ### Activity: Read | Gordon Neufeld Institute
 
-::: {.learning-activity}
+::: {.learning-activity time="00 minutesminutes"}
 
-You may find the following article on Gordon Neufeld's website, the Neufeld Institute, helpful in understanding how resilience develops and how it can be fostered. The work of Gordon Neufeld in the area of parenting and family work has made him an internationally recognized researcher.
+You may find the following article on the Neufeld Institute helpful in understanding how resilience develops and how it can be fostered. The work of Gordon Neufeld in the area of parenting and family work has made him an internationally recognized researcher.
 
-[https://neufeldinstitute.org/resilience-embracing-the-emotional-journey/](https://neufeldinstitute.org/resilience-embracing-the-emotional-journey/){target="_blank"}
+- [*Neufeld Institute*](https://neufeldinstitute.org/resilience-embracing-the-emotional-journey/){target="_blank"} (n.d.)
 
 **Questions to Consider**
 
-After the reading, consider the following questions and use them as a tool to help you process the information.
+After reading, consider the following questions and use them as a tool to help you process the information.
 
 1. How does Gordon Neufeld describe resilience?
 2. What is the difference between true resilience and false resilience?
 3. What happens when we are overloaded?
-4. Finish this quote, “We already have inside of us the ingredients to allow healing to occur, we just need…”
+4. Finish this quote, "We already have inside of us the ingredients to allow healing to occur, we just need … (MacNamara, n.d.)"
 
 :::
 
 ## Strategies for Dealing with Stress and Resilience
 
-Being resilient means overcoming setbacks and challenges, such as losing a job, facing illness, experiencing a disaster, or grieving a loved one. These stressful events can lead people to unhealthy coping mechanisms, like substance abuse, eating disorders, or risky behaviors, which can make them feel stuck in their problems or victimized. While resilience doesn’t eliminate difficulties, it helps people look beyond them, find joy in life, and handle stress more effectively.
+Being resilient means overcoming setbacks and challenges such as losing a job, facing illness, experiencing a disaster, or grieving a loved one. These stressful events can lead people to unhealthy coping mechanisms such as substance abuse, eating disorders, or risky behaviours, which can make them feel stuck in their problems or victimized. While resilience doesn’t eliminate difficulties, it helps people look beyond them, find joy in life, and handle stress more effectively.
 
-This is another opportunity for us to continue learning from EFFT. The goal is for you to have a reasonably good understanding of what validation entails by now. During this session, we will develop a validation statement and add a behaviour coaching component.
+This is another opportunity for us to continue learning from EFFT. The goal is for you to have a reasonably good understanding of what validation entails by now. In this section we will develop a validation statement and add a behaviour coaching component.
 
-### Activity: Optional Video | The Power of Vulnerability - Brené Brown
+### Activity: Optional Watch | *The Power of Vulnerability*—Brené Brown
 
-::: {.learning-activity}
+::: {.learning-activity time="00 minutesminutes"}
 
-Brown has spent the past two decades studying courage, vulnerability, shame, and empathy at the University of Texas at Austin McCombs School of Business. Five of her books are New York Times bestsellers.
+Brené Brown has spent the past two decades studying courage, vulnerability, shame, and empathy at the University of Texas at Austin McCombs School of Business. Five of her books are New York Times bestsellers.
 
-Please watch this clip from Brene Brown, who is well known for her work on vulnerability, shame, courage, and their relationship to resilience before starting the EFFT exercises/reading. It is likely that you have heard Brene Brown speak before, but I encourage you to listen to her again and consider how working on shame/vulnerability/courage can also cultivate resilience within you while working in the therapy room. This is her first TED talk that is well known to most people; it captured the attention of the nation.
+Please watch this video from Brown, who is well known for her work on vulnerability, shame, courage, and their relationship to resilience before starting the EFFT exercises and reading. It is likely that you have heard Brown speak before, but I encourage you to listen to her again and consider how working on shame, vulnerability, and courage can also cultivate resilience within you while working in the therapy room. This is Brown’s first TED Talk that is well known to most people; it captured the attention of the nation.
 
-[Video: The Power of Vulnerability](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en){target="_blank"}
-
-<div class="video-container">
-
-<iframe src="https://embed.ted.com/talks/brene_brown_the_power_of_vulnerability" width="1024px" height="576px" title="The power of vulnerability" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe>
-
-</div>
+- [*The Power of Vulnerability*](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en){target="_blank"} (2010)
 
 **Questions to Consider**
 
-After the video, consider the following question and use it to help you process the information.
+After watching the video consider the following question and use it to help you process the information.
 
-1. How does working on alleviating our shame build and foster resilience? Describe the connection
+1. How does working on alleviating our shame build and foster resilience? Describe the connection.
 
 :::
 
-### Activity: Watch | Dan Siegel on Neurobiology & Resilience
+### Activity: Watch | *Dan Siegel on Neurobiology and Resilience*
 
-::: {.learning-activity}
+::: {.learning-activity time="00 minutesminutes"}
 
-This short clip by Daniel Siegel discusses how to build resilience and connection by focusing not only on the individual, but on the collective "we."
+This short video by Siegel discusses how to build resilience and connection by focusing not only on the individual, but on the collective "we."
 
-<div class="video-container">
-
-{{< video https://www.youtube-nocookie.com/embed/Zriw-jShjzY >}}
-
-</div>
+- [*On Neurobiology and Resilience*](https://www.youtube.com/watch?v=Zriw-jShjzY){target="_blank"} (2015)
 
 :::
 
 ### Activity: Case Study
 
-::: {.learning-activity}
+::: {.learning-activity time="00 minutesminutes"}
 
-Please refer back to the EFFT manual if you need any reminders on emotion coaching or behavior coaching.
+Please refer back to the EFFT manual (Lafrance et al., 2020) if you need any reminders on emotion coaching or behaviour coaching.
 
----
+In regard to stress and resilience specifically, I quote this text from our EFFT manual:
 
-In regards to stress and resilience specifically, I quote this text from our EFFT Manual:
+::: {.prote}
 
-“There is strong evidence to suggest that emotional intelligence (which includes emotion management, emotion perception, and emotion utilization) moderates the relationship between stress and mental health concerns in adolescents and adults, including depression, hopelessness, and suicidal ideation (Ciarrochi, Deane, & Anderson, 2002; Extremera & Fernandez-Berrocal, 2006). Taken together, these studies suggest that a focus on the development and refinement of emotion processing and regulation can serve to buffer against the experience of life stressors. For these reasons, the EFFT clinician also works with caregivers to equip them with the skills of emotion coaching to support their loved one’s wellness. Over time, their loved one develops self-efficacy with emotion processing-that is, the capacity and confidence to experience, tolerate, regulate, and  be guided by their emotions without need of maladaptive coping strategies. In addition to supporting in the moment emotion processing and the development of the capacity to self-regulate, emotion-coaching skills enhance treatment in various ways. As caregivers adopt this new style of relating to their loved one, their relationship will strengthen and their efforts to support their loved one with behavioral symptoms will be more effective and better received. As symptoms decrease, caregivers can also support their loved one to manage the flood of emotions that sometimes follow. This work will also provide loved ones with evidence of their caregiver’s capacity and willingness to support them with their emotional pain, making it more likely that they will turn to the caregiver for support in times of stress” (Lafrance, Henderson & Mayman, 2020).
+Comment(s) from Werd:
 
----
+Reference: quote
 
-Read the following Case Study and then spend some time creating a validation statement for this particular client. We will be emotion coaching this client and adding a ‘behavior intervention’ that will help the client to deal with their ongoing stress in their life. You may come up with your own ideas for what may help alleviate stress based on the class readings, your own experience, or you can also look up some suggestions if you would like. Note that you would do a lot more work than just this one emotion coaching before suggesting a way to cope. In real time, you really need to spend time in the validation with them really understanding what they are saying and conveying that you ‘get it’.
-
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=499" width="853" height="252" frameborder="0" allowfullscreen="allowfullscreen" title="Case Study"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+Comment: Per APA style, lengthy direct quotes are indented to set them apart, but without quotation marks, so I have revised this to match and deleted the lines above and below (this however could be a house style if you choose not to follow APA exactly and wish to retain the formatted lines top and bottom)Please add page number(s) for the quote if known, and ensure that it is reproduced as in the original Deb Troendle-Scott | 2025-05-28T15:21:00Z
 
 :::
 
+> There is strong evidence to suggest that emotional intelligence (which includes emotion management, emotion perception, and emotion utilization) moderates the relationship between stress and mental health concerns in adolescents and adults, including depression, hopelessness, and suicidal ideation (Ciarrochi, Deane, & Anderson, 2002; Extremera & Fernandez-Berrocal, 2006). Taken together, these studies suggest that a focus on the development and refinement of emotion processing and regulation can serve to buffer against the experience of life stressors. For these reasons, the EFFT clinician also works with caregivers to equip them with the skills of emotion coaching to support their loved one’s wellness. Over time, their loved one develops self-efficacy with emotion processing—that is, the capacity and confidence to experience, tolerate, regulate, and be guided by their emotions without need of maladaptive coping strategies. In addition to supporting in the moment emotion processing and the development of the capacity to self-regulate, emotion-coaching skills enhance treatment in various ways. As caregivers adopt this new style of relating to their loved one, their relationship will strengthen and their efforts to support their loved one with behavioral symptoms will be more effective and better received. As symptoms decrease, caregivers can also support their loved one to manage the flood of emotions that sometimes follow. This work will also provide loved ones with evidence of their caregiver’s capacity and willingness to support them with their emotional pain, making it more likely that they will turn to the caregiver for support in times of stress. (Lafrance et al., 2020)
+
+Read the following case study and then spend some time creating a validation statement for this particular client. We will be emotion-coaching this client and adding a "behaviour intervention" that will help the client to deal with their ongoing stress in their life. You may come up with your own ideas for things that might help alleviate stress based on the class readings or your own experience, or you can also look up some suggestions if you would like. Note that you would do a lot more work than just this single emotion-coaching session before suggesting a way to cope: in real time, you really need to spend time in validation with the client, really understanding what they are saying and conveying that you "get it."
+
+::: {.prote}
+
+Comment(s) from Werd:
+
+Reference: it
+
+Comment: As above, consider a linked title versus a bare URL in the text Deb Troendle-Scott | 2025-05-28T15:24:00Z
+
+:::
+
+- <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=499" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen" title=""></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+:::
+
+## Unit 5 Resources
+
+## Stress and Resilience
+
+**Videos**
+
+Center on the Developing Child at Harvard University. (2015). *InBrief: The science of resilience* [Video]. YouTube. [https://www.youtube.com/watch?v=1r8hj72bfGo](https://www.youtube.com/watch?v=1r8hj72bfGo){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/1r8hj72bfGo >}}
+
+::: {.prote}
+
+Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
+
+:::
+
+Dalai Lama Center for Peace and Education. (2012). *Dan Siegel - The opportunity to build the circuits of kindness and resilience* [Video]. YouTube. [https://youtu.be/0XG8uOWEBbc](https://youtu.be/0XG8uOWEBbc){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/0XG8uOWEBbc >}}
+
+::: {.prote}
+
+Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
+
+:::
+
+Integrative Therapeutics. (2017). *Hans Selye’s general adaption syndrome and the HPA axis: Exploring the connection* [Video]. YouTube. [https://www.youtube.com/watch?v=9FdmxfXrygA](https://www.youtube.com/watch?v=9FdmxfXrygA){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/9FdmxfXrygA >}}
+
+::: {.prote}
+
+Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
+
+:::
+
+**Readings**
+
+Masten, A. S. (2014). *Ordinary magic: Resilience in development.* The Guilford Press.
+
+[[https://d.docs.live.net/47342b2749fd82eb/Desktop/_Trinity%20Western_Editing/Psych%20339/1.%20Original%20Files%20From%20Production/assets/u5/Ordinary_Magic_Introduction.pdf](https://d.docs.live.net/47342b2749fd82eb/Desktop/_Trinity%20Western_Editing/Psych%20339/1.%20Original%20Files%20From%20Production/assets/u5/Ordinary_Magic_Introduction.pdf){target="_blank"}
+
+Seaward, B. L. (2011). *Stress management and revention: Applications to daily life* (2nd ed.). Jones & Bartlett.
+
+**Websites**
+
+There are no websites to visit for this topic.
+
+## Stress and Resilience
+
+**Videos**
+
+How To Academy. (2019). *Dr. Gabor Maté on the connection between stress and disease* [Video]. YouTube. [https://www.youtube.com/watch?v=ajo3xkhTbfo&t=1861s](https://www.youtube.com/watch?v=ajo3xkhTbfo&t=1861s){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/ajo3xkhTbfo >}}
+
+::: {.prote}
+
+Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
+
+:::
+
+**Readings**
+
+Seaward, B. L. (2011). *Stress management and prevention: Applications to daily life* (2nd ed.). Jones & Bartlett.
+
+**Websites**
+
+MacNamara, D. (n.d.). R*esilience: Embracing the emotional journey*. Neufeld Institute. [https://neufeldinstitute.org/editorials/resilience-embracing-the-emotional-journey/](https://neufeldinstitute.org/editorials/resilience-embracing-the-emotional-journey/){target="_blank"}
+
+## Strategies for Dealing with tress andResilience
+
+**Videos**
+
+Garrison Institute. (2015). *Dan Siegel on neurobiology and resilience* [Video]. YouTube. [https://youtu.be/Zriw-jShjzY](https://youtu.be/Zriw-jShjzY){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/Zriw-jShjzY >}}
+
+::: {.prote}
+
+Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
+
+:::
+
+TED. (2010). T*he Power of vulnerability* [Video]. TEDx Houston. [https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?subtitle=en](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?subtitle=en){target="_blank"}
+
+::: {.video-container}
+
+<iframe src="https://embed.ted.com/talks/brene_brown_the_power_of_vulnerability" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+:::
+
+::: {.prote}
+
+Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
+
+:::
+
+**Readings**
+
+EFFT Manual
+
+::: {.prote}
+
+Comment(s) from Werd:
+
+Reference: EFFT Manual
+
+Comment: Lafrance et al.? Please add from Resource list if this is the case deb.ts@outlook.com | 2025-06-23T18:42:00Z
+
+:::
+
+**Websites**
+
+There are no websites to visit for this topic.
+
 ## Summary {.unnumbered}
 
-In Unit 5, you have learned about Stress and Resilience. It is so important that we understand how prolonged stress can affect our bodies and how urgent it is to take action. The fact that we can build up our resilience tangibly should also encourage you. In the beginning, it is easier to do it when we are young, but it is also possible to do when we are older. Fortunately, the brain is very malleable and can still be taught and learned.
+In this unit you have learned about stress and resilience. It is so important that we understand how prolonged stress can affect our bodies and how urgent it is to take action. The fact that we can build up our resilience tangibly should also encourage you. This may be easier to do when we are young, but it is also possible to do when we are older. Fortunately, the brain is very malleable and resilience can still be taught and learned.
 
 ::: {.check}
 
-Before you move on to the next unit, you may want to check that you are able to:
+Before you move on to the next unit you may want to check that you are able to:
 
 - Identify some of the major researchers in the field of resilience and stress
 - Demonstrate and practice what wellness and thriving could look like
-- Describe what the brain looks like under stress and how resilience is built
+- Describe the brain under stress and how resilience is built
 - Conceptualize a case dealing with stress and resilience
 - Practice the skill of validation as outlined in EFFT
 - Develop a preliminary treatment plan and know where to find resources and further specialized training
 
 :::
-
-
-## Unit 5 Resources
-
-### Topic 1: Stress and Resilience {.unnumbered}
-
-**Videos**
-
-- [Hans Selye's General Adaption Syndrome and the HPA Axis: Exploring the Connection](https://youtu.be/9FdmxfXrygA){target="_blank"}
-- [InBrief: The Science of Resilience](https://youtu.be/1r8hj72bfGo){target="_blank"}
-- ["Building Resilience in Care Providers" Daniel Siegel | HagueTalks](https://youtu.be/RkC8hx-_k3Y){target="_blank"}
-- [Dan Siegel - The Opportunity to Build the Circuits of Kindness and Resilience](https://youtu.be/0XG8uOWEBbc){target="_blank"}
-
-**Readings**
-
-- [Masten, Ann S. (2014). Ordinary Magic: Resilience in Development. The Guilford Press.](assets/u5/Ordinary_Magic_Introduction.pdf){target="_blank"}
-- Seaward, B. L. (2011). Stress Management And Prevention: Applications to Daily Life (2nd ed.). Jones & Bartlett Publishers.
-
-**Websites**
-
-- There are no websites to visit for this topic.
-
-### Topic 2: Stress and Resilience {.unnumbered}
-
-**Videos**
-
-- [Dr. Gabor Maté on The Connection Between Stress and Disease](https://www.youtube.com/watch?v=ajo3xkhTbfo&t=1861s){target="_blank"}
-
-**Readings**
-
-- Seaward, B. L. (2011). Stress Management and Prevention: Applications to Daily Life (2nd ed.). Jones & Bartlett Publishers.
-
-**Websites**
-
-- [Resilience: Embracing the Emotional Journey](https://neufeldinstitute.org/resilience-embracing-the-emotional-journey/){target="_blank"}
-
-### Topic 3: Strategies for dealing with stress and resilience {.unnumbered}
-
-**Videos**
-
-- [The Power of Vulnerability](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?subtitle=en){target="_blank"}
-- [Dan Siegel on Neurobiology and Resilience](https://youtu.be/Zriw-jShjzY){target="_blank"}
-
-**Readings**
-
-- EFFT Manual
-
-**Websites**
-
-- There are no websites to visit for this topic.

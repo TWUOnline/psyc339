@@ -1,289 +1,243 @@
-# Course Assessment {.unnumbered}
-
-## Assessment Overview {.unnumbered}
-
 In this section you will find all the necessary information for your assignments, as well as the links to the assignment drop boxes for submission. Be sure to carefully read the assignment instructions and grading rubrics provided to ensure success. We have designed the rubrics to guide you in meeting the assignment requirements. Utilize the available resources and reach out for support as needed.
 
-### Course Evaluation {.unnumbered}
+**Course Evaluation**
 
 The course grade will be determined by the satisfactory completion of all requirements.
 
-| Assessment | Assesses Course Learning Outcome | Suggested Due Date |
-|------------------------------------------|--------------|------------------|
-| Assignment 1: Research Paper | 1-6 | End of Unit 6|
-| Assignment 2: Oral Presentation | 1-6 | End of Unit 5 |
-| Assignment 3: Case Conceptualizations | 1-6  | End of Unit 6 |
-| Assignment 4: Forum Discussion | 1-6  | End of Each Unit |
+| **Assessment** | **Assesses Course Learning Outcome** | **Suggested Due Date** |
+|-----------------------------|---------------------------|----------------|
+| Assignment 1: Research Paper | 1-6 | End of [Unit 6](https://learn.twu.ca/mod/url/view.php?id=1281497){target="_blank"} |
 
-::: note
+<!-- !!!
+The Moodle link above needs to be replaced.
+
+[Unit 6](https://learn.twu.ca/mod/url/view.php?id=1281497)
+-->
+
 Note you have six months to submit all assignments. You are strongly encouraged to establish a personal learning plan and set a schedule to meet your learning goals.
-:::
 
-## Assignment Feedback & Outcome-Based Assessment {.unnumbered}
+Assignment 1: Research Paper
 
-Your progress in this course will be assessed based on how well you demonstrate proficiency in the course learning outcomes (CLOs), which are equally weighted. Rather than focusing on point-based grading, this course uses an outcome-based assessment approach, which means:
+Instructions
 
--   You will complete a series of learning activities and assignments that provide opportunities to demonstrate your understanding of the CLOs.
--   Your work will be evaluated holistically, considering how well you meet the learning outcomes rather than simply accumulating points.
--   You will be asked to exercise evaluative judgment, meaning you will reflect on your own work, assess your level of proficiency, and provide evidence of your learning.
--   Your instructor will work with you to appraise your progress, offering feedback to help you deepen your understanding and refine your work.
+Students can choose to expand on the topic that they were assigned for their class presentations and add three more research articles. OR they can pick a new topic and are still required to have 3 research articles. The topic of the paper will answer the question: How would you work with someone who is struggling with ‘your assigned topic’? I invite you to use one of your case conceptualization scenarios as an illustration/case study to incorporate into this paper. The paper will cover **four** main points:
 
-To measure proficiency, we use a proficiency scale that helps both learners and instructors assess whether assignments are completed at an appropriate level. This scale includes five levels of proficiency: Not Demonstrated, Emerging, Developing, Proficient, and Extending. Each level reflects the depth of understanding and application of the course learning outcomes.
+An explanation of what the topic is, how and why the topic develops, and how it shows up:
 
-This approach ensures that assessment is focused on growth, reflection, and mastery rather than simply grading tasks.
+You are invited to use one of your case conceptualizations to illustrate your research findings.
 
-| Not Demonstrated | Emerging | Developing | Proficient | Extending |
-|---------------|---------------|---------------|---------------|---------------|
-| The learner does not demonstrate the outcome at a level that is assessable. | The student demonstrates an initial understanding of the concepts and proficiencies relevant to the expected learning. | The student demonstrates a partial understanding of the concepts and proficiencies relevant to the expected learning. | The student demonstrates a complete understanding of the concepts and proficiencies relevant to the expected learning. | The student demonstrates a sophisticated understanding of the concepts and proficiencies relevant to the expected learning. |
+The majority of the NEW research for your paper should be done in this section. This section should be the largest section in your paper.
 
-Feedback will be communicated with you in two different ways. First, and most important, there will be at least two **assessment interviews** that you will be required to attend with your instructor. During this assessment interview, you will need to highlight what you have learned and which artifacts from the course you use as evidence of your learning. You and your instructor will use the Personal Learning Tracker to guide this conversation. By the end of the conversation, you will have a clear picture and record of your level of proficiency on each of the Course Learning Outcomes addressed in that particular assignment and you will have a plan for improving your level of proficiency on future assignments.
+What are the preventative measures/what wellness looks like in this area:
 
-Second, your instructor will record your level of proficiency on each outcome in the Moodle gradebook. It will be your responsibility to ensure that the proficiency levels shown in the Personal Learning Tracker align with what is shown in the gradebook. During the course, the Moodle Gradebook will be considered the correct record. However, your grade is not official until it is entered into the university Portal at the end of your course.
+You are invited to use one of your case conceptualizations in this area as a case study/example to draw on as you explore what preventative measures you would use or what wellness would look like. For example, if your character had access to these resources, what may have happened or what would wellness look like for this character?
 
-## Grading System {.unnumbered}
+Evidenced based treatment directions/community resources to access:
 
-### Understanding Proficiency Levels and Final Grades
+You may use the information from your oral presentations here if it aligns.
 
-As we mentioned previously, your progress will be assessed based on how well you demonstrate proficiency on the Course Learning Outcomes (CLOs). Instead of focusing on points or percentages, this approach emphasizes your ability to apply what you’ve learned.
+You are also invited to once again use your case conceptualization here to describe your recommendations/treatment recommendations.
 
-Your proficiency will be evaluated at different levels, and your final grade will be based on your performance across all seven CLOs.
+What approach to therapy and integration are you drawn to and why
 
-**You must complete all assignments to receive a grade in this course.**
+You may use your case conceptualization tool here once again to show how you would integrate your faith with this case and/or use some of your thoughts you formed from your Forum discussions.
 
-There are two steps to determining your final grade in the course.
+If you are not a Christian, please still include this section and talk about how you would integrate your religion or worldview as we all have one regardless of our backgrounds.
 
-#### Proficiency Levels: Determining Your Learning Progress
+**Sample Thesis**
 
-In this course, you will have two proficiency ratings for outcomes 1, 4, 5, 7 and three proficiency ratings for outcomes 2, 3 and 6. Based on that data, your instructor will determine a final rating for each outcome based on all of your attempts. The following guidelines outline how the final proficiency rating may be determined. Given the developmental nature of learning, your instructor may prioritise demonstrations of proficiency that come later in the course.
+Trauma is a common mental health issue that appears in therapy and as such it is important for clinicians to be trauma-informed and therefore have a foundational knowledge of what trauma is, what the goal of therapy would be (what wellness would look like), and what evidence-based therapy approaches work effectively with trauma. This paper will begin to explore these topics and conclude with a personal reflection on the author’s approach to integration and how it relates to treating trauma.
 
--   **Extending** – You must achieve an *Extending* rating on at least two assessments.
--   **Proficient** – You must achieve a *Proficient* rating on at least two assessments.
--   **Developing** – You must achieve a *Developing* rating on at least two assessments.
--   **Emerging** – You must achieve an *Emerging* rating on at least two assessments.
--   **Not Demonstrated** – If two or more CLOs are rated as Not Demonstrated, this level is assigned.
+**Assignment Criteria**
 
-#### Final Letter Grade Aggregation
+For this assignment you will write a 10-12 page paper double spaced. This does not include your title page and reference pages.
 
-Second, based on their final rating for each of the outcomes, your instructor will use the following information to determine your final grade.
+Your paper must include a minimum of three high-quality, academic, peer-reviewed sources (e.g., journal articles). You may also use the textbook and other good quality sources in addition, but these do not count as part of the three required sources. Research papers composed entirely of web-based research are not considered suitable as a term paper and will be graded accordingly. Use the APA Publication Manual 7th Edition as guidance for the structure of the paper, citations within the body of the paper, and construction of the reference list.
 
-Your final letter grade is determined by your proficiency across the seven CLOs:
+**As per APA 7 guidelines, papers should:**
 
--   **A** – At least 5 of the 7 CLOs must be at **Extending**, with no rating below Proficient.
--   **B** – At least 5 of the 7 CLOs must be at **Proficient**, with no rating below Developing.
--   **C** – At least 5 of the 7 CLOs must be at **Developing**, with no rating below Emerging.
--   **D** – At least 5 of the 7 CLOs must be at **Emerging**, with no Not Demonstrated ratings.
--   **F** – Assigned if 2 or more CLOs are rated as **Not Demonstrated**.
+Include a separate title page with the title of the paper, your name, student number and date along with the name of our institution (school), the course name and number. Include a separate list of references that begins on a new page (as per APA style guidelines be double-spaced with 1" margins, typed using a 12 pt. standard font (e.g., Times, Arial or Helvetica) and be left- justified.
 
-This grading structure ensures that your final grade reflects your overall proficiency across the course learning outcomes, rewarding both depth and consistency in your learning. It is designed to keep you actively engaged in your learning and focused on developing the skills necessary for success. If you have any questions about how your work is assessed, please reach out to your instructor.
+Use the same font throughout your paper (do not use different styles or sizes of font for title, headings, etc.). You do not need to write an abstract for this paper.
 
-### University Standard Grading System
+**Some Writing Tips**
 
-| Letter Grade | Grade Description |
-|-----------------|-------------------------------------------------------|
-| **A** | **Outstanding, excellent work**; exceptional performance with strong evidence of original thinking, good organization, meticulous concern for documented evidence, and obvious capacity to analyze, synthesize, evaluate, discern, justify, and elaborate; frequent evidence of both verbal eloquence and perceptive insight in written expression; excellent problem-solving ability in scientific or mathematical contexts with virtually no computational errors; demonstrated masterful grasp of subject matter and its implications. Gives evidence of an extensive and detailed knowledge base. (Note: The A+ grade is reserved for very rare students of exceptional intellectual prowess and accomplishment, especially in lower-level courses.)  <br/><br/>**Proficiency Scale: Extending** |
-| **B** | **Good, competent work**; laudable performance with evidence of some original thinking, careful organization; satisfactory critical and analytical capacity; reasonably error-free expository written expression, with clear, focused thesis and well-supported, documented, relevant arguments; good problem-solving ability with few computational or conceptual errors in scientific subjects; reasonably good grasp of subject matter but an occasional lack of depth of discernment; evidence of reasonable familiarity with course subject matter in both concepts and key issues. Exhibits a serious, responsible engagement with the course content.<br/><br/>**Proficiency Scale: Proficient** |
-| **C** | **Adequate, reasonably satisfactory work**; fair performance but infrequent evidence of original thinking or the capacity to analyze, synthesize, or evaluate course material; undue reliance on rote memory; difficulty in applying knowledge in unfamiliar contexts; limited problem-solving ability in scientific subjects; fairly clear but quite uninspiring written expression with occasional problems in mechanics or syntax; weak in provision of documented, illustrative, or descriptive evidence; satisfactory grasp of basic elements of the course but frequent lapses in detailed understanding. Satisfies the minimum requirements of the course. <br/><br/>**Proficiency Scale: Developing** |
-| **D** | **Minimally acceptable work**; relatively weak performance with little evidence of original thinking or ability to analyze or synthesize course material; nominal or weak problem-solving ability in scientific subjects; written expression frequently exhibits difficulty in articulating a central thesis or sustaining a coherent argument; ideas are trite or juvenile without discernible development. Shows inadequate grasp of some basic elements of the course. <br/><br/>**Proficiency Scale: Emerging** |
-| **F** | **Inadequate work**; poor performance that indicates a lack of understanding or misunderstanding of essential subject matter; seems easily distracted by the irrelevant; written expression is poorly organized, often incoherent, and rife with mechanical and diction errors. Shows little evidence of even basic proficiency in the course content or skills. <br/><br/>**Proficiency Scale: Not Demonstrated** |
+Follow the APA 7 style guidelines for citing your sources in the text of your paper and formatting on your References page.
 
-For more information please see the [University Standard Grading System](https://www.twu.ca/about-us/policies-guidelines/student-policies/university-standard-grading-system){target="_blank"} website.
+Use quotes sparingly. For a paper of this length, 4-6 direct quotes is more than enough. Save quotes for when it is absolutely essential to preserve an author’s original wording. The paper should convey your own ‘voice’ as the author.
 
-## Assessment Conversations {.unnumbered}
+Avoid paraphrasing too much. Paraphrasing can slip easily into plagiarism and also makes for a boring paper. Read this article for tips on avoiding inappropriate paraphrasing.
 
-Throughout the course, you will have several opportunities to elicit feedback from your instructor and your facilitator. We will work together to appraise your work on learning activities and assignments in light of the course learning outcomes.
+When deciding how much of a study to describe, consider what elements of the study would persuade a reader of your point. For example, in most instances, knowing the number of subjects that were run in the study is not useful information. However, if the study is about a special subset of the population (e.g., AIDS patients), it would be useful to know if the research findings are based on results from 3 people or 30. In most instances, knowing the names of the scales that were administered is irrelevant to your point; even mentioning ALL of the surveys and results is often too much. Pick and choose the relevant aspects of the study design and findings. Don’t let your sources dictate how you write your paper. Remember your own logic or outline as you cite sources.
 
-As part of this process, you will participate in an Assessment Conversation, a scheduled meeting where you will:
+Good writers are relentless revisers. Papers that have not been revised are easy to spot: they are unpolished, read like a first-draft and will never receive top marks. You will not receive an A grade without proof-reading your paper. Use spell and grammar check and it never hurts to have someone else read over your paper with a fresh set of eyes before submitting it.
 
--   **Demonstrate and discuss your work**, showcasing how you have engaged with the course materials and applied concepts.
--   **Explain your learning process**, sharing insights into how you approached assignments and developed key proficiencies.
--   **Defend your progress** using the Personal Learning Tracker, a shared document where you will assess your proficiency in relation to the course learning outcomes.
--   **Exercise evaluative judgment**, critically analyzing your strengths, areas for growth, and next steps in your learning journey.
+Please include citations in your paper. This is a RESEARCH paper and as such you need to a. Demonstrate that you have done the research, b. You are not an expert in this field so you need to back up what you are saying with evidence, c. avoid plagiarism.
 
-These conversations are **formative**, meaning they are designed to support your learning and development. They may not result in a grade on your assignment, but you will receive valuable feedback that you can use to improve your standing in the course on your next assessment.
+Do not include references in your reference section that were not cited in your paper. This is called ‘padding your references’ and is not allowed. If there are references in your reference section that are not in your paper I will assume that you are plagiarising.
 
-### How to Prepare for Your Assessment Conversation
+Grading Rubric
 
--   **Use the Personal Learning Tracker:** This shared document between you and your instructor aligns course learning outcomes with proficiency indicators across assignments. It helps you track your progress, evaluate your learning, and practice evaluative judgment throughout the course. Keep it updated as you complete each assignment to prepare for the conversation.
--   **Prepare specific questions** about your work that you would like to discuss. Making a list ahead of time ensures we use our time efficiently.
--   **Review the course learning outcomes** and take notes on how you would explain your understanding of them. This is an opportunity for self-reflection and assessment.
--   **Review your work:** Assignments should demonstrate how you have met the targeted course learning outcomes.
--   **Reflect on your work:** Be prepared to show connections between concepts, apply them to your experiences or current events, and demonstrate personal reflection and critical thinking.
+**Substance /20**
 
-### Before the Assessment Conversation
+The research paper provides evidence of critical thinking and analysis and synthesis of researched information throughout and presents a logical and persuasive argument. /2
 
--   Test your video and audio in Microsoft Teams to ensure everything is working correctly.
--   Practice sharing your screen in Teams, as well as sharing links in the chat. (See *Present content in Microsoft Teams meetings* in [MS Office 365 Support](https://support.microsoft.com/en-us/office/present-content-in-microsoft-teams-meetings-fcc2bf59-aecd-4481-8f99-ce55dd836ce8){target="_blank"} for guidance.)
+Research sources are relevant, current, and credible. They are clearly documented in the paper. /1
 
-### During the Assessment Conversation
+The introduction offers a sense of direction for the paper and presents a clear thesis statement to the reader. /1
 
--   After a brief introduction, we will review your Personal Learning Tracker to discuss your progress and address any concerns.
+The body develops the necessary aspects of the main idea and provides examples, support, or illustration for each aspect of the main idea. /15
 
--   I will ask you the guiding questions**,** such as:
+A thorough explanation of the topic /6
 
-    1.  *Overall, how are you feeling about the course and the content?*
-    2.  *Are there any specific ways that I can better support your learning?*
-    3.  *Do you need increased accountability?*
-    4.  *How are you doing in meeting the goals that you set for yourself at the beginning of the course?*
+What would wellness look like in this area /1
 
--   Use your Personal Learning Tracker to explain how your assignments demonstrate progress toward proficiency. Highlight specific indicators of proficiency that you have met and areas where you continue to grow.
+What are some preventative measures /2
 
--   Clearly explain how your assignments provide evidence of your learning in relation to the course outcomes.
+Evidence based treatment directions /3
 
--   Your instructor will provide feedback to help you assess your progress, suggest improvements, and encourage further development.
+Therapy and Integration approach /3
 
--   Take notes on the feedback and reflect on how you can continue to grow in each of the learning outcome areas.
+The conclusion summarizes the main points and ties them to the thesis; it also presents an impact statement and/or suggests direction for future research. /1
 
-### Key Points to Highlight During Your Conversation
+**Writing Style and Format /5**
 
-Avoid simply reading your assignments or reflections. Instead, focus on key learning moments:
+Writing Style /3
 
--   What do you want your instructor to notice?
--   Which indicators of proficiency have been met?
--   What are you especially proud of?
--   How does your journal demonstrate evidence of learning?
+Paragraphs are unified, developed, and coherent, with transitions between ideas.
 
-By preparing thoughtfully and engaging in meaningful discussion, you will gain valuable insights into your learning progress and receive guidance to strengthen your digital literacy skills.
+Sentences are grammatically correct; words are chosen for accuracy and impact.
 
-## Personal Learning Tracker
+The writing follows the conventions of spelling and mechanics (punctuation, etc.).
 
-<a href="https://learn.twu.ca/mod/resource/view.php?id=1241165" class="btn btn-primary"><i class="bi bi-download fa fa-download"></i> &nbsp;&nbsp;Download Personal Learning Tracker</a>
+The format follows the APA documentation style accurately and consistently. /2
 
-The **Personal Learning Tracker** is a structured tool designed to help you monitor your progress in achieving the course learning outcomes. This document serves as both a **reflection tool** and a **progress log**, allowing you to track how your work demonstrates proficiency across different assignments.
+Include a separate title page with the title of the paper, your name, student number and date along with the name of our institution (school), the course name and number.
 
-#### How It Works
+Include a separate list of references that begins on a new page (as per APA style guidelines).
 
--   **Aligns Assignments with Learning Outcomes:** The tracker maps each assignment to the course learning outcomes and provides proficiency indicators to help you evaluate your level of understanding.
--   **Encourages Evaluative Judgment:** As you complete each assignment, you will self-assess your progress, identify areas of strength, and recognize opportunities for improvement.
--   **Facilitates Reflection:** You will use the tracker to document insights from your learning process, connect course concepts to real-world applications, and prepare for discussions with your instructor.
--   **Supports the Assessment Conversation:** This tracker is a shared document between you and your instructor, providing a structured way to demonstrate your growth, defend your progress, and receive targeted feedback during your scheduled assessment conversation.
+Be double-spaced with 1" margins, typed using a 12 pt. standard font (e.g., Times, Arial or Helvetica) and be left- justified.
 
-#### Using the Personal Learning Tracker
+Use the same font throughout your paper (do not use different styles or sizes of font for title, headings, etc.). You do not need to write an abstract for this paper.
 
-1. **Download the Tracker**: [Click here to download the tracker.](https://learn.twu.ca/mod/resource/view.php?id=1241165){target="_blank"}
-2. **Save & Rename**: Save the file to an easily accessible location on your computer (e.g., an PSYC 339 folder). Rename it using this format:
-`LastName_FirstName_PSYC_339_Personal_Learning_Tracker`
-1. **Upload to OneDrive**: To ensure easy access, upload the file to OneDrive.
-2. **Share the Link**: When submitting your assignment, share the OneDrive link with your instructor. You will also need to provide this link when booking your assessment conversation.
-3. **Update regularly**: As you complete each assignment, record your proficiency level and reflect on your learning.
-4. **Prepare for your assessment conversation**: Highlight key learning moments and areas where you seek feedback.
-5. **Engage in meaningful reflection**: Consider how your skills are developing and how you can continue improving.
+**TOTAL /25**
 
-This tracker is not just a record of work—it’s a tool to help you take ownership of your learning, practice self-assessment, and develop proficiencies that extend beyond the course. If you need assistance with this process, feel free to reach out.
+Assignment 2 - Oral Presentations
 
-## Course Discussions {.unnumbered}
+**Instructions**
 
-**Discussions in This Course**
+Students will be separated into groups of five. Each student in the group will be assigned a topic by the professor. Students will watch their fellow group members’ presentations and provide a comment or question for each. The presentations will last for 10-15 minutes and will contain information from two research articles and one community resource related to the student’s topic. All presentations must be pre-recorded and uploaded to Moodle under your group numbers by midnight on the day of our fifth class. The professor will go over how to upload videos to Moodle during Week 2 class. Presentations must be a minimum of 10 minutes and a maximum of 15, the professor will only watch a minute past the 15 minute mark. Each student will then be required to watch their fellow group members’ presentations before the start of Week 6 class. Each student will be required to write one comment OR one question on each presentation they view (4 presentations) to be completed in Moodle. The Professor will assign you one of the following topics and then you will present on one therapy modality that is used or has been developed for your topic (NOT EFFT):
 
-Discussions provide a space to engage with course material, share perspectives, and deepen your understanding through collaborative learning. The prompts in this course are designed to be informal, encouraging exploration of ideas.
+Complex Trauma
 
-**Participation Expectations**
+Addictions
 
-Discussions are completely optional and ungraded. However, you are encouraged to actively participate to enhance your learning experience.
+Resiliency or Stress (you can choose)
 
-**Online Discussions**
+Death/Dying
 
-The Learning Community on Discourse features discussion prompts related to course topics. You may also choose to engage in conversations on other social media platforms.
+Depression or Eating Disorders (You can choose)
 
-**In-Person Discussions**
+Make sure that you pay attention to the weight that each section of the Rubric holds and curtail your research and your time to the sections that have the most weight.
 
-Informal discussions with peers, friends, or coworkers can also be valuable. If discussing course topics with others outside the course, follow these ethical guidelines:
+**You will present:**
 
-- Inform participants about the course and whether the discussion relates to an assignment.
-- Ensure participation is voluntary and that individuals can opt out at any time.
-- Avoid using identifiable information in course assignments.
+The research about therapy modality of choice related to your assigned topic. /9
 
-**Why Engage in Discussions?**
+A bibliography must be provided in APA format and uploaded to Moodle separate from your recorded presentation. /1
 
-Active participation in discussions can help you:
+An example of a case study (Either drawn from personal experience or from a resource). You may use the Case Conceptualization Tool from your other assignments as a guiding point for this section as well /4
 
-- Deepen your understanding by exploring different perspectives.
-- Strengthen critical thinking and argumentation skills.
-- Learn from peers, share resources, and refine ideas collaboratively.
-- Improve clarity in expressing and responding to ideas.
-- Broaden your perspective and appreciation of diverse viewpoints.
-- Develop evaluative judgment by identifying strengths and areas for improvement.
-- Build collaboration and problem-solving skills for professional contexts.
+One comment and one question for each of your groups presentations /1
 
-**Discussion Best Practices**
+**TOTAL /15**
 
-- Craft thoughtful, clear, and coherent responses.
-- Support your viewpoints with course concepts and resources.
-- Use professional and respectful language.
-- Engage meaningfully with others' posts to foster discussion.
-- Ask questions that encourage critical thinking and reflection.
+Assignment 3 - Case Conceptualization
 
-**Privacy and Confidentiality**
+**Instructions**
 
-Confidentiality is essential in both online and in-person discussions. Participants may share personal or professional experiences—respect their privacy by:
+Each student will need to complete **3 out of the 6** case conceptualizations. Each case conceptualization is due by the next week’s class. For example if you choose to do this week’s case conceptualization on Trauma, you will need to complete it by our next class. Please take note of the due dates on these and plan ahead which topics you would like to do. The case conceptualization form that you will need to fill out is provided at the bottom of this page; you will use the same form for all three case conceptualizations. We will go over how to complete this assignment during our first virtual class together. If you cannot attend, then a recording of our class will be uploaded to Moodle for your viewing convenience. I would recommend that you choose your case conceptualizations based on which topics you are most interested in. Students will have the opportunity to use these case conceptualizations for their other assignments.
 
-- Sharing discreetly and using pseudonyms when needed.
-- Avoiding disclosure of confidential or proprietary information.
-- Keeping discussions within the participant group; sharing or distributing content outside the discussion is a violation.
+Spend the most time focusing on the observations and impressions section of this form. (The other sections shouldn’t take long to fill out). In the Observations and Impressions section I need to see evidence that you are connecting what you are learning to what you have watched- we are practicing the application of our learning through this exercise. As always, look at the grading rubric to see how items are weighted.
 
-<!-- ## Course Discussions {.unnumbered}
+!!! Watching these movies can be triggering and so I encourage you to choose the topics that will be less triggering for you.
 
-Discussions are an integral part of this course as they provide opportunities for you to engage with the course material, share perspectives, and enhance your understanding through collaborative learning. The discussions are intended to be informal and to facilitate exploration of ideas.
+**The 6 Movie Titles are:**
 
-**Expectations:**
+Trauma: I Can Only Imagine (2018)
 
--   Discussions are mandatory but ungraded. *You will not be able to complete your final assignment if you do not engage in discussions.*
--   Discussion prompts will be provided in the unit.
--   You are expected to actively participate in discussions throughout the course.
+Addictions: Beautiful Boy (2018)
 
-**Ways to Discuss:**
+Death/Dying: The Descendents (2011)
 
-Discussions are not limited to formal online forums. They can take place in informal settings with peers, friends, or coworkers. The emphasis is on active engagement and critical reflection.
+Mental Health Issues: Ordinary People (1980)
 
--   You may use platforms such as Discourse or other social media platforms.
--   You may use your conversations with friends and coworkers.
+Resilience/Stress: Wonder (2017)
 
-**Instructions:**
+Integration: Miracles From Heaven (2016)
 
-After working through each unit, refer to the specific discussion questions as posed by your instructor.
+**Grading Rubric**
 
--   *Online Discussions*
+Is the Demographics section filled out correctly? /1
 
-    -   If discussing through an online chat platform, you may wish to write down your response first in your notes, as you can use this later in your assignments.
-    -   Post your response and engage with others. Be sure to take note of others’ insights and feedback to use for your reflection paper.
+Reason for referral /1
 
--   *In Person Discussions:*
+Background information demonstrates that you watched the movie /2
 
-    -   If discussing with peers or coworkers, jot down your notes, including any context you may need to provide those you engage in discussion. (e.g., course topics or readings)
-    -   Remember to follow ethical guidelines in interactions with those outside of your course:
-        -   Let participants know what course you are taking and the purpose of this discussion assignment.
-        -   Let participants know that participation is optional, and they can opt out at any time.
-        -   Assure them that you will not use any identifiable information in the Reflection Paper.
-    -   During or after your conversation, jot down notes on any insights gathered through this academic discourse.
+Observations and Impressions: connecting the movie to what you have learned /4
 
-**Why Discuss?**
+Treatment recommendations /2
 
-Taking an active role in discussions will allow you to:
+**TOTAL: /10**
 
--   Understand the course material more thoroughly by exploring different perspectives.
--   Sharpen your ability to think critically and develop well-reasoned arguments.
--   Learn from your peers, share resources, and build on each other's ideas.
--   Improve your ability to express ideas clearly and respond respectfully.
--   Broaden your perspective and enhance your ability to appreciate different viewpoints.
--   Develop your evaluative judgment by identifying your strengths and areas for improvement.
--   Prepare for future professional challenges by simulating real-world collaboration and problem solving.
+Assignment 4 - Forum Discussions
 
-By actively participating in discussions you'll not only meet course requirements but also develop skills that will benefit your academic and professional future.
+Instructions
 
-**Other Tips**
+Students will post a reply to the weekly question posted on the forum page that shows evidence of having read the [course material](https://learn.twu.ca/mod/resource/view.php?id=1249132){target="_blank"}. Students will also be required to ask a question or make a comment on 2 other students’ forum posts to facilitate discussion.
 
--   Take the time to craft your responses with care, ensuring clarity and coherence.
--   Use concepts and resources from the course to back up your viewpoints.
--   Use professional language in your posts to maintain a respectful tone.
--   Engage with others' posts thoughtfully, fostering meaningful discussions.
--   Encourage dialogue by asking questions that prompt critical thinking and reflection.
+<!-- !!!
+The Moodle link above needs to be replaced.
 
-**Privacy Reminder:**
+[course material](https://learn.twu.ca/mod/resource/view.php?id=1249132)
+-->
 
-Confidentiality in discussions, whether online or in person, is essential. Participants often share personal or professional experiences to enrich dialogue. Please share discreetly, use pseudonyms when necessary, and refrain from sharing confidential or proprietary information about others. Remember, discussions are confidential to participants; distributing or verbalizing discussion contents to others is a violation. For questions or concerns, contact your instructor. -->
+Forum posts need to be completed by the Tuesday following class and the opportunity to post to the forum will be cut off at the start of our next class. Forum posts are about engaging in discussion and late forum posts are not meeting this requirement. I will speak more about this in class. If a post is late, I will not be marking it. Only 5 out of the 6 forums will be marked. You can choose to skip a week, or at the end I will take the 5 highest marks.
 
-## Additional Resources {.unnumbered}
+**Important:** Discussions are an important part of this online course. Most discussion postings should be no more than 250 words. You are also asked to read your fellow learner’s postings and then respond to at least two other people. All postings should be carefully written and edited before being posted. Opinions should be well supported. Your responses should also be communicated in professional language, respectful of others, and to the point. Forum posts are personal reflections that synthesize the information you have learned with your own experiences. You are not allowed to use AI for forum posts.
 
-Please see the following links and resources as you prepare for the assessment in this course:
+Grading Rubric
 
-1.  [The Learning Commons Resource Centre](https://learningcommons.twu.ca/){target="_blank"}: See the quick guides and writing resources.
-2.  [The Writing Centre](https://www.twu.ca/academics/academic-professional-support/learning-commons/writing-centre){target="_blank"}: Book an appointment to get help with the writing process.
+**Your assignment will be graded according to the following criteria:**
+
+| **Criteria** | **4-5 marks** | **2-3 marks** | **0-1 marks** |
+|---------------|--------------------|-------------------|-------------------|
+| **Quality of posting** | Sound evidence that student has done course readings and has a thorough knowledge of discussion topic | Evidence that most of course readings done and student has some knowledge of discussion topic | Minor evidence that course readings were done and student understands discussion topic |
+| **Communication skills** | Postings are clear, concise and easy to understand | Postings are usually, but not always clear, concise and easy to understand | Postings are too short/long and/or unclear and hard to understand |
+| **Critical thinking and self-reflection** | Exceptionally well- supported, thoughtful, insightful comments made on others’ and own postings | Some evidence of critical thought and self-reflection on others’ and own postings | Minor evidence of critical thought and reflection on others’ and own postings |
+| **Participation** | Regularly participates in, and facilitates interaction among members of online community | Interacts now and then with other members of online community | Rarely interacts or responds to other members of online community |
+| | | | **Total /20** |
+
+Trauma and EFFT
+
+Based on what we learned about the trauma brain in this unit, how would EFFT be a good treatment option? How would emotion coaching specifically (and the science behind it) be beneficial?
+
+Perceptions of Addiction
+
+Before this unit, how did you perceive someone with an addiction, and how has your perspective changed (if anything)?
+
+Block Work and Validation Exercise
+
+After completing the EFFT exercises for this week, share with the group your experience of the block work and the validation of silence exercise. Do you see this as beneficial? What would you struggle with in regards to doing this with a client?
+
+What is Your Biggest Block?
+
+We have read about clinician blocks in our EFFT manual (go back and refresh yourself if you need to). What do you think your biggest block would be in regards to working with mental health issues? Pick one of the three topics that we have discussed in this unit. What is the block and how would you go about addressing the block for yourself?
+
+Resilience and Stress
+
+How are resilience and stress related? In your life, do you find yourself feeling more resilient in some stressful situations versus others? Why do you think that is?
+
+Psychology and Faith
+
+"How do you reconcile your commitment to psychological science with your commitment to the Christian faith? 1. How do they fit together? 2. Are they mutually supportive? 3. Are there points of tension?" (Johnson, 2010, p. 49)
