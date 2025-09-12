@@ -1,32 +1,29 @@
-# Course Assessment
+# Course Assessment {.unnumbered}
 
 ## Assignment 1: Research Paper {.unnumbered}
 
-Instructions
+**Instructions**
 
 Students can choose to expand on the topic that they were assigned for their class presentations and add three more research articles. OR they can pick a new topic and are still required to have 3 research articles. The topic of the paper will answer the question: How would you work with someone who is struggling with ‘your assigned topic’? I invite you to use one of your case conceptualization scenarios as an illustration/case study to incorporate into this paper. The paper will cover **four** main points:
 
-An explanation of what the topic is, how and why the topic develops, and how it shows up:
+1.  An explanation of what the topic is, how and why the topic develops, and how it shows up:
 
-You are invited to use one of your case conceptualizations to illustrate your research findings.
+    -   You are invited to use one of your case conceptualizations to illustrate your research findings.
+    -   The majority of the NEW research for your paper should be done in this section. This section should be the largest section in your paper.
 
-The majority of the NEW research for your paper should be done in this section. This section should be the largest section in your paper.
+2.  What are the preventative measures/what wellness looks like in this area:
 
-What are the preventative measures/what wellness looks like in this area:
+    -   You are invited to use one of your case conceptualizations in this area as a case study/example to draw on as you explore what preventative measures you would use or what wellness would look like. For example, if your character had access to these resources, what may have happened or what would wellness look like for this character?
 
-You are invited to use one of your case conceptualizations in this area as a case study/example to draw on as you explore what preventative measures you would use or what wellness would look like. For example, if your character had access to these resources, what may have happened or what would wellness look like for this character?
+3.  Evidenced based treatment directions/community resources to access:
 
-Evidenced based treatment directions/community resources to access:
+    -   You may use the information from your oral presentations here if it aligns.
+    -   You are also invited to once again use your case conceptualization here to describe your recommendations/treatment recommendations.
 
-You may use the information from your oral presentations here if it aligns.
+4.  What approach to therapy and integration are you drawn to and why
 
-You are also invited to once again use your case conceptualization here to describe your recommendations/treatment recommendations.
-
-What approach to therapy and integration are you drawn to and why
-
-You may use your case conceptualization tool here once again to show how you would integrate your faith with this case and/or use some of your thoughts you formed from your Forum discussions.
-
-If you are not a Christian, please still include this section and talk about how you would integrate your religion or worldview as we all have one regardless of our backgrounds.
+    -   You may use your case conceptualization tool here once again to show how you would integrate your faith with this case and/or use some of your thoughts you formed from your Forum discussions.
+    -   If you are not a Christian, please still include this section and talk about how you would integrate your religion or worldview as we all have one regardless of our backgrounds.
 
 **Sample Thesis**
 
@@ -46,19 +43,19 @@ Use the same font throughout your paper (do not use different styles or sizes of
 
 **Some Writing Tips**
 
-Follow the APA 7 style guidelines for citing your sources in the text of your paper and formatting on your References page.
+1.  Follow the APA 7 style guidelines for citing your sources in the text of your paper and formatting on your References page.
 
-Use quotes sparingly. For a paper of this length, 4-6 direct quotes is more than enough. Save quotes for when it is absolutely essential to preserve an author’s original wording. The paper should convey your own ‘voice’ as the author.
+2.  Use quotes sparingly. For a paper of this length, 4-6 direct quotes is more than enough. Save quotes for when it is absolutely essential to preserve an author’s original wording. The paper should convey your own ‘voice’ as the author.
 
-Avoid paraphrasing too much. Paraphrasing can slip easily into plagiarism and also makes for a boring paper. Read this article for tips on avoiding inappropriate paraphrasing.
+3.  Avoid paraphrasing too much. Paraphrasing can slip easily into plagiarism and also makes for a boring paper. Read this article for tips on avoiding inappropriate paraphrasing.
 
-When deciding how much of a study to describe, consider what elements of the study would persuade a reader of your point. For example, in most instances, knowing the number of subjects that were run in the study is not useful information. However, if the study is about a special subset of the population (e.g., AIDS patients), it would be useful to know if the research findings are based on results from 3 people or 30. In most instances, knowing the names of the scales that were administered is irrelevant to your point; even mentioning ALL of the surveys and results is often too much. Pick and choose the relevant aspects of the study design and findings. Don’t let your sources dictate how you write your paper. Remember your own logic or outline as you cite sources.
+4.  When deciding how much of a study to describe, consider what elements of the study would persuade a reader of your point. For example, in most instances, knowing the number of subjects that were run in the study is not useful information. However, if the study is about a special subset of the population (e.g., AIDS patients), it would be useful to know if the research findings are based on results from 3 people or 30. In most instances, knowing the names of the scales that were administered is irrelevant to your point; even mentioning ALL of the surveys and results is often too much. Pick and choose the relevant aspects of the study design and findings. Don’t let your sources dictate how you write your paper. Remember your own logic or outline as you cite sources.
 
-Good writers are relentless revisers. Papers that have not been revised are easy to spot: they are unpolished, read like a first-draft and will never receive top marks. You will not receive an A grade without proof-reading your paper. Use spell and grammar check and it never hurts to have someone else read over your paper with a fresh set of eyes before submitting it.
+5.  Good writers are relentless revisers. Papers that have not been revised are easy to spot: they are unpolished, read like a first-draft and will never receive top marks. You will not receive an A grade without proof-reading your paper. Use spell and grammar check and it never hurts to have someone else read over your paper with a fresh set of eyes before submitting it.
 
-Please include citations in your paper. This is a RESEARCH paper and as such you need to a. Demonstrate that you have done the research, b. You are not an expert in this field so you need to back up what you are saying with evidence, c. avoid plagiarism.
+6.  Please include citations in your paper. This is a RESEARCH paper and as such you need to a. Demonstrate that you have done the research, b. You are not an expert in this field so you need to back up what you are saying with evidence, c. avoid plagiarism.
 
-Do not include references in your reference section that were not cited in your paper. This is called ‘padding your references’ and is not allowed. If there are references in your reference section that are not in your paper I will assume that you are plagiarising.
+7.  Do not include references in your reference section that were not cited in your paper. This is called ‘padding your references’ and is not allowed. If there are references in your reference section that are not in your paper I will assume that you are plagiarising.
 
 ### Grading Rubric {.unnumbered}
 
@@ -112,11 +109,15 @@ Use the same font throughout your paper (do not use different styles or sizes of
 
 Students will be separated into groups of five. Each student in the group will be assigned a topic by the professor. Students will watch their fellow group members’ presentations and provide a comment or question for each. The presentations will last for 10-15 minutes and will contain information from two research articles and one community resource related to the student’s topic. All presentations must be pre-recorded and uploaded to Moodle under your group numbers by midnight on the day of our fifth class. The professor will go over how to upload videos to Moodle during Week 2 class. Presentations must be a minimum of 10 minutes and a maximum of 15, the professor will only watch a minute past the 15 minute mark. Each student will then be required to watch their fellow group members’ presentations before the start of Week 6 class. Each student will be required to write one comment OR one question on each presentation they view (4 presentations) to be completed in Moodle. The Professor will assign you one of the following topics and then you will present on one therapy modality that is used or has been developed for your topic (NOT EFFT):
 
-- Complex Trauma
-- Addictions
-- Resiliency or Stress (you can choose)
-- Death/Dying
-- Depression or Eating Disorders (You can choose)
+1.  Complex Trauma
+
+2.  Addictions
+
+3.  Resiliency or Stress (you can choose)
+
+4.  Death/Dying
+
+5.  Depression or Eating Disorders (You can choose)
 
 Make sure that you pay attention to the weight that each section of the Rubric holds and curtail your research and your time to the sections that have the most weight.
 
@@ -132,7 +133,7 @@ One comment and one question for each of your groups presentations /1
 
 **TOTAL /15**
 
-### Assignment 3 - Case Conceptualization {.unnumbered}
+## Assignment 3 - Case Conceptualization {.unnumbered}
 
 **Instructions**
 
@@ -140,20 +141,18 @@ Each student will need to complete **3 out of the 6** case conceptualizations. E
 
 Spend the most time focusing on the observations and impressions section of this form. (The other sections shouldn’t take long to fill out). In the Observations and Impressions section I need to see evidence that you are connecting what you are learning to what you have watched- we are practicing the application of our learning through this exercise. As always, look at the grading rubric to see how items are weighted.
 
-::: {.note}
-
+::: note
 Watching these movies can be triggering and so I encourage you to choose the topics that will be less triggering for you.
-
 :::
 
 **The 6 Movie Titles are:**
 
-- Trauma: I Can Only Imagine (2018)
-- Addictions: Beautiful Boy (2018)
-- Death/Dying: The Descendents (2011)
-- Mental Health Issues: Ordinary People (1980)
-- Resilience/Stress: Wonder (2017)
-- Integration: Miracles From Heaven (2016)
+-   Trauma: I Can Only Imagine (2018)
+-   Addictions: Beautiful Boy (2018)
+-   Death/Dying: The Descendents (2011)
+-   Mental Health Issues: Ordinary People (1980)
+-   Resilience/Stress: Wonder (2017)
+-   Integration: Miracles From Heaven (2016)
 
 **Grading Rubric**
 
@@ -171,16 +170,14 @@ Treatment recommendations /2
 
 ## Assignment 4 - Forum Discussions {.unnumbered}
 
-Instructions
+**Instructions**
 
 Students will post a reply to the weekly question posted on the forum page that shows evidence of having read the course material. Students will also be required to ask a question or make a comment on 2 other students’ forum posts to facilitate discussion.
 
 Forum posts need to be completed by the Tuesday following class and the opportunity to post to the forum will be cut off at the start of our next class. Forum posts are about engaging in discussion and late forum posts are not meeting this requirement. I will speak more about this in class. If a post is late, I will not be marking it. Only 5 out of the 6 forums will be marked. You can choose to skip a week, or at the end I will take the 5 highest marks.
 
-::: {.note}
-
+::: note
 **Important:** Discussions are an important part of this online course. Most discussion postings should be no more than 250 words. You are also asked to read your fellow learner’s postings and then respond to at least two other people. All postings should be carefully written and edited before being posted. Opinions should be well supported. Your responses should also be communicated in professional language, respectful of others, and to the point. Forum posts are personal reflections that synthesize the information you have learned with your own experiences. You are not allowed to use AI for forum posts.
-
 :::
 
 ### Grading Rubric {.unnumbered}
@@ -188,33 +185,33 @@ Forum posts need to be completed by the Tuesday following class and the opportun
 **Your assignment will be graded according to the following criteria:**
 
 | **Criteria** | **4-5 marks** | **2-3 marks** | **0-1 marks** |
-|---------------|--------------------|-------------------|-------------------|
+|-----------------|-------------------|------------------|------------------|
 | **Quality of posting** | Sound evidence that student has done course readings and has a thorough knowledge of discussion topic | Evidence that most of course readings done and student has some knowledge of discussion topic | Minor evidence that course readings were done and student understands discussion topic |
 | **Communication skills** | Postings are clear, concise and easy to understand | Postings are usually, but not always clear, concise and easy to understand | Postings are too short/long and/or unclear and hard to understand |
 | **Critical thinking and self-reflection** | Exceptionally well- supported, thoughtful, insightful comments made on others’ and own postings | Some evidence of critical thought and self-reflection on others’ and own postings | Minor evidence of critical thought and reflection on others’ and own postings |
 | **Participation** | Regularly participates in, and facilitates interaction among members of online community | Interacts now and then with other members of online community | Rarely interacts or responds to other members of online community |
-| | | | **Total /20** |
+|  |  |  | **Total /20** |
 
-**Trauma and EFFT**
+## **Trauma and EFFT**{.unnumbered}
 
 Based on what we learned about the trauma brain in this unit, how would EFFT be a good treatment option? How would emotion coaching specifically (and the science behind it) be beneficial?
 
-**Perceptions of Addiction**
+## **Perceptions of Addiction** {.unnumbered}
 
 Before this unit, how did you perceive someone with an addiction, and how has your perspective changed (if anything)?
 
-**Block Work and Validation Exercise**
+## **Block Work and Validation Exercise** {.unnumbered}
 
 After completing the EFFT exercises for this week, share with the group your experience of the block work and the validation of silence exercise. Do you see this as beneficial? What would you struggle with in regards to doing this with a client?
 
-**What is Your Biggest Block?**
+## **What is Your Biggest Block?** {.unnumbered}
 
 We have read about clinician blocks in our EFFT manual (go back and refresh yourself if you need to). What do you think your biggest block would be in regards to working with mental health issues? Pick one of the three topics that we have discussed in this unit. What is the block and how would you go about addressing the block for yourself?
 
-**Resilience and Stress**
+## **Resilience and Stress** {.unnumbered}
 
 How are resilience and stress related? In your life, do you find yourself feeling more resilient in some stressful situations versus others? Why do you think that is?
 
-**Psychology and Faith**
+## **Psychology and Faith** {.unnumbered}
 
->"How do you reconcile your commitment to psychological science with your commitment to the Christian faith? 1. How do they fit together? 2. Are they mutually supportive? 3. Are there points of tension?" (Johnson, 2010, p. 49)
+> "How do you reconcile your commitment to psychological science with your commitment to the Christian faith? 1. How do they fit together? 2. Are they mutually supportive? 3. Are there points of tension?" (Johnson, 2010, p. 49)

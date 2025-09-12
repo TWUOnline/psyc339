@@ -14,7 +14,7 @@ This unit is divided into the following topics:
 2. How Does Grief or Loss and Death Affect Us?
 3. How Do We Work With Grief?
 
-## Unit Learning Outcomes
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit you will be able to:
 
@@ -24,7 +24,7 @@ When you have completed this unit you will be able to:
 - Practice the skill of validation as outlined in EFFT
 - Develop a preliminary treatment plan and know where to find resources and further specialized training
 
-## Learning Activities
+### Learning Activities {.unnumbered}
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 

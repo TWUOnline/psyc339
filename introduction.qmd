@@ -1,4 +1,4 @@
-# Introduction to Psych 339
+# Introduction to Psych 339 {.unnumbered}
 
 Welcome to Psych 339! I am excited to begin all of the topics and units that we have planned for the following weeks. There will be a lot of information coming at you, especially in the beginning units, but in later units, we will review and refer back to the information, so my hope is that it won’t feel like too much of an overload.
 

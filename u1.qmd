@@ -10,7 +10,7 @@ This unit is divided into the following topics:
 2.  Why and How Does Trauma Happen?
 3.  How Do We Work With Trauma?
 
-## Unit Learning Outcomes
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit you will be able to:
 
@@ -21,7 +21,7 @@ When you have completed this unit you will be able to:
 -   Use the validation skill outlined in emotion-focused family therapy (EFFT)
 -   Develop a preliminary treatment plan and know where to find resources and further specialized training
 
-## Learning Activities
+### Learning Activities {.unnumbered}
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 

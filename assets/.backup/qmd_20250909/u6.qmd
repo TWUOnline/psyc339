@@ -12,7 +12,7 @@ This unit is divided into the following topics:
 2. Clinical Implications
 3. Application
 
-### Unit Learning Outcomes {.unnumbered}
+#### Unit Learning Outcomes {.unnumbered} {.unnumbered}
 
 When you have completed this unit, you will be able to:
 
@@ -21,7 +21,7 @@ When you have completed this unit, you will be able to:
 - Understand the parameters of talking about faith and spirituality in the counseling room
 - Discuss one's own faith journey and how it relates to their future profession
 
-### Learning Activities {.unnumbered}
+#### Learning Activities {.unnumbered} {.unnumbered}
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 

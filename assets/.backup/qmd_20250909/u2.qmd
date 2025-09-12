@@ -12,7 +12,7 @@ This unit is divided into the following topics:
 2. How/Why does it develop?
 3. How do we work with it?
 
-### Unit Learning Outcomes {.unnumbered}
+#### Unit Learning Outcomes {.unnumbered} {.unnumbered}
 
 When you have completed this unit, you will be able to:
 
@@ -22,7 +22,7 @@ When you have completed this unit, you will be able to:
 - Practice the skill of validation as outlined in EFFT
 - Develop a preliminary treatment plan and know where to find resources and further specialized training
 
-### Learning Activities {.unnumbered}
+#### Learning Activities {.unnumbered} {.unnumbered}
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
