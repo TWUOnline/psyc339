@@ -12,7 +12,7 @@ This unit is divided into the following topics:
 2.  Why and How Does Trauma Happen?
 3.  How Do We Work With Trauma?
 
-#### Unit Learning Outcomes {.unnumbered} {.unnumbered}
+#### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit you will be able to:
 
@@ -23,7 +23,7 @@ When you have completed this unit you will be able to:
 5. Use the validation skill outlined in emotion-focused family therapy (EFFT)
 6. Develop a preliminary treatment plan and know where to find resources and further specialized training
 
-#### Learning Activities {.unnumbered} {.unnumbered}
+#### Learning Activities {.unnumbered}
 
 Here is a list of Learning Activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
@@ -198,7 +198,7 @@ Despite being potentially overwhelming, this chapter is extremely informative re
 {{< video https://www.youtube.com/watch?v=BJfmfkDQb14 >}}
 :::
 
--   Read [*The Body Keeps the Score*](../U1%20Files/TBKS_Ch_4.pdf){target="_blank"}, Chapter 4 (2014)
+-   Read [*The Body Keeps the Score*](assets/u1/TBKS_Ch_4.pdf){target="_blank"}, Chapter 4 (2014)
 
 > "When you can’t be fully here, you go to the places where you did feel alive—even if those places are filled with horror and misery (van der Kolk, p. 73)."
 
