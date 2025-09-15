@@ -54,7 +54,7 @@ Here is a list of learning activities that will benefit you in completing this u
 
 Please see the Assessment section in Moodle for assignment details.
 
-### Resources {.unnumbered}
+### References {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
@@ -502,7 +502,7 @@ Before you move on, you may want to check that you are able to:
 
 :::
 
-## Resources {.unnumbered}
+## References {.unnumbered}
 
 <!--## Views and Approaches to Integration
 

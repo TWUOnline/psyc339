@@ -50,7 +50,7 @@ Here is a list of Learning Activities that will benefit you in completing this u
 
 Please see the Assessment section in Moodle for assignment details.
 
-### Resources {.unnumbered}
+### References {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
@@ -64,7 +64,7 @@ This first unit will lead you to explore some of the research on trauma. Topic 1
 
 The resources provided for this topic will discuss the areas of the brain trauma affects and how it differs from stress. Dr. Bessel van der Kolk’s famous book *The Body Keeps the Score* (2014) will also be discussed, and we will conclude this section with some definitions and key terms you should know.
 
-## Trauma
+### Trauma {.unnumbered}
 
 Trauma is a very difficult mental health issue to work with. A trauma is a painful, confusing, intergenerational, illogical, interfering, irrational, and shocking experience. The treatment of trauma requires more than a series of four to five sessions; it can be a lengthy and complex process with advances and setbacks.
 

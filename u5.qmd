@@ -49,7 +49,7 @@ Here is a list of learning activities that will benefit you in completing this u
 
 Please see the Assessment section in Moodle for assignment details.
 
-### Resources {.unnumbered}
+### References {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
@@ -284,7 +284,7 @@ After reading, consider the following questions and use them as a tool to help y
 
 :::
 
-# Strategies for Dealing with Stress and Resilience
+## Strategies for Dealing with Stress and Resilience
 
 Being resilient means overcoming setbacks and challenges such as losing a job, facing illness, experiencing a disaster, or grieving a loved one. These stressful events can lead people to unhealthy coping mechanisms such as substance abuse, eating disorders, or risky behaviours, which can make them feel stuck in their problems or victimized. While resilience doesn’t eliminate difficulties, it helps people look beyond them, find joy in life, and handle stress more effectively.
 
@@ -363,7 +363,7 @@ Before you move on to the next unit you may want to check that you are able to:
 
 :::
 
-## Resources
+## References {.unnumbered}
 
 <!-- ## Stress and Resilience
 
