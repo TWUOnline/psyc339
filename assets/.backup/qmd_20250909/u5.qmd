@@ -13,7 +13,7 @@ This unit is divided into the following topics:
 2. The development of stress/resilience
 3. Therapy room strategies for dealing with stress and resilience
 
-#### Unit Learning Outcomes {.unnumbered} {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit, you will be able to:
 
@@ -24,7 +24,7 @@ When you have completed this unit, you will be able to:
 - Practice the skill of validation as outlined in EFFT
 - Develop a preliminary treatment plan and know where to find resources and further specialized training
 
-#### Learning Activities {.unnumbered} {.unnumbered}
+### Learning Activities {.unnumbered}
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
@@ -42,11 +42,7 @@ Here is a list of learning activities that will benefit you in completing this u
 10. Watch: Dan Siegel on Neurobiology & Resilience
 11. Read: Case Study
 
-::: {.note icon="true"}
-
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
-
-:::
+*Note:* Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 

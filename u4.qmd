@@ -1,3 +1,5 @@
+# Work with Mental Health Issues
+
 ## Overview {.unnumbered}
 
 Your journey through this course has reached the halfway point. We will discuss three major mental health issues in this unit: depression, suicidality, and eating disorders. As part of this unit we will examine what a mental health issue is, why it occurs, and how it can be dealt with. These topics, like all of our topics so far, can be difficult and triggering. We encourage you to take breaks, to skim or to skip sections if you find them triggering.
@@ -26,16 +28,26 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ::: {.learning-activity}
 
-1. Read…
-2. Watch…
-3. Explore…
-4. Complete the ungraded quiz.
+1. Video: Neuroscience of Depression
+2. Read: *I Don’t Want to Talk About It*
+3. Familiarize Yourself With: The PHQ-9
+4. Video & Read: Shneidman
+5. Read: *Suicide Clusters*
+6. Video: *What is an Eating Disorder?*
+7. Read (Optional): Emotional Eating
+8. Read: *I Don’t Want to Talk About It*, Chapter 4
+9. Read (Optional): *The Bible*, Psalm 88
+10. Video: Suicide and the Brain
+11. Read: Risk Factors for Depression and Suicide Ideation
+12. Video: Eating Disorders and the Brain
+13. Read: Eating Disorders and Generational Influences
+14. Read (Optional): Eating Disorders and Caregiver Involvement
+15. Explore: Community Resources
+16. Practice: Emotion Coaching and Behaviour Coaching
+17. Write: EFFT and Suicidality
+18. Complete Exercise: EFFT and Eating Disorders
 
-::: {.note icon="true"}
-
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
-
-:::
+*Note:* Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 
@@ -50,13 +62,13 @@ Here are the resources you will need to complete this unit.
 - Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association.
 - Other online resources will be provided in the unit.
 
-# What are Depression, Suicidality, and Eating Disorders?
+## What are Depression, Suicidality, and Eating Disorders?
 
 Suicidality, eating disorders, and depression are some of the "main" mental health issues that one might encounter in the therapy room. These issues will only be touched upon in this unit. In our EFFT text we have been learning that mental health issues are caused by unprocessed emotions. Rather than experiencing things that cause mental health issues, it is experiencing them alone without the ability to process what is happening that causes the issue. According to EFFT, mental health issues would not occur if we were able to process emotions correctly. Both trauma and addiction can be comorbid.
 
 It may seem that the first two topics are disjointed from previous topics, but the purpose is to pique your interest and introduce you to the researchers and clinicians in this field. Throughout this unit I encourage you to draw upon and incorporate what you have learned in the previous units, particularly about the brain and how it interacts with these issues.
 
-## Depression
+### Depression {.unnumbered}
 
 The medical term depression (major depressive disorder) refers to a serious, common psychological illness that negatively affects a person’s feelings, thoughts, and actions. An individual suffering from depression may experience sadness and/or a loss of interest in activities they previously enjoyed. Depression may also make it difficult for an individual to perform their duties at work or at home. There may be a variety of emotional and physical problems associated with it.
 
@@ -70,16 +82,28 @@ I invite you to watch the following YouTube clip to introduce yourself to the va
 
 - [*10-Minute Neuroscience: Depression*](https://www.youtube.com/watch?v=1euK8OSIR9E){target="_blank"} (2023)
 
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/1euK8OSIR9E >}}
+
+</div>
+
 **Questions to Consider**
 
-- What are some of the hypotheses that this video covers?
-- What has been the traditional or original hypothesis? Why?
-- What is neuroplasticity and neurogenesis?
-- What area of the brain does neuroplasticity and neurogenesis take place in?
+1. What are some of the hypotheses that this video covers?
+2. What has been the traditional or original hypothesis? Why?
+3. What is neuroplasticity and neurogenesis?
+4. What area of the brain does neuroplasticity and neurogenesis take place in?
 
 **Optional Video | How Depression Affects the Brain**
 
 - [*How Depression Affects the Brain – Yale Medicine Explains*](https://www.youtube.com/watch?v=BZOLxSQwER8){target="_blank"} (2021)
+
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/BZOLxSQwER8 >}}
+
+</div>
 
 :::
 
@@ -89,7 +113,7 @@ I invite you to watch the following YouTube clip to introduce yourself to the va
 
 In his work as a psychotherapist, Terry Real has made a significant contribution to the discussion of male depression and advocacy for it. The publication of his book *I Don’t Want to Talk About It* (1998) created a significant wave in the field of psychology, and he has been presenting on the subject ever since. Real incorporates his own narrative and his own journey through depression into the book. The teaser below is only a brief excerpt, and you are encouraged to read the whole book.
 
-- [*Men’s Hidden Depression*, Chapter 1](../U4%20Files/Real_Ch_1.pdf){target="_blank"} (1998)
+- [*Men’s Hidden Depression*, Chapter 1](assets/u4/Real_Ch_1.pdf){target="_blank"} (1998)
 
 **Questions to Consider**
 
@@ -110,6 +134,12 @@ Please view the following video, not for information regarding psychotherapy or 
 
 - [*What I Learned From My Husband’s Suicide*](https://www.youtube.com/watch?v=Jb_1IklnhaU){target="_blank"} (2020)
 
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/Jb_1IklnhaU >}}
+
+</div>
+
 :::
 
 ### Activity: Familiarize Yourself With the PHQ-9
@@ -122,7 +152,7 @@ Take a moment to read a patient health questionnaire that is commonly used to as
 
 :::
 
-## Suicidality
+### Suicidality {.unnumbered}
 
 Suicidality includes suicide attempts as well as suicidal ideation. A suicidal ideation is the presence of suicidal thoughts. A person may experience suicidal ideation in a variety of ways, from fleeting and unwelcome thoughts, to a preoccupation with death that requires extensive planning.
 
@@ -138,12 +168,18 @@ Watch the following video of Dr. Shneidman talking about some of his work.
 
 - [*My Suicide Shneidman Sequence QT*](https://www.youtube.com/watch?v=0KAE5IGOTxw){target="_blank"} (2014)
 
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/0KAE5IGOTxw >}}
+
+</div>
+
 **Questions for Reflection**
 
 1. How did you respond to the way Shneidman talks about suicidology?
 2. Is there anything that you would agree or disagree with and why?
 
-Read Shneidman’s [*Contributions to the Understanding of Suicidal Thinking*](../U4%20Files/Cognition_and_Suicide.pdf){target="_blank"} (2006)
+Read Shneidman’s [*Contributions to the Understanding of Suicidal Thinking*](assets/u4/Cognition_and_Suicide.pdf){target="_blank"} (2006)
 
 **Questions to Consider**
 
@@ -170,6 +206,12 @@ Watch the following video about suicide clusters (note that the video is 6:42 mi
 
 - [*‘Suicide Cluster’ in Palo Alto: Students Share Stories of Anxiety, Depression*](https://www.youtube.com/watch?v=F6S3jcJ-Imw){target="_blank"} (2016)
 
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/F6S3jcJ-Imw >}}
+
+</div>
+
 **Questions to Consider**
 
 Consider the following questions to help guide your learning.
@@ -187,17 +229,23 @@ Consider the following questions to help guide your learning.
 
 :::
 
-## Eating Disorders
+### Eating Disorders {.unnumbered}
 
 An eating disorder is a behavioural condition characterized by persistent and severe disturbances of eating behaviours, as well as distressing thoughts and emotions. Physical, psychological, and social functioning can all be affected by these conditions. In addition to anorexia nervosa, bulimia nervosa, binge eating disorder, avoidant restriction of food intake disorder, and pica and rumination disorders, there are several other eating disorders.
 
-### Activity: Watch | What is an Eating Disorder?
+### Activity: Watch | *What is an Eating Disorder?*
 
 ::: {.learning-activity}
 
 Cynthia Bulik, a leading researcher in the field of eating disorders, gives an overview of what eating disorders are and how common they are.
 
 - [*Cynthia Bulik on Eating Disorders*](https://www.youtube.com/watch?v=Fxe6WLNSxcw){target="_blank"} (2010)
+
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/Fxe6WLNSxcw >}}
+
+</div>
 
 **Questions to Consider**
 
@@ -234,13 +282,13 @@ After reading, consider the following questions and use them to help you keep tr
 
 :::
 
-# What Causes Mental Health Issues?
+## What Causes Mental Health Issues?
 
 The aim of this discussion is to explore some of the potential causes of mental health issues. It’s important to note that identifying a single cause of mental illness is often difficult, as multiple factors can contribute to its development. As we have previously discussed, these factors may include early adverse life experiences such as trauma, as well as a history of abuse, whether directly experienced or witnessed. Refer back to the diagram we looked at earlier, which outlines various contributors to the development of mental health issues. Extensive research also shows that mental health problems can be linked to chronic medical conditions such as cancer or diabetes. Additionally, biological factors, chemical imbalances in the brain, and changes in brain structure due to alcohol or drug use can play significant roles. Our brains, bodies, and emotions are deeply interconnected, making it challenging to pinpoint direct causes and effects.
 
 In this section we will discuss some of the research behind why mental health issues occur. As we continue our study of the brain, draw upon the knowledge you have gained from the previous units. The topic of depression will be discussed first, followed by suicidality, and then eating disorders.
 
-## Depression
+### Depression {.unnumbered}
 
 While depressive disorders are often labelled as chemical imbalances, this oversimplifies their complexity. Research shows that depression isn’t simply caused by a lack or excess of certain brain chemicals. Factors such as faulty mood regulation, genetic vulnerability, and stressful life events all contribute, often interacting with one another. Individuals with similar symptoms of depression may have entirely different underlying causes, and respond to different treatment approaches.
 
@@ -252,7 +300,7 @@ Terry Real’s book provides insight into how and why depression develops. This 
 
 As you will see in the following chapter, Real is a very systemic therapist. Notice the emphasis on process rather than content—**how** the client is showing up rather than what the client wishes to discuss or share. Observe how Real’s approach relates to our learning of EFFT.
 
-- [*I Don’t Want to Talk About It*, Chapter 4](../U4%20Files/Real_Ch_4.pdf){target="_blank"} (1998)
+- [*I Don’t Want to Talk About It*, Chapter 4](assets/u4/Real_Ch_4.pdf){target="_blank"} (1998)
 
 **Questions to Consider**
 
@@ -280,7 +328,7 @@ After reading this chapter, consider the following questions and use them as a t
 
 :::
 
-## Suicide
+### Suicide {.unnumbered}
 
 Suicide ideation is a very prevalent issue in our society. For those who have never experienced suicide ideation or been close to that moment of contemplation, it can be difficult to imagine the reasoning behind how this can occur. In this next section we will explore why suicide ideation might occur and why such ideation can lead to dying by suicide. As with our previous units, we will spend time looking at the brain and what brain activity occurs when suicide ideation is present.
 
@@ -293,6 +341,12 @@ Dr. Daniel Amen is a prominent researcher who studies the brain in relation to m
 He is not a very empathetic speaker, and some do not agree with some of his approaches (for example guilting clients). Nevertheless, he is a solid researcher and it is important to understand his perspective and how he looks at the brain.
 
 - [*The Science Behind Suicidal Thoughts*](https://www.youtube.com/watch?v=GJkTElq8UFM){target="_blank"} (2019)
+
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/GJkTElq8UFM >}}
+
+</div>
 
 **Questions to Consider**
 
@@ -327,7 +381,7 @@ After reading, consider the following questions and use them as a tool to help y
 
 Here is an article that addresses all three mental health issues that we are discussing. As we have stated previously, mental health issues have the potential to affect one another and coexist with one another.
 
-- [*The Role of Body Image and Disordered Eating as Risk Factors for Depression and Suicidal Ideation in Adolescents*](https://d.docs.live.net/47342b2749fd82eb/Desktop/_Trinity%20Western_Editing/Psych%20339/1.%20Original%20Files%20From%20Production/assets/u4/The_Role_of_Body_Image.pdf){target="_blank"} (2009)
+- [*The Role of Body Image and Disordered Eating as Risk Factors for Depression and Suicidal Ideation in Adolescents*](assets/u4/The_Role_of_Body_Image.pdf){target="_blank"} (2009)
 
 **Questions to Consider**
 
@@ -344,7 +398,7 @@ After reading, consider the following questions and use them as a tool to help y
 
 :::
 
-## Eating Disorders
+### Eating Disorders {.unnumbered}
 
 The exact cause of eating disorders is unknown. As previously discussed, there are many possible causes of mental illness. Psychological, environmental, and social factors may contribute to the development of eating disorders in some individuals due to their genes and relational issues.
 
@@ -356,6 +410,12 @@ In this video you will learn how eating disorders affect the brain, and what is 
 
 - [*The Eating Disorder Brain vs. The Well Brain: Effects of the Starving Brain and Eating Disorders*](https://www.youtube.com/watch?v=V44xLqCmV2U){target="_blank"} (2021)
 
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/V44xLqCmV2U >}}
+
+</div>
+
 **Questions to Consider**
 
 After watching the video, consider the following question and use it as a tool to help you process the information.
@@ -364,7 +424,7 @@ After watching the video, consider the following question and use it as a tool t
 
 :::
 
-### Activity: Read | Eating Disorders and Generational influences
+### Activity: Read | Eating Disorders and Generational Influences
 
 ::: {.learning-activity}
 
@@ -388,7 +448,7 @@ As part of the EFFT curriculum we are taught that families have a profound impac
 
 An important study related to eating disorders and EFFT intervention is reported in this research article. It is likely that by this point you will recognize some of the researchers’ names and have some understanding of some of the concepts they are discussing.
 
-- [The Influence of Carer Fear and Self-Blame When Supporting a Loved One With an Eating Disorder](../U4%20Files/Article_EDEFFT.pdf){target="_blank"}, *Eating Disorders: The Journal of Treatment and Prevention* (2016).
+- [The Influence of Carer Fear and Self-Blame When Supporting a Loved One With an Eating Disorder](assets/u4/Article_EDEFFT.pdf){target="_blank"}, *Eating Disorders: The Journal of Treatment and Prevention* (2016).
 
 **Questions to Consider**
 
@@ -403,7 +463,7 @@ After reading, consider the following questions and use them as a tool to help y
 
 :::
 
-# How Do We Work With Mental Health Issues
+## How Do We Work With Mental Health Issues
 
 To effectively assist a client or friend or family member with a mental health issue it is helpful to know what resources are available both to support the client or loved one as well as to support you. As there are many variables to consider when treating mental health issues, each client’s treatment will differ. This topic will include readings and activities designed to facilitate this learning.
 
@@ -443,7 +503,7 @@ In this section we will practice our skills of emotion coaching and behaviour co
 
 Use the tool below to help in developing your script. Remember that if you close your browser, the work done will not be saved, so you might wish to download or save the file.
 
-- <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=483" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen" title=""></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=483" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen" title=""></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 :::
 
@@ -461,7 +521,7 @@ This validation statement will not be accompanied by an actual scenario. Instead
 
 Use the tool below to assist you. Remember to save or download your work before you close your browser.
 
-- <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=484" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen" title=""></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=484" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen" title=""></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 :::
 
@@ -475,13 +535,29 @@ If a caregiver has struggled or continues to struggle with an eating disorder or
 
 Complete the exercise given in the tool below. Remember to save or download your work before you close your browser.
 
-- <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=485" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen" title=""></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=485" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen" title=""></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 :::
 
-# Unit 4 Resources
+## Summary {.unnumbered}
 
-## What are Depression, Suicidality, and Eating Disorders?
+You have learned about three different major mental health issues in this fourth unit: depression, suicidality, and eating disorders. As part of this unit you have learned what a mental health issue is, why it occurs, and how it can be dealt with considering the resources available. Additionally, you have practiced with case scenarios. Having acquired a broad understanding of each mental health issue, you will be prepared to begin validating these very difficult conditions. In the event that you were triggered or stirred up in any way by this unit’s discussions, I encourage you to take care of yourself and seek out someone to talk to, as well as implement any other grounding techniques you find helpful.
+
+::: {.check}
+
+Before you move on to the next unit you may want to check that you are able to:
+
+1. Demonstrate knowledge of some of the major researchers in the field of mental health
+2. Engage in conversations about suicidality, eating disorders, and self-harm
+3. Start conceptualizing mental health crisis cases
+4. Practice the skill of validation as outlined in EFFT
+5. Develop a preliminary treatment plan and know where to find resources and further specialized training
+
+:::
+
+## Resources {.unnumbered}
+
+<!-- ## What are Depression, Suicidality, and Eating Disorders?
 
 **Videos**
 
@@ -489,61 +565,25 @@ Complete the exercise given in the tool below. Remember to save or download your
 
 {{< video https://www.youtube-nocookie.com/embed/F6S3jcJ-Imw >}}
 
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
 - BreakfastAlien. (2014). *My suicide Shneidman sequence QT* [Video]. YouTube. [https://www.youtube.com/watch?v=0KAE5IGOTxw](https://www.youtube.com/watch?v=0KAE5IGOTxw){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/0KAE5IGOTxw >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
 
 - Neuroscientifically Challenged (2023.). *10-minute neuroscience: Depression* [Video]. YouTube. [https://www.youtube-nocookie.com/embed/1euK8OSIR9E](https://www.youtube.com/watch?v=1euK8OSIR9E){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/1euK8OSIR9E >}}
 
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
 - TEDxTalks. (2020). *What I learned from my husband’s suicide - Lori Prichard* [Video]. YouTube. [https://youtu.be/Jb_1IklnhaU](https://youtu.be/Jb_1IklnhaU){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/Jb_1IklnhaU >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
 
 - UNC-Chapel Hill. (2010). *Cynthia Bulik on eating disorders* [Video]. YouTube. [https://youtu.be/Fxe6WLNSxcw](https://youtu.be/Fxe6WLNSxcw){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/Fxe6WLNSxcw >}}
 
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
 - Yale Medicine (2021). *How depression affects the brain* [Video]. YouTube. [https://www.youtube.com/watch?v=BZOLxSQwER8](https://www.youtube.com/watch?v=BZOLxSQwER8){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/BZOLxSQwER8 >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
 
 **Readings**
 
@@ -564,21 +604,9 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 
 {{< video https://www.youtube-nocookie.com/embed/GJkTElq8UFM >}}
 
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
 - [The Eating Disorder Brain vs. The Well Brain | Effects of the Starving Brain and Eating Disorders](https://youtu.be/V44xLqCmV2U){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/V44xLqCmV2U >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
 
 **Readings**
 
@@ -609,20 +637,4 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 - Healthline. (2024). *How can I get help for depression*. [https://www.healthline.com/health/depression/help-for-depression#other-treatments](https://www.healthline.com/health/depression/help-for-depression#other-treatments){target="_blank"}
 - Lines for Life. (n.d.). *Services and crisis lines*. [https://www.linesforlife.org/get-help-now/services-and-crisis-lines/](https://www.linesforlife.org/get-help-now/services-and-crisis-lines/){target="_blank"}
 - National Eating Disorder Information Centre. (n.d.). *Helpline*. [https://nedic.ca/](https://nedic.ca/){target="_blank"}
-- The Crisis Centre of B. C. (n.d.). *Get support*. [https://www.crisiscentre.bc.ca/get-support/](https://www.crisiscentre.bc.ca/get-support/){target="_blank"}
-
-## Summary {.unnumbered}
-
-You have learned about three different major mental health issues in this fourth unit: depression, suicidality, and eating disorders. As part of this unit you have learned what a mental health issue is, why it occurs, and how it can be dealt with considering the resources available. Additionally, you have practiced with case scenarios. Having acquired a broad understanding of each mental health issue, you will be prepared to begin validating these very difficult conditions. In the event that you were triggered or stirred up in any way by this unit’s discussions, I encourage you to take care of yourself and seek out someone to talk to, as well as implement any other grounding techniques you find helpful.
-
-::: {.check}
-
-Before you move on to the next unit you may want to check that you are able to:
-
-1. Demonstrate knowledge of some of the major researchers in the field of mental health
-2. Engage in conversations about suicidality, eating disorders, and self-harm
-3. Start conceptualizing mental health crisis cases
-4. Practice the skill of validation as outlined in EFFT
-5. Develop a preliminary treatment plan and know where to find resources and further specialized training
-
-:::
+- The Crisis Centre of B. C. (n.d.). *Get support*. [https://www.crisiscentre.bc.ca/get-support/](https://www.crisiscentre.bc.ca/get-support/){target="_blank"}-->

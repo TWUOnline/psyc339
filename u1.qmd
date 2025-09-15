@@ -1,3 +1,5 @@
+# Work with Trauma
+
 ## Overview {.unnumbered}
 
 Unit 1 explores the complexity of trauma, why it happens, and how to respond to it when it shows up in our work. This unit is designed to provide you with some research, theory, and practical resources so that you will feel confident and competent when you encounter trauma at work or in daily life. Although you will not be expected to become an expert on every topic we will examine, it is imperative that you are able to locate information when confronted with it in order not to become overwhelmed by the large amount and various sources of information available.
@@ -10,20 +12,20 @@ This unit is divided into the following topics:
 2.  Why and How Does Trauma Happen?
 3.  How Do We Work With Trauma?
 
-### Unit Learning Outcomes {.unnumbered}
+#### Unit Learning Outcomes {.unnumbered} {.unnumbered}
 
 When you have completed this unit you will be able to:
 
--   Demonstrate knowledge of some of the major researchers in the field of trauma
--   Distinguish between emotional abuse, physical abuse, and sexual abuse
--   Identify some of the signs and triggers of trauma
--   Begin to conceptualize a trauma case
--   Use the validation skill outlined in emotion-focused family therapy (EFFT)
--   Develop a preliminary treatment plan and know where to find resources and further specialized training
+1. Demonstrate knowledge of some of the major researchers in the field of trauma
+2. Distinguish between emotional abuse, physical abuse, and sexual abuse
+3. Identify some of the signs and triggers of trauma
+4. Begin to conceptualize a trauma case
+5. Use the validation skill outlined in emotion-focused family therapy (EFFT)
+6. Develop a preliminary treatment plan and know where to find resources and further specialized training
 
-### Learning Activities {.unnumbered}
+#### Learning Activities {.unnumbered} {.unnumbered}
 
-Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+Here is a list of Learning Activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
 ::: learning-activity
 1.  Watch: What is Trauma? 
@@ -34,17 +36,11 @@ Here is a list of learning activities that will benefit you in completing this u
 6.  Read: The Body Keeps the Score, Chapter 4
 7.  Read: In the Realm of Hungry Ghosts, Chapters 17 and 18
 8.  Read (Optional): The Effects of Complex Trauma on Brain Development
-
 9.  Read (Optional): Treating Adult Survivors of Childhood Emotional Abuse and Neglect, pp. 3–12
-
 10. Read (Optional): Treating Adult Survivors of Childhood Emotional Abuse and Neglect
-
 11. Read (Optional): Complex Trauma and the Christian Context
-
 12. Read: Emotion-Focused Family Therapy, pp. 3–48
-
 13. Exploration (Optional): Trauma-Informed Therapies
-
 14. Read: Case Study 
 
 *Note:* Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
@@ -80,7 +76,7 @@ In the course of working with trauma as therapists, we have the tendency to desi
 
 ### Activity: What is Trauma?
 
-::::: learning-activity
+::: learning-activity
 View the following videos and listen to Dr. Bessel van der Kolk, one of the most prominent trauma researchers, then answer the following questions. You may want to watch the first video more than once since a lot of information is packed into a short timeframe.
 
 -   [*What is Trauma? The Author of "The Body Keeps the Score" Explains*](http://www.youtube-nocookie.com/embed/BJfmfkDQb14?si=asC9vWgUqFl43TqY){target="_blank"} (2021)
@@ -107,12 +103,12 @@ You will be able to check your understanding of the topic by considering these q
 6.  What are the three areas that are affected in those who have experienced childhood trauma?
 :::::
 
-### Activity: Reading \| *The Body Keeps the Score*, Prologue
+### Activity: Reading | The Body Keeps the Score, Prologue
 
 ::: learning-activity
 Reading the prologue to Dr. van der Kolk’s book will provide you a good introduction to trauma and to his experience and work with it.
 
--   [*The Body Keeps the Score*](assets/u1/BKTS_Prologue.pdf){target="_blank"}*,* Prologue (2014)
+-   [*The Body Keeps the Score*](assets/u1/BKTS_Prologue.pdf){target="_blank"}, Prologue (2014)
 
 **Questions to Consider**
 
@@ -123,12 +119,12 @@ You will be able to check your understanding of the topic by considering these q
 3.  What are the three approaches used in helping heal traumatized individuals?
 :::
 
-### Activity: Optional Reading \| *The Body Keeps the Score*, Chapter 3
+### Activity: Optional Reading | The Body Keeps the Score, Chapter 3
 
 ::: learning-activity
 If you plan to work with traumatized individuals, Chapter 3 in *The Body Keeps the Score* is an excellent suggested resource for you.
 
--   [The Body Keeps the Score, Chapter 3](assets/u1/TBKTS_Ch.3.pdf){target="_blank"} (2014)
+-   [*The Body Keeps the Score*, Chapter 3](assets/u1/TBKTS_Ch.3.pdf){target="_blank"} (2014)
 
 **Highlights from the reading are described in the following paragraphs (van der Kolk, 2014):**
 
@@ -191,7 +187,7 @@ Use the tool below to assist you in this activity. Please note that if you close
 
 To develop a preliminary understanding of why trauma occurs, you have learned defining terms in the previous topic. This topic will focus on why and how PTSD develops and persists—we often tend to focus on the "why" of abuse; however PTSD is not something to discuss in the beginning. The learning activities included in this topic will allow you to explore the reasons why the brain and body can perceive an event as if it were happening right now, even when an event or series of events occurred in the past. Furthermore, the resources will discuss what happens to our brains when trauma occurs and persists over time. Despite some repetition in the resources, the expectation is that you will retain more of the information by digesting it through various sources and formats.
 
-### Activity: Reading \| *The Body Keeps the Score*, Chapter 4
+### Activity: Reading | The Body Keeps the Score, Chapter 4
 
 :::: learning-activity
 Despite being potentially overwhelming, this chapter is extremely informative regarding what happens to the brain when trauma occurs. Please use the following questions to guide your reading, as they will assist you in focusing on the most important information.
@@ -220,14 +216,14 @@ You will be able to check your understanding of the topic by considering the fol
 8.  What parts of the brain need to be "online" in order to visit past traumatic memories?
 ::::
 
-### Activity: Reading \| *In the Realm of Hungry Ghosts*, Chapters 17 and 18
+### Activity: Reading | In the Realm of Hungry Ghosts, Chapters 17 and 18
 
 ::: learning-activity
 Gabor Maté’s book, *In the Realm of Hungry Ghosts* (2010), focuses on addiction. You may want to spend some time reading Chapters 17 and 18 to better understand how addiction and trauma are intertwined.
 
 Maté is famous for saying, "don’t ask why the addiction, but why the pain." He would state that every person who has an addiction has experienced trauma (Maté, 2010). Thus, we will read a few chapters from the book that describe how the brain develops and works. Observe how Maté describes both physical trauma and emotional trauma. The need for strong attachment figures from a young age has been discussed and will continue to be discussed—this section explains the effects on the brain and brain development. Our next unit on addiction will benefit from investigating the effects on the brain.
 
--   *In the Realm of Hungry Ghosts: Close Encounters With Addiction* (2010)
+-   In the Realm of Hungry Ghosts: Close Encounters With Addiction (2010)
 
 **Questions to Consider**
 
@@ -249,7 +245,7 @@ Complextrauma.org is an excellent website to familiarize yourself with for resea
 -   [*The Effects of Complex Trauma on Brain Development*](https://www.complextrauma.org/complex-trauma/the-effects-of-complex-trauma-on-brain-development/){target="_blank"} (n.d.)
 :::
 
-### Activity: Optional Reading \| *Treating Adult Survivors of Childhood Emotional Abuse and Neglect*, pp. 3–12
+### Activity: Optional Reading | Treating Adult Survivors of Childhood Emotional Abuse and Neglect, pp. 3–12
 
 ::: learning-activity
 Literature in this section discusses emotional abuse or neglect and psychological trauma. Emotional and psychological trauma is a relatively new and complex area of trauma study, and it is crucial that we learn how this affects the systems in which we live, work, and commune. As you read this section, keep the authors’ working definition of complex trauma in the back of your mind—they identify complex trauma as defined by Courtois (2004) and Courtois & Ford, (2010):
@@ -280,12 +276,12 @@ There are many therapy modalities that are specifically designed for trauma; EFF
 
 > In our view, successful complex trauma intervention in real-life practice—particularly when conducted with adult survivors of the kind of pervasive and profound deprivation and debasement that comes from living through chronic and severe emotional abuse and neglect in childhood—can almost never be accomplished through adoption of a singular clinical target, follow a consistently linear process, or result from adherence to one specific clinical technique. In contrast, it is tangled, precarious work, work that is predictable in its unpredictability, that inevitably requires the therapists’ extensive use of themselves in the treatment process and that simultaneously demands attention to the body and all that usually goes unspoken in trauma and psychotherapy. (Hopper et al., 2021, pp. 14–15)
 
-### Activity: Optional Reading \| *Treating Adult Survivors of Childhood Emotional Abuse and Neglect*
+### Activity: Optional Reading | Treating Adult Survivors of Childhood Emotional Abuse and Neglect
 
 ::: learning-activity
 Read the following article for a description of a new framework for treating childhood emotional abuse and neglect. This article describes component-based psychotherapy. This is not an essential therapy for you to know as we will be focusing on learning about emotionally-focused family therapy in our time together, but if you are interested in working with trauma or have done so previously, I would recommend reading this article.
 
--   [Treating Adult Survivors of Childhood Emotional Abuse and Neglect](assets/u1/Survivors_of_Emotional_Abuse_and_Neglect.pdf){target="_blank"} (2021)
+-   [*Treating Adult Survivors of Childhood Emotional Abuse and Neglect*](assets/u1/Survivors_of_Emotional_Abuse_and_Neglect.pdf){target="_blank"} (2021)
 
 **Questions to Consider**
 
@@ -295,7 +291,7 @@ You will be able to check your understanding of the topic by considering the fol
 2.  What does CBP stand for? What are some preliminary characteristics of the model?
 :::
 
-### Activity: Optional Reading \| *Complex Trauma and the Christian Context*
+### Activity: Optional Reading | Complex Trauma and the Christian Context
 
 ::: learning-activity
 An adult with complex trauma history frequently experiences disrupted systems of meaning, which can lead to adversely affected belief systems. The experiences of shame, betrayal, meaning-making, and mourning experienced by adult survivors of childhood trauma often complicate their spiritual or religious beliefs. The goal of this activity is to provide you with a better understanding of how a complex trauma treatment is applied within a Christian context.

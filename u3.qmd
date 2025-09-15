@@ -1,3 +1,5 @@
+# Work with Grief, Loss, and Death
+
 ## Overview {.unnumbered}
 
 In this unit we will spend some time discussing a subject that we tend to avoid—death accompanied by grieving. Grieving can be challenging in a culture that often ignores loss and avoids discussing its impact, as H. Norman Wright points out at the start of his book, *Experiencing Grief*, which you’ll have the opportunity to read later in this unit. Wright notes, "When we add this silence to the fact that most of us have never been taught about the process and normalcy of grief and death, no wonder we struggle" (2004, p. 1).
@@ -18,11 +20,12 @@ This unit is divided into the following topics:
 
 When you have completed this unit you will be able to:
 
-- Identify and discuss some of the major authors in the field of addiction
-- Interpret the phrase, "Not why the addiction, but why the pain?"
-- Conceptualize an addictions case
-- Practice the skill of validation as outlined in EFFT
-- Develop a preliminary treatment plan and know where to find resources and further specialized training
+1. Identify some of the major researchers in the area of Grief and Loss 
+2. Examine the societal and cultural view of death and dying and how it affects the individual. 
+3. Identify one’s own relationship to death and interact with it. 
+4. Conceive of a scenario where someone is experiencing grief and loss 
+5. Practice the skill of validation as outlined in EFFT 
+6. Develop a preliminary treatment plan and know where to find resources and further specialized training 
 
 ### Learning Activities {.unnumbered}
 
@@ -30,16 +33,19 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ::: {.learning-activity}
 
-1. Read…
-2. Watch…
-3. Explore…
-4. Complete the ungraded quiz.
+1. Watch: *What is Grief?*
+2. Watch: Kübler-Ross’ Five Stages of Grief
+3. Read (Optional): Experiencing Grief
+4. Exploration: Websites
+5. Read: A Personal Journey Through the Grief and Healing Process
+6. Read: *Being Mortal*, Chapter 1, The Independent Self
+7. Read: *Being Mortal*, Chapter 2, Things Fall Apart
+8. Search Online: Complicated Grief
+9. Read: Generating a Vocabulary of Mourning: Supporting Families Through the Process of Grief
+10. Review: *Emotion-Focused Family Therapy*, Chapters 1–2 and Read: Chapter 5
+11. Read (Optional): *Walking with God Through Pain and Suffering*
 
-::: {.note icon="true"}
-
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
-
-:::
+*Note:* Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 
@@ -54,26 +60,51 @@ Here are the resources you will need to complete this unit.
 - Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association
 - Online resources will be provided in the unit.
 
-# What is Grief?
+## What is Grief?
 
 When a person endures a loss they will inevitably experience grief. At some point in our lives, we all face grief. The nature of the loss shapes an individual’s grieving experience. Loss can occur in many forms: the death of a loved one, the end of a meaningful relationship, losing a job, facing a disability, or enduring the illness of a loved one. Whether grief stems from a loved one’s passing or a terminal diagnosis, it is a powerful, sometimes overwhelming emotion. Grief can leave a person feeling numb or disconnected from daily life. To better cope with grief at various stages, experts recommend learning about the grieving process. Understanding the underlying causes of significant emotions, such as guilt over a loss, can help in navigating them.
 
-### Activity: Watch | What is Grief?
+### Activity: Watch | *What is Grief?*
 
-::: {.learning-activity time="00 minutesminutes"}
+::: {.learning-activity}
 
 Julia Samuel talks about what grieving is and what the process is like. Note that she brings up a similar concept to that we have read about in previous units: it’s not so much the event surrounding the death, but having to go through the process on our own without community. Watch the following videos.
 
 - [*What is Grief?*](https://www.youtube.com/watch?v=eEsxoO1gVks){target="_blank"} (2017)
+
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/eEsxoO1gVks >}}
+
+</div>
+
 - [*Things That can Help Us Grieve*](https://www.youtube.com/watch?v=fNNU-ajnG-s){target="_blank"} (2017)
+
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/fNNU-ajnG-s >}}
+
+</div>
 
 **What is it like to be a dying patient?** An older video by Elisabeth Kubler-Ross explains what matters most in the end and what it is like to die.
 
 - [*Understanding Death and Suicide: Part 1*](https://www.youtube.com/watch?v=H6yvJ_MWnJE){target="_blank"} (2010)
 
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/H6yvJ_MWnJE >}}
+
+</div>
+
 **What dying looks like:** Katherine Mannix explains what the signs we see toward the end of life actually mean. It is really important for you to understand this for your own experience of death, as well as when you are interacting with clients to provide them with some psychoeducation.
 
 - [*Dying is Not as Bad as You Think*](https://www.youtube.com/watch?v=CruBRZh8quc){target="_blank"} (2019)
+
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/CruBRZh8quc >}}
+
+</div>
 
 :::
 
@@ -85,7 +116,13 @@ One of the first models in this field was the five stages of grief, which we wil
 
 Watch Elisabeth Kübler Ross’ *Five Stages of Grief*. She was a major influence on how hospice care is structured today. Prior to watching this clip it is important to note that the model was developed for dying patients, not for those who are left behind or are mourners. It may be more appropriate to apply this model to clients who are dying rather than those who are grieving.
 
-- *[Five Stages of Grief](https://www.youtube.com/watch?v=x39p3x0chYU){target="_blank"}* (2012 )
+- *[Five Stages of Grief](https://www.youtube.com/watch?v=x39p3x0chYU){target="_blank"}* (2012)
+
+<div class="video-container">
+
+{{< video https://www.youtube.com/watch?v=x39p3x0chYU >}}
+
+</div>
 
 I also invite you to read the following excerpts from Kübler-Ross’ book *On Death and Dying* (1970). This part of the activity is **optional.**
 
@@ -113,7 +150,7 @@ Students can access the full text via the EPUB Full Text link on the left; you a
 
 :::
 
-### Activity: Optional Read | *Experiencing Grief*
+### Activity: Optional Read | Experiencing Grief
 
 ::: {.learning-activity}
 
@@ -161,11 +198,11 @@ The purpose of this section is to discuss how grief or loss and death affect us.
 
 ### Activity: Read | A Personal Journey Through the Grief and Healing Process
 
-::: {.learning-activity time="00 minutesminutes"}
+::: {.learning-activity}
 
 As you read the following article you will have the opportunity to gain an understanding of how grief or loss and death affect us from the point of view of three main clinicians/researchers in this field. An online version of this article is available through TWU’s library.
 
-- *[A Personal Journey Through the Grief and Healing Process](../U3%20Files/The_Satir_Journal.pdf){target="_blank"}* (2008)
+- [A Personal Journey Through the Grief and Healing Process](assets/u3/The_Satir_Journal.pdf){target="_blank"} (2008)
 
 **Questions to Consider**
 
@@ -180,15 +217,15 @@ As you read the following article you will have the opportunity to gain an under
 
 :::
 
-### Activity: Read | *Being Mortal*, Chapter 1, The Independent Self
+### Activity: Read | Being Mortal, Chapter 1, The Independent Self
 
-::: {.learning-activity time="00 minutesminutes"}
+::: {.learning-activity}
 
 Atul Gawande’s book *Being Mortal* (2017) is a great resource for you to examine how views of the elderly have shifted in our culture, starting with the first chapter. It is my hope that you will come back to this reading when you have time as the entire book presents important viewpoints on the topic.
 
 Death and dying is not explicitly discussed in Chapter 1, but how we view the elderly is important, because our avoidance of interaction with elderly people and thinking about this stage of our lives is arguably a result of avoiding thinking about our own deaths.
 
-- [*Being Mortal:* Chapter 1, The Independent Self](../U3%20Files/Being_Mortal_Chapter1.pdf){target="_blank"} (2017)
+- [*Being Mortal:* Chapter 1, The Independent Self](assets/u3//Being_Mortal_Chapter1.pdf){target="_blank"} (2017)
 
 **Questions to Consider**
 
@@ -209,7 +246,7 @@ The purpose of this chapter is to describe the various trajectories our lives ca
 
 Becoming more comfortable with talking about death is not only beneficial for us psychologically, but also biologically. In order to contribute to the continuation of this conversation, Gawande’s book is a worthwhile and necessary read. I urge all of you to read the remainder of it when you have time.
 
-- [*Being Mortal:* Chapter 2, Things Fall Apart](../U3%20Files/Being_Mortal_Chapter2.pdf){target="_blank"} (2017)
+- [*Being Mortal:* Chapter 2, Things Fall Apart](assets/u2/Being_Mortal_Chapter2.pdf){target="_blank"} (2017)
 
 **Questions to Consider**
 
@@ -238,7 +275,7 @@ Mary Frances O’Connor has done a lot of research in the field of grief, relati
 
 :::
 
-# How Do We Work with Grief?
+## How Do We Work with Grief?
 
 Recent research suggests that grief does not necessarily follow the linear, predictable stages once widely accepted. However it remains broadly understood that grief is a process aimed at recovering meaning after a loss (Brown, 2021). The risk factors for complicated grief are diverse, including depression, anxiety, poor physical health, attachment issues, low perceived social support, family conflict near the end of life, and difficulty accepting death. Understanding these factors can help guide the appropriate support needed.
 
@@ -246,7 +283,7 @@ There is no doubt that there is a great deal of information available regarding 
 
 During this topic you will have the opportunity to increase your knowledge of how to work with grief. You have read in previous sections about some suggested models to work with grief. Grief can also be approached and modelled in many other ways. In preparation for your oral presentation assignment, you will have the opportunity to research some treatment models.
 
-### Activity: Read | *Generating a Vocabulary of Mourning: Supporting Families Through the Process of Grief*
+### Activity: Read | Generating a Vocabulary of Mourning: Supporting Families Through the Process of Grief
 
 ::: {.learning-activity}
 
@@ -291,10 +328,10 @@ In addition, we will spend some time discussing death and dying. This is a topic
 
 As we work through a block we will focus on the psychoeducational component. In spite of the fact that you have read about how you can work with caregivers to work with blocks, I would like you to take the opportunity to apply it to yourself at this time, especially with regard to the subject of death. As we have discussed in this unit, death and loss are topics that tend to be avoided in our culture, but research shows that those who are dying and those who are grieving need to talk about it. Having stated this before, I would argue that it is for this reason that we do not have proper systems in place in North America to provide assistance, honour, and support to the elderly. Gawande (2017) stated in our reading above that we have come to venerate independence above all else. In order to avoid experiencing pain in those vulnerable places, we avoid going there.
 
-Figure 1. The EFFT Tree Metaphor
+::: {#fig-image-u3}
 
 ![](assets/u3/image1.jpg){
-#u3_1
+#fig_u3_1
 .lightbox
 source-text=""
 source-link=""
@@ -305,9 +342,13 @@ source-license-text=""
 source-license-link=""
 }
 
-> When I hear/talk/think about death OR
->
-> When I interact with/think about the elderly I feel … (emotions–roots) … and therefore I react with … (pattern–branches).
+The EFFT Tree Metaphor
+
+:::
+
+When I hear/talk/think about death OR
+
+When I interact with/think about the elderly I feel … (emotions–roots) … and therefore I react with … (pattern–branches).
 
 After you identify the block and validate for yourself why it is present, I encourage you to implement the premise behind the relationship dimensions scale, which is to do the exact opposite of what you normally do. For example, if you never talk about death, seek out someone you trust to have that conversation with. If you have someone in your life that is elderly such as a grandparent or a parent and you never ask them about how they are doing with their deteriorating bodies or if they think about the end, maybe open up that conversation.
 
@@ -321,15 +362,15 @@ An alternative to writing out a validation of silence for someone else could be 
 
 :::
 
-### Activity: Optional Reading | *Walking with God Through Pain and Suffering*
+### Activity: Optional Reading | Walking with God Through Pain and Suffering
 
 ::: {.learning-activity}
 
 The book *Walking With God Through Pain and Suffering* by Timothy Keller (2013) is an excellent resource for those interested in learning more about theology of suffering and pain. Only the content that pertains to our topic in this section will be read. Despite the fact that Keller is primarily discussing pain and suffering, his words are applicable to our discussion on grief, loss, and death, as they are also engulfed in worlds of pain and suffering.
 
-Please read Chapter 11 which you can find here:
+Read Chapter 11 which you can find here:
 
-- [*Walking With God Through Pain and Suffering*, Chapter 11](../U3%20Files/Timothy_Keller_Ch11.pdf){target="_blank"} (2013)
+- [*Walking With God Through Pain and Suffering*, Chapter 11](assets/u3//Timothy_Keller_Ch11.pdf){target="_blank"} (2013)
 
 **Questions to Consider**
 
@@ -346,9 +387,9 @@ By inviting you to read this chapter I hope to initiate a discussion regarding h
 - When we are in the depths of despair and we cry out to God, our call is not to simply believe enough and then God will answer our prayers—our call is to put our trust primarily in God and His wisdom and not our own. There is a surrender in this process which is extremely hard to do. Going through the stages of grief or taking time to work on oneself may need to occur before this can happen.
 - Jesus was thrown in the ultimate fire for you and experienced this process completely on His own. In knowing this, can you trust Him with your small fires?
 
-Please read Chapter 12, "Weeping," which you can find here:
+Read Chapter 12, "Weeping," which you can find here:
 
-- [*Walking with God Through Pain and Suffering*, Chapter 12](../U3%20Files/Timothy_Keller_Ch12.pdf){target="_blank"} (2013)
+- [*Walking with God Through Pain and Suffering*, Chapter 12](assets/u3/Timothy_Keller_Ch12.pdf){target="_blank"} (2013)
 
 We can apply the concepts from this chapter to all of our units so far, as well as to our units to come. As scripture tells us, there is a time for everything: a time for weeping and despair is included in this and Keller expands on the importance of weeping for healthy emotional development, as well as a means for drawing us closer to God.
 
@@ -362,51 +403,36 @@ We can apply the concepts from this chapter to all of our units so far, as well 
 
 :::
 
-# Unit 3 References and Resources
+## Summary {.unnumbered}
 
-## What is Grief?
+During this unit you have been able to learn about grief and dying from the perspective of the dying, as well as the perspective of those left behind. Upon completion of this unit you will hopefully have a better understanding of how to begin interacting with death, the systemic view of death, dying, and the elderly, as well as the importance of confronting our own fears and hesitations concerning death before we are able to assist our clients. Being the "conversation starters" about death also places us in a position to be an instrument of change. Creating more of a comfort and vocabulary around death, grieving, and loss on a societal level will create huge change on the systemic level. We can be a part of this movement.
+
+::: {.check}
+
+Before you move on to the next unit you may want to check that you are able to:
+
+1. Who are some of the major researchers in the field of grief and loss that you can name? 
+2. How do societal and cultural views of death and dying shape an individual’s experience? 
+3. What is your own relationship to death, and how do you notice yourself interacting with it? 
+4. Can you describe a scenario where someone is experiencing grief and loss? 
+5. How would you apply the EFFT skill of validation in a conversation about grief? 
+6. If you were supporting someone through grief, what would your preliminary treatment plan include, and where would you look for additional resources or specialized training? 
+
+:::
+
+## References {.unnumbered}
+
+<!-- ## What is Grief?
 
 **Videos**
 
 - The Good Grief Trust. (2017, November 3). *What is grief—Julia Samuel* [Video]. YouTube. [https://www.youtube.com/watch?v=eEsxoO1gVks](https://www.youtube.com/watch?v=eEsxoO1gVks){target="_blank"}
 
-{{< video https://www.youtube-nocookie.com/embed/eEsxoO1gVks >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
 - The Good Grief Trust. (2017, November 15). *Things that can help us grieve—Julia Samuel* [Video]. YouTube. [https://www.youtube.com/watch?v=fNNU-ajnG-s](https://www.youtube.com/watch?v=fNNU-ajnG-s){target="_blank"}
-
-{{< video https://www.youtube-nocookie.com/embed/fNNU-ajnG-s >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
 
 - Elisabeth Kübler-Ross Foundation. (2010). *Understanding death & suicide—Part 1* [Video]. YouTube. [https://www.youtube.com/watch?v=H6yvJ_MWnJE](https://www.youtube.com/watch?v=H6yvJ_MWnJE){target="_blank"}
 
-{{< video https://www.youtube-nocookie.com/embed/H6yvJ_MWnJE >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
 - BBC Ideas. (2019). [*Dying is not as bad as you think*](https://www.youtube.com/watch?v=CruBRZh8quc){target="_blank"} [Video]. YouTube. [https://www.youtube.com/watch?v=CruBRZh8quc](https://www.youtube.com/watch?v=CruBRZh8quc){target="_blank"}
-
-{{< video https://www.youtube-nocookie.com/embed/CruBRZh8quc >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
 
 **Readings**
 
@@ -439,23 +465,7 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 
 - The Lukin Center. (2021). *EMDR therapy: Demonstration & step-by-step walkthrough* [Video]. YouTube. [https://www.youtube.com/watch?v=M2ra8p4MSOk](https://www.youtube.com/watch?v=M2ra8p4MSOk){target="_blank"}
 
-{{< video https://www.youtube-nocookie.com/embed/M2ra8p4MSOk >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
 - Somatic Experiencing International. (2017). *Origin of somatic experiencing* [Video]. YouTube. [https://youtu.be/L0PsQFoz48g](https://youtu.be/L0PsQFoz48g){target="_blank"}
-
-{{< video https://www.youtube-nocookie.com/embed/L0PsQFoz48g >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
 
 **Readings**
 
@@ -470,32 +480,4 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 - Complex Trauma Resources. (n.d.) *Treatments for adults - Accelerated experiential dynamic psychotherapy (AEDP)*. [https://www.complextrauma.org/treatment/complex-trauma-treatments-for-adults/](https://www.complextrauma.org/treatment/complex-trauma-treatments-for-adults/){target="_blank"}
 - Stop Abuse Campaign. (n.d.). *Take your ACE test*. [https://stopabusecampaign.org/take-your-ace-test/](https://stopabusecampaign.org/take-your-ace-test/){target="_blank"}
 - ARC Framework. (n.d.) *What is ARC*. [https://arcframework.org/what-is-arc/](https://arcframework.org/what-is-arc/){target="_blank"}
-
-## Summary {.unnumbered}
-
-During this unit you have been able to learn about grief and dying from the perspective of the dying, as well as the perspective of those left behind. Upon completion of this unit you will hopefully have a better understanding of how to begin interacting with death, the systemic view of death, dying, and the elderly, as well as the importance of confronting our own fears and hesitations concerning death before we are able to assist our clients. Being the "conversation starters" about death also places us in a position to be an instrument of change. Creating more of a comfort and vocabulary around death, grieving, and loss on a societal level will create huge change on the systemic level. We can be a part of this movement.
-
-::: {.check}
-
-Before you move on to the next unit you may want to check that you are able to:
-
-- Identify and discuss some of the major authors in the field of addiction
-
-::: {.prote}
-
-Comment(s) from Werd:
-
-Reference: Identify and discuss some of the major authors in the field of addiction
-
-Comment: This is from Unit 2 - please revise as appropriate for this unit Deb Troendle-Scott | 2025-05-25T14:01:00Z
-
-Comment: As per comment in the Topics section at the start of the unit, please revise this as necessary for this unit Deb Troendle-Scott | 2025-05-25T15:47:00Z
-
-:::
-
-- Interpret the phrase, "Not why the addiction, but why the pain?"
-- Conceptualize an addictions case
-- Practice the skill of validation as outlined in EFFT
-- Develop a preliminary treatment plan and know where to find resources and further specialized training
-
-:::
+-->
