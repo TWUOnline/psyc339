@@ -54,8 +54,8 @@ Please see the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
-- Maté, G. (2010). *In the Realm of Hungry Ghosts*. North Atlantic Books.
-- Lafrance, A., Henderson, K. A., & Mayman, S. (2020*). Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association.
+- Maté, G. [-@mateRealmHungryGhosts2010]. *In the Realm of Hungry Ghosts*. North Atlantic Books.
+- Lafrance, A., Henderson, K. A., & Mayman, S. [-@lafranceEmotionfocusedFamilyTherapy2020]. Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association.
 - Other online resources will be provided in the unit.
 
 ## What is Addiction?
@@ -72,7 +72,7 @@ There are many definitions of addiction available online. Through the Learning A
 
 ::: {.learning-activity}
 
-- Read *In the Realm of Hungry Ghosts*, pp. 1–3, and Chapters 11–16 (2010)
+- Read *In the Realm of Hungry Ghosts*, pp. 1–3, and Chapters 11–16 [-@mateRealmHungryGhosts2010]
 
 Gabor Maté’s book *In the Realm of Hungry Ghosts* is a very important and valuable course resource. Given the time available for this course, it is recommended that you complete specific readings, but the book as a whole is very valuable.
 
@@ -103,7 +103,7 @@ You will be able to check your understanding of the topic by considering these q
 
 Please take a moment to watch the following video. Please be aware that this video may evoke some strong emotions.
 
-- [*Nuggets*](https://www.youtube.com/watch?v=HUngLgGRJpo){target="_blank"} (2014)
+- [*Nuggets*](https://www.youtube.com/watch?v=HUngLgGRJpo){target="_blank"} [-@filmbilder&friendsNuggets2014]
 
 <div class="video-container">
 
@@ -134,7 +134,7 @@ Take a moment to read some of the terms below. The purpose of reviewing specific
 7. **Prefrontal cortex:** responsible for the impulse control center, executive functioning, and is where social behaviours are learned. This becomes impaired in an addicted brain.
 8. **Orbitofrontal cortex:** decision-making, inhibiting impulses, initiating cravings, and balancing short-term objectives against longer-term consequences in the process of decision making. Images show that the OFC works abnormally in drug users.
 9. **Salience attribution:** the assignment of great value to a false need and the depreciation of true ones.
-10. **Epigenetics:** effects are most powerful in early development, the ability for genes to turn on and off based on environmental factors. "As a result of life events, chemicals attach themselves to DNA and direct gene activities" Maté (2010) (p. 204).
+10. **Epigenetics:** effects are most powerful in early development, the ability for genes to turn on and off based on environmental factors. "As a result of life events, chemicals attach themselves to DNA and direct gene activities" Maté [-@mateRealmHungryGhosts2010, p. 204].
 11. **Gene expression:** how a gene acts.
 12. **Process addictions or behaviour addictions:** gambling, shopping, food, love, sex, internet, dangerous activities, thrill-seeking activities, pornography
 13. **Substance addictions:** alcohol, drugs, pain pills, tobacco
@@ -179,7 +179,7 @@ Take a look at the following presentation that discusses five different theories
 
 In this section we will explore the reasons and mechanisms behind addiction. You will continue reading *In the Realm of Hungry Ghosts* through Chapter 19 in order to gain further insight into addiction and how it manifests in the brain. You have already read Chapters 17 and 18 during the last unit. You can take this opportunity to review the information, or read only Chapter 19 if you feel that you have a good understanding of the information.
 
-- *In the Realm of Hungry Ghosts*, Chapters 17–19 (2010)
+- *In the Realm of Hungry Ghosts*, Chapters 17–19 [-@mateRealmHungryGhosts2010]
 
 **Questions to Consider**
 
@@ -200,7 +200,7 @@ On the [Amen Clinics](https://www.amenclinics.com/locations/seattle-metro-area/)
 
 Visit the link below to learn more about brain imaging for this activity.
 
-- [*Drugs and Alcohol Addiction*](https://www.amenclinics.com/conditions/drugs-and-alcohol-addiction/){target="_blank"} (n.d.)
+- [*Drugs and Alcohol Addiction*](https://www.amenclinics.com/conditions/drugs-and-alcohol-addiction/){target="_blank"} [-@amenclinicsDrugsAlcoholAddiction]
 
 :::
 
@@ -216,7 +216,7 @@ Addiction is a complex issue that can be addressed with many theories and models
 
 In order to develop a healthy brain two realms must be considered: the external world—environment and support—as well as the internal world, your own self-awareness and ability to be mindful. In reading the following chapters we will explore the concept of wellness and sobriety (versus abstinence), as well as how to maintain both. Take note of the correlations with EFFT principles as you read chapters 29 to 33.
 
-- *In the Realm of Hungry Ghosts*, Chapters 29–33 (2010)
+- *In the Realm of Hungry Ghosts*, Chapters 29–33 [-@mateRealmHungryGhosts2010]
 
 :::
 
@@ -224,7 +224,7 @@ In order to develop a healthy brain two realms must be considered: the external 
 
 ::: {.learning-activity}
 
-According to Chapter 19 in Maté’s book (2010), there are many things that one cannot control, such as genetic makeup, temperament, where one is born, and so on. Thus, it is important to focus on things that can be controlled.
+According to Chapter 19 in Maté’s book [-@mateRealmHungryGhosts2010], there are many things that one cannot control, such as genetic makeup, temperament, where one is born, and so on. Thus, it is important to focus on things that can be controlled.
 
 Two of these areas are highlighted by EFFT: family environment and emotional processing. The diagram below provides a good visual of this; it was created by Adele LaFrance and Natasha Files (2018) for presentation purposes.
 
@@ -247,7 +247,7 @@ Two Areas Highlighted by EFFT in Mental Health
 
 As we learned in our previous unit, Maté also emphasizes the importance of caregivers and community in the recovery process, which fits well with the EFFT model that emphasizes parental and caregiver involvement in mental health issues. Family environment and emotional processing are the two areas we can "control" and if we work on both, the healing process will be extremely powerful.
 
-*Note:* During class you will be doing an activity that revolves around the skill of emotion coaching and validation, so make sure you read Chapters 2 and 3 in Lafrance et al. (2020).
+*Note:* During class you will be doing an activity that revolves around the skill of emotion coaching and validation, so make sure you read Chapters 2 and 3 in Lafrance et al. [-@lafranceEmotionfocusedFamilyTherapy2020].
 
 :::
 
@@ -259,7 +259,7 @@ An excellent illustration of what EFFT emotion coaching aims to accomplish is Dr
 
 Watch the following video:
 
-- [*Dr. Daniel Siegel Presenting a Hand Model of the Brain*](https://www.youtube.com/watch?v=gm9CIJ74Oxw){target="_blank"}
+- [*Dr. Daniel Siegel Presenting a Hand Model of the Brain*](https://www.youtube.com/watch?v=gm9CIJ74Oxw){target="_blank"} [-@ftmyersfampsychDrDanielSiegel2012]
 
 <div class="video-container">
 
@@ -273,7 +273,7 @@ Watch the following video:
 
 ::: {.learning-activity}
 
-In order to do the reflection for this activity go back and read the first chapter of *In the Realm of Hungry Ghosts* (Maté, 2010). Take in Vancouver’s Downtown Eastside as Maté describes it.
+In order to do the reflection for this activity go back and read the first chapter of *In the Realm of Hungry Ghosts* [@mateRealmHungryGhosts2010]. Take in Vancouver’s Downtown Eastside as Maté describes it.
 
 - *In the Realm of Hungry Ghosts*, Chapter 1 (2010)
 
@@ -290,8 +290,7 @@ In order to do the reflection for this activity go back and read the first chapt
 
 For this activity read Chapter 4 of *In the Realm of Hungry Ghosts*. You will practice how to write a proper validation statement to explain why Serena has been using and continues to use, or if you prefer, you can write a validation statement to explain her inability to see her own inner strength and innate perfection. You may think these will sound too scripted or even strange, but this is an integral part of the learning process.
 
-- *In the Realm of Hungry Ghosts*, Chapter 4 (2010)
-
+- *In the Realm of Hungry Ghosts*, Chapter 4 [-@mateRealmHungryGhosts2010]
 This exercise can be broken down into two steps:
 
 1. To begin, your statement might look something like this:
@@ -308,21 +307,21 @@ This exercise can be broken down into two steps:
 
 > "Why don’t we start by …"
 
-There are examples in the behaviour coaching section of the EFFT manual (Lafrance et al., 2014) that are similar to Serena’s situation.
+There are examples in the behaviour coaching section of the EFFT manual [@lafranceEmotionfocusedFamilyTherapy2020] that are similar to Serena’s situation.
 
 :::
 
 If you are interested in accessing more resources, feel free to peruse the following websites:
 
-- *[Recovery Nation](https://www.recoverynation.com/){target="_blank"}* (n.d.)
-- [*Smart Recovery*](https://www.smartrecovery.org/){target="_blank"} (n.d.)
+- *[Recovery Nation](https://www.recoverynation.com/){target="_blank"}* [-@recoverynationRecoveryNation]
+- [*Smart Recovery*](https://www.smartrecovery.org/){target="_blank"} [-@smartrecoveryusaWhatSMARTRecovery]
 
 ## Summary {.unnumbered}
 
 You have learned what addictions are, how and when they develop, and how to work with them. Additionally, this unit examined the connection between addiction and trauma. For the summary of this unit I invite you to watch the following two clips—this is the most important information to retain.
 
-- [*What is Addiction? Gabor Maté*](https://www.youtube.com/watch?v=T5sOh4gKPIg){target="_blank"} (2010)
-- [*Everything You Think You Know About Addiction is Wrong*](https://www.youtube.com/watch?v=PY9DcIMGxMs){target="_blank"} (2015)
+- [*What is Addiction? Gabor Maté*](https://www.youtube.com/watch?v=T5sOh4gKPIg){target="_blank"} [-@omegapointWhatAddictionGabor2014]
+- [*Everything You Think You Know About Addiction is Wrong*](https://www.youtube.com/watch?v=PY9DcIMGxMs){target="_blank"} [-@johannhariEverythingYouThink2015]
 
 ::: {.check}
 

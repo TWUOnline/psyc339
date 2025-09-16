@@ -59,7 +59,7 @@ Please see the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
-- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association.
+- Lafrance, A., Henderson, K. A., & Mayman, S. [-@lafranceEmotionfocusedFamilyTherapy2020]. *Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association.
 - Other online resources will be provided in the unit.
 
 ## What are Depression, Suicidality, and Eating Disorders?
@@ -80,7 +80,7 @@ There is a wide range of symptoms associated with depression, ranging from mild 
 
 I invite you to watch the following YouTube clip to introduce yourself to the various hypotheses that link brain activity to the development and maintenance of depression.
 
-- [*10-Minute Neuroscience: Depression*](https://www.youtube.com/watch?v=1euK8OSIR9E){target="_blank"} (2023)
+- [*10-Minute Neuroscience: Depression*](https://www.youtube.com/watch?v=1euK8OSIR9E){target="_blank"} [-@neuroscientificallychallenged10MinuteNeuroscienceDepression2023]
 
 <div class="video-container">
 
@@ -97,7 +97,7 @@ I invite you to watch the following YouTube clip to introduce yourself to the va
 
 **Optional Video | How Depression Affects the Brain**
 
-- [*How Depression Affects the Brain – Yale Medicine Explains*](https://www.youtube.com/watch?v=BZOLxSQwER8){target="_blank"} (2021)
+- [*How Depression Affects the Brain – Yale Medicine Explains*](https://www.youtube.com/watch?v=BZOLxSQwER8){target="_blank"} [-@yalemedicineHowDepressionAffects2021]
 
 <div class="video-container">
 
@@ -111,9 +111,9 @@ I invite you to watch the following YouTube clip to introduce yourself to the va
 
 ::: {.learning-activity}
 
-In his work as a psychotherapist, Terry Real has made a significant contribution to the discussion of male depression and advocacy for it. The publication of his book *I Don’t Want to Talk About It* (1998) created a significant wave in the field of psychology, and he has been presenting on the subject ever since. Real incorporates his own narrative and his own journey through depression into the book. The teaser below is only a brief excerpt, and you are encouraged to read the whole book.
+In his work as a psychotherapist, Terry Real has made a significant contribution to the discussion of male depression and advocacy for it. The publication of his book *I Don’t Want to Talk About It* [-@realDontWantTalk1997] created a significant wave in the field of psychology, and he has been presenting on the subject ever since. Real incorporates his own narrative and his own journey through depression into the book. The teaser below is only a brief excerpt, and you are encouraged to read the whole book.
 
-- [*Men’s Hidden Depression*, Chapter 1](assets/u4/Real_Ch_1.pdf){target="_blank"} (1998)
+- [*Men’s Hidden Depression*, Chapter 1](assets/u4/Real_Ch_1.pdf){target="_blank"} [-@realDontWantTalk1997]
 
 **Questions to Consider**
 
@@ -132,7 +132,7 @@ After reading the chapter consider the following questions:
 
 Please view the following video, not for information regarding psychotherapy or suicide psychology, but rather to understand what Terry Real is describing as male hidden depression in this video.
 
-- [*What I Learned From My Husband’s Suicide*](https://www.youtube.com/watch?v=Jb_1IklnhaU){target="_blank"} (2020)
+- [*What I Learned From My Husband’s Suicide*](https://www.youtube.com/watch?v=Jb_1IklnhaU){target="_blank"} [-@prichardWhatLearnedMy2020]
 
 <div class="video-container">
 
@@ -148,7 +148,7 @@ Please view the following video, not for information regarding psychotherapy or 
 
 Take a moment to read a patient health questionnaire that is commonly used to assess depression in patients. This is one of many scales available.
 
-- [*Patient Health Questionnaire—PHQ-9*](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/depression_patient_health_questionnaire.pdf){target="_blank"} (1999)
+- [*Patient Health Questionnaire—PHQ-9*](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/depression_patient_health_questionnaire.pdf){target="_blank"} [-@governmentofbritishcolumbiaPatientHealthQuestionnaire1999]
 
 :::
 
@@ -166,7 +166,7 @@ Edwin Shneidman is known as the "father of suicide" and has used the term "psych
 
 Watch the following video of Dr. Shneidman talking about some of his work.
 
-- [*My Suicide Shneidman Sequence QT*](https://www.youtube.com/watch?v=0KAE5IGOTxw){target="_blank"} (2014)
+- [*My Suicide Shneidman Sequence QT*](https://www.youtube.com/watch?v=0KAE5IGOTxw){target="_blank"} [-@breakfastalienMySuicideShneidman2014]
 
 <div class="video-container">
 
@@ -179,7 +179,7 @@ Watch the following video of Dr. Shneidman talking about some of his work.
 1. How did you respond to the way Shneidman talks about suicidology?
 2. Is there anything that you would agree or disagree with and why?
 
-Read Shneidman’s [*Contributions to the Understanding of Suicidal Thinking*](assets/u4/Cognition_and_Suicide.pdf){target="_blank"} (2006)
+Read Shneidman’s [*Contributions to the Understanding of Suicidal Thinking*](assets/u4/Cognition_and_Suicide.pdf){target="_blank"} [-@jobesShneidmansContributionsUnderstanding2006]
 
 **Questions to Consider**
 
@@ -200,11 +200,11 @@ Read Shneidman’s [*Contributions to the Understanding of Suicidal Thinking*](a
 
 Read the following research article about suicide clusters.
 
-- [*Suicide Clusters: A Review of Risk Factors and Mechanisms*](https://doi-org.twu.idm.oclc.org/10.1111/j.1943-278X.2012.00130.x){target="_blank"} (2013)
+- [*Suicide Clusters: A Review of Risk Factors and Mechanisms*](https://doi-org.twu.idm.oclc.org/10.1111/j.1943-278X.2012.00130.x){target="_blank"} [-@hawSuicideClustersReview2013]
 
 Watch the following video about suicide clusters (note that the video is 6:42 minutes long).
 
-- [*‘Suicide Cluster’ in Palo Alto: Students Share Stories of Anxiety, Depression*](https://www.youtube.com/watch?v=F6S3jcJ-Imw){target="_blank"} (2016)
+- [*‘Suicide Cluster’ in Palo Alto: Students Share Stories of Anxiety, Depression*](https://www.youtube.com/watch?v=F6S3jcJ-Imw){target="_blank"} [-@abcnewsSuicideClusterPalo2016]
 
 <div class="video-container">
 
@@ -239,7 +239,7 @@ An eating disorder is a behavioural condition characterized by persistent and se
 
 Cynthia Bulik, a leading researcher in the field of eating disorders, gives an overview of what eating disorders are and how common they are.
 
-- [*Cynthia Bulik on Eating Disorders*](https://www.youtube.com/watch?v=Fxe6WLNSxcw){target="_blank"} (2010)
+- [*Cynthia Bulik on Eating Disorders*](https://www.youtube.com/watch?v=Fxe6WLNSxcw){target="_blank"} [-@unc-chapelhillCynthiaBulikEating2010]
 
 <div class="video-container">
 
@@ -267,7 +267,7 @@ Janet Treasure is a well-known therapist and professor in the field of eating di
 
 Read the following article by Treasure and her colleagues (2022):
 
-- [*Novel Approaches to Tackling Emotional Loss of Control of Eating Across the Weight Spectrum*](https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/novel-approaches-to-tackling-emotional-loss-of-control-of-eating-across-the-weight-spectrum/320DBB5D71D83A6C8597BEFAE7BAAEA9){target="_blank"} (2022)
+- [*Novel Approaches to Tackling Emotional Loss of Control of Eating Across the Weight Spectrum*](https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/novel-approaches-to-tackling-emotional-loss-of-control-of-eating-across-the-weight-spectrum/320DBB5D71D83A6C8597BEFAE7BAAEA9){target="_blank"} [-@treasureNovelApproachesTackling2022]
 
 **Questions to Consider**
 
@@ -300,7 +300,7 @@ Terry Real’s book provides insight into how and why depression develops. This 
 
 As you will see in the following chapter, Real is a very systemic therapist. Notice the emphasis on process rather than content—**how** the client is showing up rather than what the client wishes to discuss or share. Observe how Real’s approach relates to our learning of EFFT.
 
-- [*I Don’t Want to Talk About It*, Chapter 4](assets/u4/Real_Ch_4.pdf){target="_blank"} (1998)
+- [*I Don’t Want to Talk About It*, Chapter 4](assets/u4/Real_Ch_4.pdf){target="_blank"} [-@realDontWantTalk1997]
 
 **Questions to Consider**
 
@@ -340,7 +340,7 @@ Dr. Daniel Amen is a prominent researcher who studies the brain in relation to m
 
 He is not a very empathetic speaker, and some do not agree with some of his approaches (for example guilting clients). Nevertheless, he is a solid researcher and it is important to understand his perspective and how he looks at the brain.
 
-- [*The Science Behind Suicidal Thoughts*](https://www.youtube.com/watch?v=GJkTElq8UFM){target="_blank"} (2019)
+- [*The Science Behind Suicidal Thoughts*](https://www.youtube.com/watch?v=GJkTElq8UFM){target="_blank"} [-@amenclinicsScienceSuicidalThoughts2019]
 
 <div class="video-container">
 
@@ -365,9 +365,9 @@ After watching the video consider the following questions and use them as a tool
 
 In this activity you will read two articles and reflect on their respective questions. The second article is an optional read. In the first article you will learn about the risk factors associated with adolescents with complex depression.
 
-Van Velzen, L. S., Toenders, Y. J., Kottaram, A., Youzchalveen, B., Pilkington, V., Cotton, S. M., Brooker, A., McKechnie, B., Rice, S., & Schmaal, L. (2022). Risk factors for suicide attempt during outpatient care in adolescents with severe and complex depression. *Crisis: The Journal of Crisis Intervention and Suicide Prevention*.
+Van Velzen, L. S., Toenders, Y. J., Kottaram, A., Youzchalveen, B., Pilkington, V., Cotton, S. M., Brooker, A., McKechnie, B., Rice, S., & Schmaal, L. [-@vanvelzenRiskFactorsSuicide2023]. Risk factors for suicide attempt during outpatient care in adolescents with severe and complex depression. *Crisis: The Journal of Crisis Intervention and Suicide Prevention*.
 
-- [*Risk Factors for Suicide Attempt During Outpatient Care in Adolescents With Severe and Complex Depression*](https://econtent.hogrefe.com/doi/10.1027/0227-5910/a000860){target="_blank"} (2022)
+- [*Risk Factors for Suicide Attempt During Outpatient Care in Adolescents With Severe and Complex Depression*](https://econtent.hogrefe.com/doi/10.1027/0227-5910/a000860){target="_blank"} [-@vanvelzenRiskFactorsSuicide2023]
 
 **Questions to Consider**
 
@@ -381,7 +381,7 @@ After reading, consider the following questions and use them as a tool to help y
 
 Here is an article that addresses all three mental health issues that we are discussing. As we have stated previously, mental health issues have the potential to affect one another and coexist with one another.
 
-- [*The Role of Body Image and Disordered Eating as Risk Factors for Depression and Suicidal Ideation in Adolescents*](assets/u4/The_Role_of_Body_Image.pdf){target="_blank"} (2009)
+- [*The Role of Body Image and Disordered Eating as Risk Factors for Depression and Suicidal Ideation in Adolescents*](assets/u4/The_Role_of_Body_Image.pdf){target="_blank"} [-@brauschRoleBodyImage2009]
 
 **Questions to Consider**
 
@@ -408,7 +408,7 @@ The exact cause of eating disorders is unknown. As previously discussed, there a
 
 In this video you will learn how eating disorders affect the brain, and what is the difference between a well-functioning brain and a brain affected by an eating disorder.
 
-- [*The Eating Disorder Brain vs. The Well Brain: Effects of the Starving Brain and Eating Disorders*](https://www.youtube.com/watch?v=V44xLqCmV2U){target="_blank"} (2021)
+- [*The Eating Disorder Brain vs. The Well Brain: Effects of the Starving Brain and Eating Disorders*](https://www.youtube.com/watch?v=V44xLqCmV2U){target="_blank"} [-@changecreateschangeEatingDisorderBrain2021]
 
 <div class="video-container">
 
@@ -430,7 +430,7 @@ After watching the video, consider the following question and use it as a tool t
 
 As part of the EFFT curriculum we are taught that families have a profound impact on treatment outcomes. I have selected the following article in order to illustrate this point.
 
-- [*Last Word: Ending the Intergenerational Transmission of Body Dissatisfaction and Disordered Eating: A Call to Investigate the Mother-Daughter Relationship*](https://doi-org.twu.idm.oclc.org/10.1080/10640266.2020.1712635){target="_blank"} (2021)
+- [*Last Word: Ending the Intergenerational Transmission of Body Dissatisfaction and Disordered Eating: A Call to Investigate the Mother-Daughter Relationship*](https://doi-org.twu.idm.oclc.org/10.1080/10640266.2020.1712635){target="_blank"} [-@brunLastWordEnding2021]
 
 **Questions to Consider**
 
@@ -448,7 +448,7 @@ As part of the EFFT curriculum we are taught that families have a profound impac
 
 An important study related to eating disorders and EFFT intervention is reported in this research article. It is likely that by this point you will recognize some of the researchers’ names and have some understanding of some of the concepts they are discussing.
 
-- [The Influence of Carer Fear and Self-Blame When Supporting a Loved One With an Eating Disorder](assets/u4/Article_ED%26EFFT.pdf){target="_blank"}, *Eating Disorders: The Journal of Treatment and Prevention* (2016).
+- [The Influence of Carer Fear and Self-Blame When Supporting a Loved One With an Eating Disorder](assets/u4/Article_ED%26EFFT.pdf){target="_blank"}, *Eating Disorders: The Journal of Treatment and Prevention* [-@stillarInfluenceCarerFear2016].
 
 **Questions to Consider**
 
@@ -477,21 +477,21 @@ Do you have access to any resources in the area where you work? When a crisis ar
 
 **Suicidality**
 
-- [*Lines for Life: Services and Crisis Lines*](https://www.linesforlife.org/services/?gclid=CjwKCAjwiJqWBhBdEiwAtESPaKW7--GMkzJZnQuCT_XwP3G6d21vLiBhQ9OKMoj7rF6IapSS2fHcsRoC2T8QAvD_BwE){target="_blank"} (n.d.)
-- [*The Crisis Centre of BC*](https://crisiscentre.bc.ca/get-help/){target="_blank"} (n.d.)
+- [*Lines for Life: Services and Crisis Lines*](https://www.linesforlife.org/services/?gclid=CjwKCAjwiJqWBhBdEiwAtESPaKW7--GMkzJZnQuCT_XwP3G6d21vLiBhQ9OKMoj7rF6IapSS2fHcsRoC2T8QAvD_BwE){target="_blank"} [-@linesforlifeServicesCrisisLines]
+- [*The Crisis Centre of BC*](https://crisiscentre.bc.ca/get-help/){target="_blank"} [-@thecrisiscentreofb.c.GetSupport]
 
 **Depression**
 
-- [*Healthline: How can I get Help for Depression*](https://www.healthline.com/health/depression/help-for-depression#other-treatments){target="_blank"} (2024)
+- [*Healthline: How can I get Help for Depression*](https://www.healthline.com/health/depression/help-for-depression#other-treatments){target="_blank"} [-@healthlineHowCanGet]
 
 **Eating Disorders**
 
-- [*National Eating Disorder Information Centre*](https://nedic.ca/){target="_blank"} (n.d.)
+- [*National Eating Disorder Information Centre*](https://nedic.ca/){target="_blank"} [-@nationaleatingdisorderinformationcentreHelpline]
 
 **General Help**
 
-- [*Foundry: You Matter*](https://foundrybc.ca/youmatter/?gclid=CjwKCAjwq5-WBhB7EiwAl-HEkk2herv2QF8l8z0Q5Afj8zb5XwY9G_3MzgcweKhJ5aUTuDU7vupErBoCNWcQAvD_BwE){target="_blank"} (n.d.)
-- [*eMentalHealth*](https://www.ementalhealth.ca/){target="_blank"} (n.d.)
+- [*Foundry: You Matter*](https://foundrybc.ca/youmatter/?gclid=CjwKCAjwq5-WBhB7EiwAl-HEkk2herv2QF8l8z0Q5Afj8zb5XwY9G_3MzgcweKhJ5aUTuDU7vupErBoCNWcQAvD_BwE){target="_blank"} [-@foundryYouMatter]
+- [*eMentalHealth*](https://www.ementalhealth.ca/){target="_blank"} [-@ementalhealthMentalHealthResources]
 
 :::
 
@@ -513,7 +513,7 @@ Use the tool below to help in developing your script. Remember that if you close
 
 In order to conduct a preliminary assessment it is extremely important to understand the signs of possible suicidal behaviour. In accordance with the literature, the risk assessment should not be regarded as an absolute. Continual monitoring and assessment are essential, especially at the beginning of your career. One of the exceptions to confidentiality, (as has been discussed in SOCI 400) is when there is a risk of harm to oneself or another. Whenever you suspect that your client’s life is in danger, you must report it to the appropriate authorities.
 
-- [*Suicide Risk: Detecting & Assessing Suicidality*](https://www.camh.ca/en/professionals/treating-conditions-and-disorders/suicide-risk/suicide---detecting-and-assessing-suicidality){target="_blank"} (2019)
+- [*Suicide Risk: Detecting & Assessing Suicidality*](https://www.camh.ca/en/professionals/treating-conditions-and-disorders/suicide-risk/suicide---detecting-and-assessing-suicidality){target="_blank"} [-@SuicideRiskDetecting2019]
 
 For this section on suicide, you will write a validation statement that explains why someone might commit suicide. Suicide is one of the most difficult issues to validate, since when we validate it, especially in this circumstance, we might feel as though we are encouraging the individual to carry out the action. However, in keeping with what we have read and what the research shows, validation actually gives the other the feeling that they are not alone—that someone understands and is willing to share dark places with them.
 

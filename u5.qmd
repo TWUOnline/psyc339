@@ -53,7 +53,7 @@ Please see the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
-- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association.
+- Lafrance, A., Henderson, K. A., & Mayman, S. [-@lafranceEmotionfocusedFamilyTherapy2020]. *Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association.
 - Other online resources will be provided in the unit.
 
 ## Stress and Resilience
@@ -70,11 +70,11 @@ In the same manner as in previous units, I would like to acknowledge and hear fr
 
 In the world of stress management, Hans Selye is widely acknowledged as the "father of the field." As such, he is a Canadian resource for the rest of the world. Over 1,700 scholarly papers and 39 books were published by Dr. Selye following his first scientific paper to identify and define "stress" in 1936. His work was cited in more than 362,000 scientific papers and in countless popular magazine articles, in nearly every major language, and in every country in the world by the time of his death in late 1982. There is no doubt that he is the most frequently cited author on stress in the world. Selye proposed that throughout a period of exposure to a nonspecific demand, stress remains present in an individual’s body. Among his distinctions, Selye called the cumulative effects of chronically applied stressors "general adaptation syndrome," also known as Selye’s syndrome in the literature.
 
-Dr. Selye is one of the founders of the Canadian Institute of Stress. You may wish to spend a few minutes exploring their [website](https://stresscanada.org/){target="_blank"} (2024).
+Dr. Selye is one of the founders of the Canadian Institute of Stress. You may wish to spend a few minutes exploring their [website](https://stresscanada.org/){target="_blank"} [-@CanadaStress].
 
 Watch the following video to learn more about one of Dr. Hans Selye’s major contributions to stress research. Please note that the video is 4:01 minutes long.
 
-- [*Hans Selye’s General Adaption Syndrome and the HPA Axis: Exploring the Connection*](https://www.youtube.com/watch?v=9FdmxfXrygA){target="_blank"} (2017)
+- [*Hans Selye’s General Adaption Syndrome and the HPA Axis: Exploring the Connection*](https://www.youtube.com/watch?v=9FdmxfXrygA){target="_blank"} [-@integrativetherapeuticsHansSelyesGeneral2017]
 
 <div class="video-container">
 
@@ -94,7 +94,7 @@ After viewing the video consider the following questions and use them as a tool 
 
 The resilience theory is regarded as the brainchild of Norman Garmezy, the "father" of resilience theory. In addition to his work in developmental psychopathology, Garmezy was a professor of psychology; he held positions at Duke University (1950–1961) and the Institute of Child Development at the University of Minnesota (1961–1989) after receiving his doctorate from the University of Iowa in 1950. His early work focused on the etiology of schizophrenia, but his later work focused on child development risks, resilience, stress, and coping. We will spend some time getting to know his research, even though there have been further advances since his discoveries in the 1980s and 1990s.
 
-- We will be reading from Ann Masten’s book, *[Ordinary Magic](assets/u5/Ordinary_Magic_Introduction.pdf){target="_blank"}* (2025).
+- We will be reading from Ann Masten’s book, *[Ordinary Magic](assets/u5/Ordinary_Magic_Introduction.pdf){target="_blank"}* [-@mastenOrdinaryMagicResilience2014].
 
 Ann Masten is a prominent resilience researcher and professor of child development at the University of Minnesota. She is widely recognized for her work on resilience in children and how they thrive despite adversity. In her book *Ordinary Magic* (2025), Masten explores the concept of resilience, arguing that it is not a rare, extraordinary trait but a common capacity that arises from ordinary human resources such as supportive relationships, problem-solving skills, and community support. The book highlights the power of everyday systems that foster resilience in individuals facing challenges. Masten studied under Garmezy—take note of when he is mentioned.
 
@@ -117,7 +117,7 @@ After completing the reading above, consider the following questions and use the
 
 To begin our conversation on stress and its meaning, please read the resource below.
 
-- [*Stress Management and Prevention*, Chapter 1](assets/u5/Stress_Management_And_Prevention_Ch_1.pdf){target="_blank"} (2017)
+- [*Stress Management and Prevention*, Chapter 1](assets/u5/Stress_Management_And_Prevention_Ch_1.pdf){target="_blank"} [-@chenStressManagementPrevention2011]
 
 This chapter’s Key Questions will be used as our Questions to Consider section. Reading these ahead of time will assist you in guiding your reading.
 
@@ -151,7 +151,7 @@ Consider the following questions and use the tool below to save your notes. Note
 
 Different perspectives and points of view can be taken into account when discussing resilience. For an overview and introduction to resilience, watch the following video. Please consider that this video is 2.29 minutes long.
 
-- [*The Science of Resilience*](https://www.youtube.com/watch?v=1r8hj72bfGo){target="_blank"} (2015)
+- [*The Science of Resilience*](https://www.youtube.com/watch?v=1r8hj72bfGo){target="_blank"} [-@centeronthedevelopingchildatharvarduniversityInBriefScienceResilience2015]
 
 <div class="video-container">
 
@@ -169,7 +169,7 @@ The researcher Daniel Siegel is well known for his theory of interpersonal neuro
 
 **Building Resilience**
 
-- [*Building Resilience in Care Providers*](https://www.youtube.com/watch?v=RkC8hx-_k3Y){target="_blank"} (2019)
+- [*Building Resilience in Care Providers*](https://www.youtube.com/watch?v=RkC8hx-_k3Y){target="_blank"} [-@haguetalksBuildingResilienceCare2019]
 
 <div class="video-container">
 
@@ -190,7 +190,7 @@ After watching the video consider the following questions and use them as tools 
 
 This next video focuses on parents building resilience with their children.
 
-- [*Building the Circuits for Kindness and Resilience*](https://www.youtube.com/watch?v=0XG8uOWEBbc){target="_blank"} (2012)
+- [*Building the Circuits for Kindness and Resilience*](https://www.youtube.com/watch?v=0XG8uOWEBbc){target="_blank"} [-@dalailamacenterforpeaceandeducationDanSiegelOpportunity2012]
 
 <div class="video-container">
 
@@ -221,7 +221,7 @@ In this chapter we will examine how stress manifests in the body and how our bod
 
 Read p. 30 to the end of the chapter. Pay particular attention to pages 36–37, and observe how they are aligned with our understanding of EFFT. The Questions to Consider section will be based on the Key Questions in the chapter. By reading these ahead of time, you will be able to guide your reading.
 
-- [*Stress Management and Prevention*, Chapter 2](assets/u5/Stress_Management_And_Prevention_Ch_2.pdf){target="_blank"} (2017)
+- [*Stress Management and Prevention*, Chapter 2](assets/u5/Stress_Management_And_Prevention_Ch_2.pdf){target="_blank"} [-@chenStressManagementPrevention2011]
 
 **Questions to Consider**
 
@@ -247,7 +247,7 @@ Consider the following questions and use them as tools to help you process the i
 
 This video with Dr. Gabor Maté on the connection between stress and disease illustrates how the body and the brain are connected and how stress manifests itself in the body. For the sake of time, let’s watch this clip to get an idea of the book’s content.
 
-- [*Dr. Gabor Maté on the Connection Between Stress and Disease*](https://www.youtube.com/watch?v=ajo3xkhTbfo&t=1861s){target="_blank"} (2019)
+- [*Dr. Gabor Maté on the Connection Between Stress and Disease*](https://www.youtube.com/watch?v=ajo3xkhTbfo&t=1861s){target="_blank"} [-@howtoacademyDrGaborMate2019]
 
 <div class="video-container">
 
@@ -271,7 +271,7 @@ After watching the video consider the following questions to help guide your lea
 
 You may find the following article on the Neufeld Institute helpful in understanding how resilience develops and how it can be fostered. The work of Gordon Neufeld in the area of parenting and family work has made him an internationally recognized researcher.
 
-- [*Neufeld Institute*](https://neufeldinstitute.org/resilience-embracing-the-emotional-journey/){target="_blank"} (n.d.)
+- [*Neufeld Institute*](https://neufeldinstitute.org/resilience-embracing-the-emotional-journey/){target="_blank"} [@macnamaraResilienceEmbracingEmotional2019]
 
 **Questions to Consider**
 
@@ -280,7 +280,7 @@ After reading, consider the following questions and use them as a tool to help y
 1. How does Gordon Neufeld describe resilience?
 2. What is the difference between true resilience and false resilience?
 3. What happens when we are overloaded?
-4. Finish this quote, "We already have inside of us the ingredients to allow healing to occur, we just need …" (MacNamara, n.d.)
+4. Finish this quote, "We already have inside of us the ingredients to allow healing to occur, we just need …" [@macnamaraResilienceEmbracingEmotional2019]
 
 :::
 
@@ -298,7 +298,7 @@ Brené Brown has spent the past two decades studying courage, vulnerability, sha
 
 Please watch this video from Brown, who is well known for her work on vulnerability, shame, courage, and their relationship to resilience before starting the EFFT exercises and reading. It is likely that you have heard Brown speak before, but I encourage you to listen to her again and consider how working on shame, vulnerability, and courage can also cultivate resilience within you while working in the therapy room. This is Brown’s first TED Talk that is well known to most people; it captured the attention of the nation.
 
-- [*The Power of Vulnerability*](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en){target="_blank"} (2010)
+- [*The Power of Vulnerability*](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en){target="_blank"} [-@brownPowerVulnerability2010]
 
 <div class="video-container">
 
@@ -320,7 +320,7 @@ After watching the video consider the following question and use it to help you 
 
 This short video by Siegel discusses how to build resilience and connection by focusing not only on the individual, but on the collective "we."
 
-- [*On Neurobiology and Resilience*](https://www.youtube.com/watch?v=Zriw-jShjzY){target="_blank"} (2015)
+- [*On Neurobiology and Resilience*](https://www.youtube.com/watch?v=Zriw-jShjzY){target="_blank"} [-@garrisoninstituteDanSiegelNeurobiology2015]
 
 <div class="video-container">
 
@@ -334,11 +334,11 @@ This short video by Siegel discusses how to build resilience and connection by f
 
 ::: {.learning-activity}
 
-Please refer back to the *EFFT Manual* (Lafrance et al., 2020) if you need any reminders on emotion coaching or behaviour coaching.
+Please refer back to the *EFFT Manual* [@lafranceEmotionfocusedFamilyTherapy2020] if you need any reminders on emotion coaching or behaviour coaching.
 
 In regard to stress and resilience specifically, I quote this text from our *EFFT Manual*:
 
-> There is strong evidence to suggest that emotional intelligence (which includes emotion management, emotion perception, and emotion utilization) moderates the relationship between stress and mental health concerns in adolescents and adults, including depression, hopelessness, and suicidal ideation (Ciarrochi, Deane, & Anderson, 2002; Extremera & Fernandez-Berrocal, 2006). Taken together, these studies suggest that a focus on the development and refinement of emotion processing and regulation can serve to buffer against the experience of life stressors. For these reasons, the EFFT clinician also works with caregivers to equip them with the skills of emotion coaching to support their loved one’s wellness. Over time, their loved one develops self-efficacy with emotion processing—that is, the capacity and confidence to experience, tolerate, regulate, and be guided by their emotions without need of maladaptive coping strategies. In addition to supporting in the moment emotion processing and the development of the capacity to self-regulate, emotion-coaching skills enhance treatment in various ways. As caregivers adopt this new style of relating to their loved one, their relationship will strengthen and their efforts to support their loved one with behavioral symptoms will be more effective and better received. As symptoms decrease, caregivers can also support their loved one to manage the flood of emotions that sometimes follow. This work will also provide loved ones with evidence of their caregiver’s capacity and willingness to support them with their emotional pain, making it more likely that they will turn to the caregiver for support in times of stress. (Lafrance et al., 2020)
+> There is strong evidence to suggest that emotional intelligence (which includes emotion management, emotion perception, and emotion utilization) moderates the relationship between stress and mental health concerns in adolescents and adults, including depression, hopelessness, and suicidal ideation [@ciarrochiEmotionalIntelligenceModerates2002; @fernandez-berrocalEmotionalIntelligenceEmotional2006]. Taken together, these studies suggest that a focus on the development and refinement of emotion processing and regulation can serve to buffer against the experience of life stressors. For these reasons, the EFFT clinician also works with caregivers to equip them with the skills of emotion coaching to support their loved one’s wellness. Over time, their loved one develops self-efficacy with emotion processing—that is, the capacity and confidence to experience, tolerate, regulate, and be guided by their emotions without need of maladaptive coping strategies. In addition to supporting in the moment emotion processing and the development of the capacity to self-regulate, emotion-coaching skills enhance treatment in various ways. As caregivers adopt this new style of relating to their loved one, their relationship will strengthen and their efforts to support their loved one with behavioral symptoms will be more effective and better received. As symptoms decrease, caregivers can also support their loved one to manage the flood of emotions that sometimes follow. This work will also provide loved ones with evidence of their caregiver’s capacity and willingness to support them with their emotional pain, making it more likely that they will turn to the caregiver for support in times of stress [@lafranceEmotionfocusedFamilyTherapy2020].
 
 Read the following case study and then spend some time creating a validation statement for this particular client. We will be emotion-coaching this client and adding a "behaviour intervention" that will help the client to deal with their ongoing stress in their life. You may come up with your own ideas for things that might help alleviate stress based on the class readings or your own experience, or you can also look up some suggestions if you would like. Note that you would do a lot more work than just this single emotion-coaching session before suggesting a way to cope: in real time, you really need to spend time in validation with the client, really understanding what they are saying and conveying that you "get it."
 

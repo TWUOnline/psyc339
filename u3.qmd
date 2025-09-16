@@ -57,7 +57,7 @@ Please see the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
-- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association
+- Lafrance, A., Henderson, K. A., & Mayman, S. [-@lafranceEmotionfocusedFamilyTherapy2020]. *Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association
 - Online resources will be provided in the unit.
 
 ## What is Grief?
@@ -70,7 +70,7 @@ When a person endures a loss they will inevitably experience grief. At some poin
 
 Julia Samuel talks about what grieving is and what the process is like. Note that she brings up a similar concept to that we have read about in previous units: it’s not so much the event surrounding the death, but having to go through the process on our own without community. Watch the following videos.
 
-- [*What is Grief?*](https://www.youtube.com/watch?v=eEsxoO1gVks){target="_blank"} (2017)
+- [*What is Grief?*](https://www.youtube.com/watch?v=eEsxoO1gVks){target="_blank"} [-@thegoodgrieftrustWhatGriefJulia2017]
 
 <div class="video-container">
 
@@ -78,7 +78,7 @@ Julia Samuel talks about what grieving is and what the process is like. Note tha
 
 </div>
 
-- [*Things That can Help Us Grieve*](https://www.youtube.com/watch?v=fNNU-ajnG-s){target="_blank"} (2017)
+- [*Things That can Help Us Grieve*](https://www.youtube.com/watch?v=fNNU-ajnG-s){target="_blank"} [-@thegoodgrieftrustThingsThatCan2017]
 
 <div class="video-container">
 
@@ -88,7 +88,7 @@ Julia Samuel talks about what grieving is and what the process is like. Note tha
 
 **What is it like to be a dying patient?** An older video by Elisabeth Kubler-Ross explains what matters most in the end and what it is like to die.
 
-- [*Understanding Death and Suicide: Part 1*](https://www.youtube.com/watch?v=H6yvJ_MWnJE){target="_blank"} (2010)
+- [*Understanding Death and Suicide: Part 1*](https://www.youtube.com/watch?v=H6yvJ_MWnJE){target="_blank"} [-@elisabethkublerrossfoundationDrElisabethKublerRoss2010]
 
 <div class="video-container">
 
@@ -98,7 +98,7 @@ Julia Samuel talks about what grieving is and what the process is like. Note tha
 
 **What dying looks like:** Katherine Mannix explains what the signs we see toward the end of life actually mean. It is really important for you to understand this for your own experience of death, as well as when you are interacting with clients to provide them with some psychoeducation.
 
-- [*Dying is Not as Bad as You Think*](https://www.youtube.com/watch?v=CruBRZh8quc){target="_blank"} (2019)
+- [*Dying is Not as Bad as You Think*](https://www.youtube.com/watch?v=CruBRZh8quc){target="_blank"} [-@bbcideasDyingNotBad2019]
 
 <div class="video-container">
 
@@ -116,7 +116,7 @@ One of the first models in this field was the five stages of grief, which we wil
 
 Watch Elisabeth Kübler Ross’ *Five Stages of Grief*. She was a major influence on how hospice care is structured today. Prior to watching this clip it is important to note that the model was developed for dying patients, not for those who are left behind or are mourners. It may be more appropriate to apply this model to clients who are dying rather than those who are grieving.
 
-- *[Five Stages of Grief](https://www.youtube.com/watch?v=x39p3x0chYU){target="_blank"}* (2012)
+- *[Five Stages of Grief](https://www.youtube.com/watch?v=x39p3x0chYU){target="_blank"}* [-@counsellingtutorFiveStagesGrief2012]
 
 <div class="video-container">
 
@@ -124,14 +124,14 @@ Watch Elisabeth Kübler Ross’ *Five Stages of Grief*. She was a major influenc
 
 </div>
 
-I also invite you to read the following excerpts from Kübler-Ross’ book *On Death and Dying* (1970). This part of the activity is **optional.**
+I also invite you to read the following excerpts from Kübler-Ross’ book *On Death and Dying* [-@kubler-rossDeathDying1970]. This part of the activity is **optional.**
 
 - pp. 37–53, 76–86, 105–117, 132
 
 TWU has purchased an online version for our use; it can be accessed here:
 
-- Online version [*On Death and Dying*](https://search-ebscohost-com.twu.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=1975928&site=eds-live&scope=site){target="_blank"} (1970)
-- Physical copy [*On Death and Dying*](https://search-ebscohost-com.twu.idm.oclc.org/login.aspx?direct=true&db=cat05965a&AN=alc.30283&site=eds-live&scope=site){target="_blank"} (1970)
+- Online version [*On Death and Dying*](https://search-ebscohost-com.twu.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=1975928&site=eds-live&scope=site){target="_blank"} [-@kubler-rossDeathDying1970]
+- Physical copy [*On Death and Dying*](https://search-ebscohost-com.twu.idm.oclc.org/login.aspx?direct=true&db=cat05965a&AN=alc.30283&site=eds-live&scope=site){target="_blank"} [-@kubler-rossDeathDying1970]
 
 Students can access the full text via the EPUB Full Text link on the left; you are able to download up to 25 pages of the book content.
 
@@ -154,9 +154,9 @@ Students can access the full text via the EPUB Full Text link on the left; you a
 
 ::: {.learning-activity}
 
-In order to complete this optional reading you will need to purchase the book *Experiencing Grief* by H. Norman Wright (2004). This is not a required text; however it may be valuable to you if you are interested in working in the area of grief or if you have experienced grief yourself. Again, this is an optional reading and the text does not have to be purchased, nor does the reading have to be completed.
+In order to complete this optional reading you will need to purchase the book *Experiencing Grief* by H. Norman Wright [-@wrightExperiencingGrief2004]. This is not a required text; however it may be valuable to you if you are interested in working in the area of grief or if you have experienced grief yourself. Again, this is an optional reading and the text does not have to be purchased, nor does the reading have to be completed.
 
-Norman Wright describes grief from what seems to me like an inner monologue of his own experiences and wrestlings mixed in with his readings. There are some good descriptions and metaphors in the text that may help you connect to the information in a different way. This is also an opportunity to read this little book and decide whether or not you feel like this would be a good resource to pass on. As Timothy Keller discusses in his book *Walking with God Through Pain and Suffering* (2013), each person’s experience of grief is so unique that we have to remember that what may work for one person may not work for another, and in fact can even have the potential to make things worse. However, this does not imply that you should not pass on resources, but rather that you should be very careful about why you pass on resources, and to whom.
+Norman Wright describes grief from what seems to me like an inner monologue of his own experiences and wrestlings mixed in with his readings. There are some good descriptions and metaphors in the text that may help you connect to the information in a different way. This is also an opportunity to read this little book and decide whether or not you feel like this would be a good resource to pass on. As Timothy Keller discusses in his book *Walking with God Through Pain and Suffering* [-@kellerWalkingGodPain2013], each person’s experience of grief is so unique that we have to remember that what may work for one person may not work for another, and in fact can even have the potential to make things worse. However, this does not imply that you should not pass on resources, but rather that you should be very careful about why you pass on resources, and to whom.
 
 In contrast to our previous readings from Kübler Ross, this focuses on grieving from the perspective of a bereaved individual.
 
@@ -185,8 +185,8 @@ Think about Easter, Jesus dying, suffering an excruciating death on the Cross. I
 
 Please browse the following two websites for additional resources, training, and information on grief, both for those who are dying and for those who are grieving.
 
-- [*Elisabeth Kübler Ross Foundation*](https://www.ekrfoundation.org/){target="_blank"} (n.d.)
-- [*The Art of Dying Well*](https://www.artofdyingwell.org/){target="_blank"} (n.d.)
+- [*Elisabeth Kübler Ross Foundation*](https://www.ekrfoundation.org/){target="_blank"} [-@ElisabethKublerRossFoundation]
+- [*The Art of Dying Well*](https://www.artofdyingwell.org/){target="_blank"} [-@thecentrefortheartofdyingwellArtDyingWell]
 
 :::
 
@@ -194,7 +194,7 @@ Please browse the following two websites for additional resources, training, and
 
 Grief can cause emotional or physical symptoms in a person. In the early stages of grief almost anything that people experience is normal, such as feeling extremely overwhelmed, questioning religious or spiritual beliefs, feeling mad, feeling upset, or being resentful. It is possible to mourn for months or years. As time passes and as the bereaved adjust to life without a loved one, to the news of a terminal diagnosis, or to the possibility of losing someone they love, pain usually becomes more manageable.
 
-The purpose of this section is to discuss how grief or loss and death affect us. *Being Mortal* (Gawande, 2017) is an outstanding book that I strongly recommend you read in its entirety to gain a clear understanding of the broader system at work and how it influences the individual’s process. Additionally, we will read an article that provides three ways to explain how grief and loss affect us, both from the perspective of the dying and from the perspective of the mourner. In order to conclude this topic, we will examine the Inventory of Complicated Grief (ICG) scale. There will be references to complex grief in our readings, but we will not go into specifics due to the limited time we have together.
+The purpose of this section is to discuss how grief or loss and death affect us. *Being Mortal* [@gawandeBeingMortalMedicine2017] is an outstanding book that I strongly recommend you read in its entirety to gain a clear understanding of the broader system at work and how it influences the individual’s process. Additionally, we will read an article that provides three ways to explain how grief and loss affect us, both from the perspective of the dying and from the perspective of the mourner. In order to conclude this topic, we will examine the Inventory of Complicated Grief (ICG) scale. There will be references to complex grief in our readings, but we will not go into specifics due to the limited time we have together.
 
 ### Activity: Read | A Personal Journey Through the Grief and Healing Process
 
@@ -202,7 +202,7 @@ The purpose of this section is to discuss how grief or loss and death affect us.
 
 As you read the following article you will have the opportunity to gain an understanding of how grief or loss and death affect us from the point of view of three main clinicians/researchers in this field. An online version of this article is available through TWU’s library.
 
-- [A Personal Journey Through the Grief and Healing Process](assets/u3/The_Satir_Journal.pdf){target="_blank"} (2008)
+- [A Personal Journey Through the Grief and Healing Process](assets/u3/The_Satir_Journal.pdf){target="_blank"} [-@sharonblevinsPersonalJourneyGrief2008]
 
 **Questions to Consider**
 
@@ -221,11 +221,11 @@ As you read the following article you will have the opportunity to gain an under
 
 ::: {.learning-activity}
 
-Atul Gawande’s book *Being Mortal* (2017) is a great resource for you to examine how views of the elderly have shifted in our culture, starting with the first chapter. It is my hope that you will come back to this reading when you have time as the entire book presents important viewpoints on the topic.
+Atul Gawande’s book *Being Mortal* [-@gawandeBeingMortalMedicine2017] is a great resource for you to examine how views of the elderly have shifted in our culture, starting with the first chapter. It is my hope that you will come back to this reading when you have time as the entire book presents important viewpoints on the topic.
 
 Death and dying is not explicitly discussed in Chapter 1, but how we view the elderly is important, because our avoidance of interaction with elderly people and thinking about this stage of our lives is arguably a result of avoiding thinking about our own deaths.
 
-- [*Being Mortal:* Chapter 1, The Independent Self](assets/u3//Being_Mortal_Chapter1.pdf){target="_blank"} (2017)
+- [*Being Mortal:* Chapter 1, The Independent Self](assets/u3//Being_Mortal_Chapter1.pdf){target="_blank"} [-@gawandeBeingMortalMedicine2017]
 
 **Questions to Consider**
 
@@ -233,7 +233,7 @@ Death and dying is not explicitly discussed in Chapter 1, but how we view the el
 2. What are the eight activities of daily living and the eight independent activities of daily living?
 3. How does new technology change the way we treat our elderly?
 4. Describe the shift from elderly people living with or needing to live with family to the creation of the "retirement" phase.
-5. Finish the following quote, "Modernization did not demote the elderly. It demoted the \_\_\_\_\_\_\_\_\_" (Gawande, 2017, p. 22).
+5. Finish the following quote, "Modernization did not demote the elderly. It demoted the \_\_\_\_\_\_\_\_\_" [@gawandeBeingMortalMedicine2017, p. 22].
 6. What has the veneration of elders been replaced with?
 
 :::
@@ -246,7 +246,7 @@ The purpose of this chapter is to describe the various trajectories our lives ca
 
 Becoming more comfortable with talking about death is not only beneficial for us psychologically, but also biologically. In order to contribute to the continuation of this conversation, Gawande’s book is a worthwhile and necessary read. I urge all of you to read the remainder of it when you have time.
 
-- [*Being Mortal:* Chapter 2, Things Fall Apart](assets/u3/Being_Mortal_Chapter2.pdf){target="_blank"} (2017)
+- [*Being Mortal:* Chapter 2, Things Fall Apart](assets/u3/Being_Mortal_Chapter2.pdf){target="_blank"} [-@gawandeBeingMortalMedicine2017]
 
 **Questions to Consider**
 
@@ -265,19 +265,19 @@ Becoming more comfortable with talking about death is not only beneficial for us
 
 Please search online to find and review the inventory of complicated grief (ICG). It is recommended that you take the ICG for experience; however, if you have recently suffered a loss and this activity would trigger too many emotions for you, please feel free to skip it. Scoring for the ICG is out of 76; a score of 25 or greater indicates a person is at high risk for requiring clinical care.
 
-There is much research in the literature about complicated grief, how it develops, and treatments that are appropriate for it, however it will be too much for our unit to include this. I encourage you to recall, instead, the readings by H. Norman Wright on [*Experiencing Grief*](https://www.hnormanwrightstore.com/Experiencing-Grief_p_101.html){target="_blank"} (2004) as he writes a little bit about complicated grief toward the end of his book.
+There is much research in the literature about complicated grief, how it develops, and treatments that are appropriate for it, however it will be too much for our unit to include this. I encourage you to recall, instead, the readings by H. Norman Wright on [*Experiencing Grief*](https://www.hnormanwrightstore.com/Experiencing-Grief_p_101.html){target="_blank"} [-@wrightExperiencingGrief2004] as he writes a little bit about complicated grief toward the end of his book.
 
 **Recommended Resource**
 
 Mary Frances O’Connor has done a lot of research in the field of grief, relating it to biology. If you are interested in reading some of her articles, and specifically her articles on complicated grief, I have provided her website for you to peruse. This is added reading however and does not need to be completed for this unit.
 
-- [*Mary-Frances O’Connor: Research*](https://www.maryfrancesoconnor.com/research/#block-yui_3_17_2_1_1625438886334_6091){target="_blank"} (n.d.)
+- [*Mary-Frances O’Connor: Research*](https://www.maryfrancesoconnor.com/research/#block-yui_3_17_2_1_1625438886334_6091){target="_blank"} [-@oconnorResearch]
 
 :::
 
 ## How Do We Work with Grief?
 
-Recent research suggests that grief does not necessarily follow the linear, predictable stages once widely accepted. However it remains broadly understood that grief is a process aimed at recovering meaning after a loss (Brown, 2021). The risk factors for complicated grief are diverse, including depression, anxiety, poor physical health, attachment issues, low perceived social support, family conflict near the end of life, and difficulty accepting death. Understanding these factors can help guide the appropriate support needed.
+Recent research suggests that grief does not necessarily follow the linear, predictable stages once widely accepted. However it remains broadly understood that grief is a process aimed at recovering meaning after a loss [@brownAtlasHeartMapping2021]. The risk factors for complicated grief are diverse, including depression, anxiety, poor physical health, attachment issues, low perceived social support, family conflict near the end of life, and difficulty accepting death. Understanding these factors can help guide the appropriate support needed.
 
 There is no doubt that there is a great deal of information available regarding grief management. We will be spending most of our time in this section gaining a greater understanding of EFFT related to grief management.
 
@@ -289,7 +289,7 @@ During this topic you will have the opportunity to increase your knowledge of ho
 
 Following the premise that bereavement practices can help mitigate the chances of complex grief developing, this article explores a variety of mourning practices. As well, it argues that clinicians should receive training in mourning and bereavement practices in order to assist in the treatment of their clients. Additionally, the article emphasizes the importance not only of understanding the broader system, but also of taking into account the unique needs of the individual within the system.
 
-- *[Generating a Vocabulary of Mourning: Supporting Families Through the Process of Grief](https://journals-sagepub-com.twu.idm.oclc.org/doi/pdf/10.1177/1066480720929693){target="_blank"}* (2020)
+- *[Generating a Vocabulary of Mourning: Supporting Families Through the Process of Grief](https://journals-sagepub-com.twu.idm.oclc.org/doi/pdf/10.1177/1066480720929693){target="_blank"}* [-@goldGeneratingVocabularyMourning2020]
 
 **Questions to Consider**
 
@@ -309,7 +309,7 @@ In this section we will revisit how EFFT can be applied in our work with grief, 
 
 In addition, we will spend some time discussing death and dying. This is a topic that we tend to avoid discussing—reasons for this vary from individual to individual. This is referred to as working through blocks. In this section, we will conduct a personal exercise related to this topic.
 
-- Review Chapters 1 and 2, and read Chapter 5 in Lafrance et al. (2020)
+- Review Chapters 1 and 2, and read Chapter 5 in Lafrance et al. [-@lafranceEmotionfocusedFamilyTherapy2020]
 
 **Questions to Consider**
 
@@ -326,7 +326,7 @@ In addition, we will spend some time discussing death and dying. This is a topic
 
 **Exercise: Block Work**
 
-As we work through a block we will focus on the psychoeducational component. In spite of the fact that you have read about how you can work with caregivers to work with blocks, I would like you to take the opportunity to apply it to yourself at this time, especially with regard to the subject of death. As we have discussed in this unit, death and loss are topics that tend to be avoided in our culture, but research shows that those who are dying and those who are grieving need to talk about it. Having stated this before, I would argue that it is for this reason that we do not have proper systems in place in North America to provide assistance, honour, and support to the elderly. Gawande (2017) stated in our reading above that we have come to venerate independence above all else. In order to avoid experiencing pain in those vulnerable places, we avoid going there.
+As we work through a block we will focus on the psychoeducational component. In spite of the fact that you have read about how you can work with caregivers to work with blocks, I would like you to take the opportunity to apply it to yourself at this time, especially with regard to the subject of death. As we have discussed in this unit, death and loss are topics that tend to be avoided in our culture, but research shows that those who are dying and those who are grieving need to talk about it. Having stated this before, I would argue that it is for this reason that we do not have proper systems in place in North America to provide assistance, honour, and support to the elderly. Gawande [-@gawandeBeingMortalMedicine2017] stated in our reading above that we have come to venerate independence above all else. In order to avoid experiencing pain in those vulnerable places, we avoid going there.
 
 ::: {#fig-image-u3}
 
@@ -366,11 +366,11 @@ An alternative to writing out a validation of silence for someone else could be 
 
 ::: {.learning-activity}
 
-The book *Walking With God Through Pain and Suffering* by Timothy Keller (2013) is an excellent resource for those interested in learning more about theology of suffering and pain. Only the content that pertains to our topic in this section will be read. Despite the fact that Keller is primarily discussing pain and suffering, his words are applicable to our discussion on grief, loss, and death, as they are also engulfed in worlds of pain and suffering.
+The book *Walking With God Through Pain and Suffering* by Timothy Keller [-@kellerWalkingGodPain2013] is an excellent resource for those interested in learning more about theology of suffering and pain. Only the content that pertains to our topic in this section will be read. Despite the fact that Keller is primarily discussing pain and suffering, his words are applicable to our discussion on grief, loss, and death, as they are also engulfed in worlds of pain and suffering.
 
 Read Chapter 11 which you can find here:
 
-- [*Walking With God Through Pain and Suffering*, Chapter 11](assets/u3/Timothy_Keller_Ch11.pdf){target="_blank"} (2013)
+- [*Walking With God Through Pain and Suffering*, Chapter 11](assets/u3/Timothy_Keller_Ch11.pdf){target="_blank"} [-@kellerWalkingGodPain2013]
 
 **Questions to Consider**
 
@@ -389,7 +389,7 @@ By inviting you to read this chapter I hope to initiate a discussion regarding h
 
 Read Chapter 12, "Weeping," which you can find here:
 
-- [*Walking with God Through Pain and Suffering*, Chapter 12](assets/u3/Timothy_Keller_Ch.12.pdf){target="_blank"} (2013)
+- [*Walking with God Through Pain and Suffering*, Chapter 12](assets/u3/Timothy_Keller_Ch.12.pdf){target="_blank"} [-@kellerWalkingGodPain2013]
 
 We can apply the concepts from this chapter to all of our units so far, as well as to our units to come. As scripture tells us, there is a time for everything: a time for weeping and despair is included in this and Keller expands on the importance of weeping for healthy emotional development, as well as a means for drawing us closer to God.
 

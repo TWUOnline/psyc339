@@ -54,15 +54,15 @@ Please see the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
--   Maté, G. (2010). *In the Realm of Hungry Ghosts*. North Atlantic Books.
--   Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association.
+-   Maté, G. [-@mateRealmHungryGhosts2010]. *In the Realm of Hungry Ghosts*. North Atlantic Books.
+-   Lafrance, A., Henderson, K. A., & Mayman, S. [-@lafranceEmotionfocusedFamilyTherapy2020]. *Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused Interventions*. American Psychological Association.
 -   Other online resources will be provided in the unit.
 
 ## What is Trauma?
 
 This first unit will lead you to explore some of the research on trauma. Topic 1 will help you not only gain a basic understanding of the varying types of trauma and how to define them, but also identify the main researchers in the field. Learning about the prominent researchers in this field will give you a good foundation and direction to fall back on as you go further in your studies, and as you encounter trauma in your day-to-day activities.
 
-The resources provided for this topic will discuss the areas of the brain trauma affects and how it differs from stress. Dr. Bessel van der Kolk’s famous book *The Body Keeps the Score* (2014) will also be discussed, and we will conclude this section with some definitions and key terms you should know.
+The resources provided for this topic will discuss the areas of the brain trauma affects and how it differs from stress. Dr. Bessel van der Kolk’s famous book *The Body Keeps the Score* [-@vanderkolkBodyKeepsScore2015] will also be discussed, and we will conclude this section with some definitions and key terms you should know.
 
 ### Trauma {.unnumbered}
 
@@ -79,13 +79,13 @@ In the course of working with trauma as therapists, we have the tendency to desi
 ::: learning-activity
 View the following videos and listen to Dr. Bessel van der Kolk, one of the most prominent trauma researchers, then answer the following questions. You may want to watch the first video more than once since a lot of information is packed into a short timeframe.
 
--   [*What is Trauma? The Author of "The Body Keeps the Score" Explains*](http://www.youtube-nocookie.com/embed/BJfmfkDQb14?si=asC9vWgUqFl43TqY){target="_blank"} (2021)
+-   [*What is Trauma? The Author of "The Body Keeps the Score" Explains*](http://www.youtube-nocookie.com/embed/BJfmfkDQb14?si=asC9vWgUqFl43TqY){target="_blank"} [-@bigthinkWhatTraumaAuthor2021]
 
 ::: video-container
 {{< video http://www.youtube-nocookie.com/embed/BJfmfkDQb14?si=asC9vWgUqFl43TqY >}}
 :::
 
--   [*Three Ways Trauma Can Change the Brain*](https://www.youtube.com/watch?v=LKWUmwxi1ZI){target="_blank"} (2014)
+-   [*Three Ways Trauma Can Change the Brain*](https://www.youtube.com/watch?v=LKWUmwxi1ZI){target="_blank"} [-@nicabmThreeWaysTrauma2014]
 
 ::: video-container
 {{< video https://www.youtube.com/watch?v=LKWUmwxi1ZI >}}
@@ -108,7 +108,7 @@ You will be able to check your understanding of the topic by considering these q
 ::: learning-activity
 Reading the prologue to Dr. van der Kolk’s book will provide you a good introduction to trauma and to his experience and work with it.
 
--   [*The Body Keeps the Score*](assets/u1/BKTS_Prologue.pdf){target="_blank"}, Prologue (2014)
+-   [*The Body Keeps the Score*](assets/u1/BKTS_Prologue.pdf){target="_blank"}, Prologue [-@vanderkolkBodyKeepsScore2015]
 
 **Questions to Consider**
 
@@ -124,9 +124,8 @@ You will be able to check your understanding of the topic by considering these q
 ::: learning-activity
 If you plan to work with traumatized individuals, Chapter 3 in *The Body Keeps the Score* is an excellent suggested resource for you.
 
--   [*The Body Keeps the Score*, Chapter 3](assets/u1/TBKTS_Ch.3.pdf){target="_blank"} (2014)
-
-**Highlights from the reading are described in the following paragraphs (van der Kolk, 2014):**
+-   [*The Body Keeps the Score*, Chapter 3](assets/u1/TBKTS_Ch.3.pdf){target="_blank"} [-@vanderkolkBodyKeepsScore2015]
+**Highlights from the reading are described in the following paragraphs (van der Kolk, 2015):**
 
 One of the main findings in a study that was conducted by examining the brain with MRI is that trauma is preverbal. While undergoing brain scans, research participants were simultaneously triggered with reminders of their individual traumas. Through this experiment it was discovered that Broca’s area in the brain (where speech resides) was shut down, or dark on the MRI. This is a major finding as it tells us that the connection between speech and what is happening is disconnected. Similarly, it was shown that when something happens to remind traumatized people of their trauma, their right brain responds as if the event was happening in the present, while their left side of the brain is shut down, which can block the realization that the event is not happening in real time. This is all experienced in the bodily-felt sense. This therefore means that the experience of trauma itself can get in the way of talking about the trauma. This piece of information is crucial to know as therapists, because the process of change in the therapy room often involves talking.
 
@@ -138,7 +137,7 @@ van der Kolk also describes trauma succinctly in this chapter. He describes trau
 ::::: learning-activity
 There are two sections to this activity. In the first, Dr. van der Kolk explains how trauma manifests in children, and in the second, pediatrician Nadine Burke Harris shares during a TED Talk the importance of acknowledging childhood trauma and how it impacts our physical well-being.
 
--   [*Bessel van der Kolk on the Treatment of Trauma: How Childhood Trauma is Different from PTSD*](https://www.youtube-nocookie.com/embed/UxPAt-Esv8Q){target="_blank"}(2013)
+-   [*Bessel van der Kolk on the Treatment of Trauma: How Childhood Trauma is Different from PTSD*](https://www.youtube-nocookie.com/embed/UxPAt-Esv8Q){target="_blank"} [-@nicabmBesselVanKolk2013]
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/UxPAt-Esv8Q >}}
@@ -146,7 +145,7 @@ There are two sections to this activity. In the first, Dr. van der Kolk explains
 
 Pediatrician Nadine Burke Harris explains that the repeated stress of abuse, neglect, and parents struggling with mental health or substance abuse issues has real, tangible effects on the development of the brain. Watch the following video:
 
--   [*How Childhood Trauma Affects Health Across a Lifetime*](https://www.youtube.com/watch?v=95ovIJ3dsNk){target="_blank"} (2015)
+-   [*How Childhood Trauma Affects Health Across a Lifetime*](https://www.youtube.com/watch?v=95ovIJ3dsNk){target="_blank"} [-@burkeharrisHowChildhoodTrauma2015]
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/95ovIJ3dsNk >}}
@@ -162,7 +161,7 @@ You will be able to check your understanding of the topic by considering these q
 
 To gain a better understanding of your own past experiences, you can take the following short adverse childhood experience (ACE) quiz found on the website below. It is important to note that participation in this activity is not mandatory, nor will you be asked to share your experiences. Please proceed with caution and awareness as the questions and discoveries may be triggering.
 
--   [*Take Your ACE Test*](https://stopabusecampaign.org/take-your-ace-test/){target="_blank"} (n.d.)
+-   [*Take Your ACE Test*](https://stopabusecampaign.org/take-your-ace-test/){target="_blank"} [-@stopabusecampaigncorporationWhatYourACE]
 :::::
 
 ### Activity: Terminology
@@ -170,7 +169,7 @@ To gain a better understanding of your own past experiences, you can take the fo
 ::: learning-activity
 This activity will introduce you to some of the concepts and terminology used in this field by looking up the following terms. The website given here is recommended for searching the terms listed in the tool below. By doing the search yourself you are more likely to remember the definitions. Try to write out or type out the definitions instead of just copying and pasting them. This section aims to define these terms at the end of the section rather than at the beginning so you will recognize some of them and have a context from the resources you have read.
 
--   [*Complex Trauma Resources*](https://www.complextrauma.org/glossary){target="_blank"} (n.d.)
+-   [*Complex Trauma Resources*](https://www.complextrauma.org/glossary){target="_blank"} [-@Glossary]
 
 Use the tool below to assist you in this activity. Please note that if you close or refresh the page your work will be lost, so you may wish to download the file with your answers before closing the browser.
 
@@ -192,15 +191,15 @@ To develop a preliminary understanding of why trauma occurs, you have learned de
 :::: learning-activity
 Despite being potentially overwhelming, this chapter is extremely informative regarding what happens to the brain when trauma occurs. Please use the following questions to guide your reading, as they will assist you in focusing on the most important information.
 
--   Watch [*What is trauma? The author of "The Body Keeps the Score" explains \| Bessel van der Kolk \| Big Think*](https://www.youtube.com/watch?v=BJfmfkDQb14){target="_blank"}.
+-   Watch [*What is trauma? The author of "The Body Keeps the Score" explains \| Bessel van der Kolk \| Big Think*](https://www.youtube.com/watch?v=BJfmfkDQb14){target="_blank"}[-@bigthinkWhatTraumaAuthor2021].
 
 ::: video-container
 {{< video https://www.youtube.com/watch?v=BJfmfkDQb14 >}}
 :::
 
--   Read [*The Body Keeps the Score*](assets/u1/TBKS_Ch_4.pdf){target="_blank"}, Chapter 4 (2014)
+-   Read [*The Body Keeps the Score*](assets/u1/TBKS_Ch_4.pdf){target="_blank"}, Chapter 4 [-@vanderkolkBodyKeepsScore2015]
 
-> "When you can’t be fully here, you go to the places where you did feel alive—even if those places are filled with horror and misery (van der Kolk, p. 73)."
+> "When you can’t be fully here, you go to the places where you did feel alive—even if those places are filled with horror and misery" [@vanderkolkBodyKeepsScore2015, p. 73].
 
 **Questions to Consider**
 
@@ -219,11 +218,11 @@ You will be able to check your understanding of the topic by considering the fol
 ### Activity: Reading | In the Realm of Hungry Ghosts, Chapters 17 and 18
 
 ::: learning-activity
-Gabor Maté’s book, *In the Realm of Hungry Ghosts* (2010), focuses on addiction. You may want to spend some time reading Chapters 17 and 18 to better understand how addiction and trauma are intertwined.
+Gabor Maté’s book, *In the Realm of Hungry Ghosts* [-@mateRealmHungryGhosts2010], focuses on addiction. You may want to spend some time reading Chapters 17 and 18 to better understand how addiction and trauma are intertwined.
 
-Maté is famous for saying, "don’t ask why the addiction, but why the pain." He would state that every person who has an addiction has experienced trauma (Maté, 2010). Thus, we will read a few chapters from the book that describe how the brain develops and works. Observe how Maté describes both physical trauma and emotional trauma. The need for strong attachment figures from a young age has been discussed and will continue to be discussed—this section explains the effects on the brain and brain development. Our next unit on addiction will benefit from investigating the effects on the brain.
+Maté is famous for saying, "don’t ask why the addiction, but why the pain." He would state that every person who has an addiction has experienced trauma [@mateRealmHungryGhosts2010]. Thus, we will read a few chapters from the book that describe how the brain develops and works. Observe how Maté describes both physical trauma and emotional trauma. The need for strong attachment figures from a young age has been discussed and will continue to be discussed—this section explains the effects on the brain and brain development. Our next unit on addiction will benefit from investigating the effects on the brain.
 
--   In the Realm of Hungry Ghosts: Close Encounters With Addiction (2010)
+-   In the Realm of Hungry Ghosts: Close Encounters With Addiction [-@mateRealmHungryGhosts2010]
 
 **Questions to Consider**
 
@@ -242,17 +241,17 @@ You will be able to check your understanding of the topic by considering the fol
 ::: learning-activity
 Complextrauma.org is an excellent website to familiarize yourself with for research and information about trauma, as well as for resources and opportunities. In addition to using this site to define some terms, I invite you to read the following explanation of the impact trauma has on the brain. Hopefully, some of this information will sound familiar to you.
 
--   [*The Effects of Complex Trauma on Brain Development*](https://www.complextrauma.org/complex-trauma/the-effects-of-complex-trauma-on-brain-development/){target="_blank"} (n.d.)
+-   [*The Effects of Complex Trauma on Brain Development*](https://www.complextrauma.org/complex-trauma/the-effects-of-complex-trauma-on-brain-development/){target="_blank"} [-@EffectsComplexTrauma]
 :::
 
 ### Activity: Optional Reading | Treating Adult Survivors of Childhood Emotional Abuse and Neglect, pp. 3–12
 
 ::: learning-activity
-Literature in this section discusses emotional abuse or neglect and psychological trauma. Emotional and psychological trauma is a relatively new and complex area of trauma study, and it is crucial that we learn how this affects the systems in which we live, work, and commune. As you read this section, keep the authors’ working definition of complex trauma in the back of your mind—they identify complex trauma as defined by Courtois (2004) and Courtois & Ford, (2010):
+Literature in this section discusses emotional abuse or neglect and psychological trauma. Emotional and psychological trauma is a relatively new and complex area of trauma study, and it is crucial that we learn how this affects the systems in which we live, work, and commune. As you read this section, keep the authors’ working definition of complex trauma in the back of your mind—they identify complex trauma as defined by Courtois [-@courtoisComplexTraumaComplex2004] and Courtois & Ford, [2010, as cited in @hopperTreatingAdultSurvivors2021]:
 
-"Courtois (2004) articulated … complex trauma as a *recurrent* and *escalating* form of trauma, occurring primarily within familial or intimate relationships ... requiring survival to take precedence over normal psychobiological development" (Courtois & Ford, 2010, as cited in Hopper et al., 2021, p. 9).
+"Courtois [-@courtoisComplexTraumaComplex2004] articulated … complex trauma as a *recurrent* and *escalating* form of trauma, occurring primarily within familial or intimate relationships ... requiring survival to take precedence over normal psychobiological development" [Courtois & Ford, 2010, as cited in @hopperTreatingAdultSurvivors2021, p. 9].
 
-Additionally, they note that the Complex Trauma Workgroup has a similarly developmentally anchored definition of complex trauma as "a *dualistic*, pernicious, and *progressive relationship* *between exposure and adaptation*" (as cited in Hopper et al., 2021, p. 9).
+Additionally, they note that the Complex Trauma Workgroup has a similarly developmentally anchored definition of complex trauma as "a *dualistic*, pernicious, and *progressive relationship* *between exposure and adaptation*" [as cited in @hopperTreatingAdultSurvivors2021, p. 9].
 
 -   Read pages 3 to 12 in [*Treating Adult Survivors of Childhood Emotional Abuse and Neglect: Component-Based Psychotherapy*](assets/u1/Treating%20Adult%20Survivors%20of%20Childhood%20Emotional%20Abuse%20and%20Neglect.pdf){target="_blank"} (2021)
 
@@ -263,7 +262,7 @@ You will be able to check your understanding of the topic by considering the fol
 1.  Can you describe the difference between emotional abuse versus emotional neglect?
 2.  Why does psychological maltreatment in the home still largely remain in a gray area? What factors make it hard to identify or intervene?
 3.  What is psychological abuse the strongest predictor of?
-4.  How does Courtois (2004) define complex trauma?
+4.  How does Courtois [-@courtoisComplexTraumaComplex2004] define complex trauma?
 5.  What is the difference between Type I trauma and Type II trauma?
 6.  What do the acronyms PTSD, CPTSD, and DTD stand for?
 :::
@@ -346,11 +345,11 @@ Please do your own application in the case study below, as well as the correspon
 ::: learning-activity
 Look up the following modalities to see what types of treatment options are available and notice which modalities resonate with you and why. These modalities do not require in-depth knowledge. Again, the aim is to provide you with a foundation so that when you encounter trauma in your work environment, you will already know which modality resonates with you and in which you would benefit from further training.
 
--   [EMDR Therapy: Demonstration & Step-by-Step Walkthrough](https://www.youtube.com/watch?v=M2ra8p4MSOk){target="_blank"} (2021)
--   [*Narrative Exposure Therapy (NET)*](https://www.apa.org/ptsd-guideline/treatments/narrative-exposure-therapy){target="_blank"} (2025)
--   [*Origin of Somatic Experiencing*](http://www.youtube.com/watch?v=L0PsQFoz48g&t=33s){target="_blank"} (2012)
--   [Internal Family Systems & CBP & AEDP & STAIR/MPE](https://www.complextrauma.org/treatment/complex-trauma-treatments-for-adults/){target="_blank"} (2019)
--   [ARC Therapy](https://arcframework.org/what-is-arc/){target="_blank"} (2020)
+-   [EMDR Therapy: Demonstration & Step-by-Step Walkthrough](https://www.youtube.com/watch?v=M2ra8p4MSOk){target="_blank"} [-@thelukincenterEMDRTherapyDemonstration2021]
+-   [*Narrative Exposure Therapy (NET)*](https://www.apa.org/ptsd-guideline/treatments/narrative-exposure-therapy){target="_blank"} [-@americanpsychiatricassociationNarrativeExposureTherapy2025]
+-   [*Origin of Somatic Experiencing*](http://www.youtube.com/watch?v=L0PsQFoz48g&t=33s){target="_blank"} [-@somaticexperiencinginternationalOriginSomaticExperiencing2012]
+-   [Internal Family Systems & CBP & AEDP & STAIR/MPE](https://www.complextrauma.org/treatment/complex-trauma-treatments-for-adults/){target="_blank"} [-@ComplexTraumaTreatments]
+-   [ARC Therapy](https://arcframework.org/what-is-arc/){target="_blank"} [-@arcframeworkWhatARC]
 :::
 
 ### Activity: Case Study
@@ -379,17 +378,17 @@ Take notes using the tool below. You may wish to download your notes (please con
 
 **Videos**
 
--   Big Think. (2021). *What is trauma?* The author of "The Body Keeps the Score" explains \[Video\]. [https://www.youtube.com/watch?v=BJfmfkDQb14](https://www.youtube.com/watch?v=BJfmfkDQb14){target="_blank"}
--   NICABM. (2014). *Three ways trauma can change the brain* \[Video\]. YouTube. [https://www.youtube-nocookie.com/embed/LKWUmwxi1ZI](https://www.youtube.com/watch?v=LKWUmwxi1ZI){target="_blank"}
--   TED. (2015, February 18). *How childhood trauma affects health across a lifetime* \[Video\]. YouTube. [https://www.youtube-nocookie.com/embed/95ovIJ3dsNk](https://www.youtube.com/watch?v=95ovIJ3dsNk){target="_blank"}
+-   Big Think. [-@bigthinkWhatTraumaAuthor2021]. *What is trauma?* The author of "The Body Keeps the Score" explains \[Video\]. [https://www.youtube.com/watch?v=BJfmfkDQb14](https://www.youtube.com/watch?v=BJfmfkDQb14){target="_blank"}
+-   NICABM. [-@nicabmThreeWaysTrauma2014]. *Three ways trauma can change the brain* \[Video\]. YouTube. [https://www.youtube-nocookie.com/embed/LKWUmwxi1ZI](https://www.youtube.com/watch?v=LKWUmwxi1ZI){target="_blank"}
+-   Burke Harris, Nadine. [-@burkeharrisHowChildhoodTrauma2015]. *How childhood trauma affects health across a lifetime* \[Video\]. YouTube. [https://www.youtube-nocookie.com/embed/95ovIJ3dsNk](https://www.youtube.com/watch?v=95ovIJ3dsNk){target="_blank"}
 
 **Readings**
 
--   van der Kolk, B. (2015). *The body keeps the score: Brain, mind, and body in the healing of trauma*. Penguin.
+-   van der Kolk, B. [-@vanderkolkBodyKeepsScore2015]. *The body keeps the score: Brain, mind, and body in the healing of trauma*. Penguin.
 
 **Websites**
 
--   Complex Trauma. (n.d.). *Complex trauma resources: Glossary*. [https://www.complextrauma.org/glossary/](https://www.complextrauma.org/glossary/){target="_blank"}
+-   Complex Trauma. [-@Glossary]. *Complex trauma resources: Glossary*. [https://www.complextrauma.org/glossary/](https://www.complextrauma.org/glossary/){target="_blank"}
 
 ## Why and How Does Trauma Happen?
 
@@ -398,37 +397,37 @@ Take notes using the tool below. You may wish to download your notes (please con
 -   There are no recommended videos for Topic 2.
 
 **Readings**
-
--   Courtois, C. (2004). Complex trauma, complex reactions: Assessment and treatment: *Psychotherapy: Theory, Research, Practice, Training*, *42*(4), 412–425.
--   Courtois, C., & Ford, J. D. (Eds.). (2009). *Treating complex traumatic stress disorder: Scientific foundations and therapeutic models*. Guilford Press.
+<!-- //todo #8 -->
+-   Courtois, C. [-@courtoisComplexTraumaComplex2004]. Complex trauma, complex reactions: Assessment and treatment: *Psychotherapy: Theory, Research, Practice, Training*, *42*(4), 412–425.
+-   Courtois, C., & Ford, J. D. (Eds.). [-@courtoisTreatingComplexTraumatic2009]. *Treating complex traumatic stress disorder: Scientific foundations and therapeutic models*. Guilford Press.
 -   [Hopper, E. K., Grossman, F. K., Spinazzola, J., & Zucker, M. (2021). *Treating adult survivors of childhood emotional abuse and neglect: Component-based psychotherapy*. The Guilford Press.](assets/u1/Beyond_Survival.pdf){target="_blank"}
--   Maté, G. (2010). *In the realm of hungry ghosts*. North Atlantic Books.
--   van der Kolk, B. (2015). *The body keeps the score: Brain, mind, and body in the healing of trauma*. Penguin.
+-   Maté, G. [-@mateRealmHungryGhosts2010]. *In the realm of hungry ghosts*. North Atlantic Books.
+-   van der Kolk, B. [-@vanderkolkBodyKeepsScore2015]. *The body keeps the score: Brain, mind, and body in the healing of trauma*. Penguin.
 
 **Websites**
 
--   Complex Trauma. (n.d.). The effects of complex trauma on brain development. [https://www.complextrauma.org/complex-trauma/the-effects-of-complex-trauma-on-brain-development/](https://www.complextrauma.org/complex-trauma/the-effects-of-complex-trauma-on-brain-development/){target="_blank"}
+-   Complex Trauma. [-@EffectsComplexTrauma]. The effects of complex trauma on brain development. [https://www.complextrauma.org/complex-trauma/the-effects-of-complex-trauma-on-brain-development/](https://www.complextrauma.org/complex-trauma/the-effects-of-complex-trauma-on-brain-development/){target="_blank"}
 
 ## How Do We Work with Trauma?
 
 **Videos**
 
--   [EMDR Therapy: Demonstration & Step-by-Step Walkthrough](https://www.youtube.com/watch?v=M2ra8p4MSOk){target="_blank"}
--   Somatic Experiencing International. (2012). *Origin of somatic experiencing* \[Video\]. YouTube. [https://www.youtube.com/watch?v=L0PsQFoz48g](https://www.youtube.com/watch?v=L0PsQFoz48g){target="_blank"}
+-   [EMDR Therapy: Demonstration & Step-by-Step Walkthrough](https://www.youtube.com/watch?v=M2ra8p4MSOk){target="_blank"} [@thelukincenterEMDRTherapyDemonstration2021]
+-   Somatic Experiencing International. [-@somaticexperiencinginternationalOriginSomaticExperiencing2012]. *Origin of somatic experiencing* \[Video\]. YouTube. [https://www.youtube.com/watch?v=L0PsQFoz48g](https://www.youtube.com/watch?v=L0PsQFoz48g){target="_blank"}
 
 **Readings**
 
--   Hopper, E. K., Grossman, F. K., Spinazzola, J., & Zucker, M. (2021). *Treating adult survivors of childhood emotional abuse and neglect: Component-based psychotherapy*. Guilford Press.
--   Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions*. American Psychological Association.
--   Pressley, J., & Spinazzola, J. (2015). Beyond survival: Application of a complex trauma treatment model in the Christian context. *Journal of Psychology and Theology*, *43*(1), 8–22. [https://psycnet.apa.org/doi/10.1177/009164711504300102](https://psycnet.apa.org/doi/10.1177/009164711504300102){target="_blank"}
+-   Hopper, E. K., Grossman, F. K., Spinazzola, J., & Zucker, M. [-@hopperTreatingAdultSurvivors2021]. *Treating adult survivors of childhood emotional abuse and neglect: Component-based psychotherapy*. Guilford Press.
+-   Lafrance, A., Henderson, K. A., & Mayman, S. [-@lafranceEmotionfocusedFamilyTherapy2020]. *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions*. American Psychological Association.
+-   Pressley, J., & Spinazzola, J. [-@pressleySurvivalApplicationComplex2015]. Beyond survival: Application of a complex trauma treatment model in the Christian context. *Journal of Psychology and Theology*, *43*(1), 8–22. [https://psycnet.apa.org/doi/10.1177/009164711504300102](https://psycnet.apa.org/doi/10.1177/009164711504300102){target="_blank"}
 
 **Websites**
 
--   American Psychiatric Association. (n.d.). *PTSD guideline*. [https://www.apa.org/ptsd-guideline/treatments/narrative-exposure-therapy](https://www.apa.org/ptsd-guideline/treatments/narrative-exposure-therapy){target="_blank"}
--   Complex Trauma Resources. (n.d.) *Treatments for adults - Accelerated experiential dynamic psychotherapy (AEDP)*. [https://www.complextrauma.org/treatment/complex-trauma-treatments-for-adults/](https://www.complextrauma.org/treatment/complex-trauma-treatments-for-adults/){target="_blank"}
--   Stop Abuse Campaign. (n.d.). *Take your ACE test*. [https://stopabusecampaign.org/take-your-ace-test/](https://stopabusecampaign.org/take-your-ace-test/){target="_blank"}
--   ARC Framework. (n.d.) *What is ARC*. [https://arcframework.org/what-is-arc/](https://arcframework.org/what-is-arc/){target="_blank"}
--   Somatic Experiencing International. (2012). *Origin of somatic experiencing* \[Video\]. YouTube. [https://www.youtube.com/watch?v=L0PsQFoz48g](https://www.youtube.com/watch?v=L0PsQFoz48g){target="_blank"}
+-   American Psychiatric Association. [-@americanpsychiatricassociationNarrativeExposureTherapy2025]. *PTSD guideline*. [https://www.apa.org/ptsd-guideline/treatments/narrative-exposure-therapy](https://www.apa.org/ptsd-guideline/treatments/narrative-exposure-therapy){target="_blank"}
+-   Complex Trauma Resources. [-@ComplexTraumaTreatments] *Treatments for adults - Accelerated experiential dynamic psychotherapy (AEDP)*. [https://www.complextrauma.org/treatment/complex-trauma-treatments-for-adults/](https://www.complextrauma.org/treatment/complex-trauma-treatments-for-adults/){target="_blank"}
+-   Stop Abuse Campaign. [-@stopabusecampaigncorporationWhatYourACE]. *Take your ACE test*. [https://stopabusecampaign.org/take-your-ace-test/](https://stopabusecampaign.org/take-your-ace-test/){target="_blank"}
+-   ARC Framework. [-@arcframeworkWhatARC] *What is ARC*. [https://arcframework.org/what-is-arc/](https://arcframework.org/what-is-arc/){target="_blank"}
+-   Somatic Experiencing International. [-@somaticexperiencinginternationalOriginSomaticExperiencing2012]. *Origin of somatic experiencing* \[Video\]. YouTube. [https://www.youtube.com/watch?v=L0PsQFoz48g](https://www.youtube.com/watch?v=L0PsQFoz48g){target="_blank"}
 
 ## Summary {.unnumbered}
 

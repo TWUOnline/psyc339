@@ -72,7 +72,7 @@ In the following learning activities you will learn more about the five approach
 
 Watch the following YouTube video to help introduce us to this discussion. We will discuss some of the practical reasons why it is important to explore these different approaches and why it is important to begin formulating our own ideas around this.
 
-[*Five Approaches to Counseling and Christianity: A Practical Guide*](https://youtu.be/dES1gyR8034){target="_blank"} (2021) (**Watch from the beginning to 10:32**)
+[*Five Approaches to Counseling and Christianity: A Practical Guide*](https://youtu.be/dES1gyR8034){target="_blank"} [-@cityvisionuniversityFiveApproachesCounseling2021] (**Watch from the beginning to 10:32**)
 
 <div class="video-container">
 
@@ -92,7 +92,7 @@ Take note of the model to help you consider the implications of where you fall.
 
 **Optional Video**
 
-- *[Since The Bible is Sufficient for All of Life, Should We Rule Out Psychology in Counseling?](https://www.youtube.com/watch?v=g0f6VxbP0GU){target="_blank"}* (2012)
+- *[Since The Bible is Sufficient for All of Life, Should We Rule Out Psychology in Counseling?](https://www.youtube.com/watch?v=g0f6VxbP0GU){target="_blank"}* [-@ligonierministriesBibleSufficientAll2018]
 
 <div class="video-container">
 
@@ -114,7 +114,7 @@ After completing the activities above consider the following questions:
 
 ::: {.learning-activity}
 
-- [*Levels of Explanation & Christian Counselors in Secular Contexts*](https://www.youtube.com/watch?v=57HiA2kwQTA){target="_blank"} (2021) (**Watch from 1:51 to 6:20 and from 18:50 to the end**)
+- [*Levels of Explanation & Christian Counselors in Secular Contexts*](https://www.youtube.com/watch?v=57HiA2kwQTA){target="_blank"} [-@cityvisionuniversityLesson2Levels2021] (**Watch from 1:51 to 6:20 and from 18:50 to the end**)
 
 <div class="video-container">
 
@@ -132,11 +132,11 @@ After completing the activity consider the following questions:
 2. What are some of the weaknesses?
 3. What is the dualism heresy?
 
-Read the following from *Counseling and Christianity: Five Approaches*, pp. 23–24.
+Read the following from *Counseling and Christianity: Five Approaches* [@johnsonCounselingChristianityFive2012,pp. 23–24].
 
 - [*Counseling and Christianity: Five Approaches*](assets/u6/Counselling_And_Christianity_Pg_23-24.pdf){target="_blank"}
 
-The repetition here will assist us in better understanding this approach. Feel free to skip this reading if you have a good understanding of the point of view from the video above. If you wish to take notes on this section, please refer to *Counseling and Christianity: Five Approaches* (Greggo & Sisemore, 2012) for a concise summary of this approach.
+The repetition here will assist us in better understanding this approach. Feel free to skip this reading if you have a good understanding of the point of view from the video above. If you wish to take notes on this section, please refer to *Counseling and Christianity: Five Approaches* [@johnsonCounselingChristianityFive2012] for a concise summary of this approach.
 
 :::
 
@@ -144,7 +144,7 @@ The repetition here will assist us in better understanding this approach. Feel f
 
 ::: {.learning-activity}
 
-- [*Lesson 3: Counseling Integration Model and Christian Worldview*](https://www.youtube.com/watch?v=4Xj9FezdpXY){target="_blank"} (2021) **(Watch from start to 10:56)**
+- [*Lesson 3: Counseling Integration Model and Christian Worldview*](https://www.youtube.com/watch?v=4Xj9FezdpXY){target="_blank"} [-@cityvisionuniversityLesson3Counseling2021] **(Watch from start to 10:56)**
 
 <div class="video-container">
 
@@ -165,7 +165,7 @@ After watching the video consider the following questions:
 3. What are some of the strengths of the model?
 4. What are some of the weaknesses?
 
->"Integration is a recursive process of expanding understanding, but always with our most fundamental loyalty being to the true teachings of the special revelation of the Bible. Integration is ultimately the task of the Christian person whom God has led to be a student or scholar of some facet of psychology, with the true teachings of special revelation as the guiding framework for how that person structures his or her deepest beliefs and loyalties" (Johnson, 2010, p. 117).
+>"Integration is a recursive process of expanding understanding, but always with our most fundamental loyalty being to the true teachings of the special revelation of the Bible. Integration is ultimately the task of the Christian person whom God has led to be a student or scholar of some facet of psychology, with the true teachings of special revelation as the guiding framework for how that person structures his or her deepest beliefs and loyalties" [@johnsonPsychologyChristianity2010, p. 117].
 
 :::
 
@@ -173,9 +173,9 @@ After watching the video consider the following questions:
 
 ::: {.learning-activity}
 
-In order to fully understand this approach, we will be using repetition. Feel free to skip this reading if you have a thorough understanding of the perspective from the previous readings. You may wish to take notes on the following section in *Counseling and Christianity: Five Approaches* (Greggo & Sisemore, 2012) for a succinct summary of this approach. This very brief description will be expanded upon in the reading.
+In order to fully understand this approach, we will be using repetition. Feel free to skip this reading if you have a thorough understanding of the perspective from the previous readings. You may wish to take notes on the following section in *Counseling and Christianity: Five Approaches* [@johnsonCounselingChristianityFive2012] for a succinct summary of this approach. This very brief description will be expanded upon in the reading.
 
-- [*Counseling and Christianity: Five Approaches*](https://www.youtube.com/watch?v=dES1gyR8034){target="_blank"} (2012) Read pages 149–178.
+- [*Counseling and Christianity: Five Approaches*](https://www.youtube.com/watch?v=dES1gyR8034){target="_blank"} [-@johnsonCounselingChristianityFive2012] Read pages 149–178.
 
 :::
 
@@ -207,7 +207,7 @@ After completing the reading above, consider the following questions:
 
 As noted previously we are using repetition to really help us understand this approach. If you feel you have a good understanding of the view from the videos, feel free to skip this reading. Otherwise, read the following section in *Counseling and Christianity: Five Approaches* (Greggo & Sisemore, 2012) for a succinct summary of this approach; you may wish to take notes on this section as well.
 
-- [C*ounseling and Christianity: Five Approaches*](assets/u6/Counselling_And_Christianity_Pg.29-31.pdf){target="_blank"}*,* pp. 29–31 (2012)
+- [C*ounseling and Christianity: Five Approaches*](assets/u6/Counselling_And_Christianity_Pg.29-31.pdf){target="_blank"}*,* pp. 29–31 [-@johnsonCounselingChristianityFive2012]
 
 :::
 
@@ -217,9 +217,9 @@ As noted previously we are using repetition to really help us understand this ap
 
 We will be using repetition here to really help us understand this approach. If you feel you have a good understanding of the view from the video, feel free to skip this reading.
 
-Read the following section in *Counseling and Christianity: Five Approaches* (Greggo & Sisemore, 2012) for a succinct summary of this approach; you may take notes on this section if you would like to.
+Read the following section in *Counseling and Christianity: Five Approaches* [@johnsonCounselingChristianityFive2012]for a succinct summary of this approach; you may take notes on this section if you would like to.
 
-- [*Counseling and Christianity: Five Approaches*](assets/u6/Counselling_And_Christianity_Pg27-29.pdf){target="_blank"} (2012)
+- [*Counseling and Christianity: Five Approaches*](assets/u6/Counselling_And_Christianity_Pg27-29.pdf){target="_blank"} [-@johnsonCounselingChristianityFive2012]
 
 :::
 
@@ -229,7 +229,7 @@ Read the following section in *Counseling and Christianity: Five Approaches* (Gr
 
 Here is a brief overview of a transformational psychology view. In the transformational psychology view, one can take wisdom from both theological and psychological viewpoints, but we need to re-evaluate what traditional psychology would tell us is appropriate psychology. Each area of study needs to be viewed through the lens of both reality and faith. Considering that this approach is based on Christian realities, this approach is only suitable for Christians. It is imperative to note that this approach has a great deal to do with the individual and how close the person is to God–the closer the person is to God, the more profound the psychology. "The bottom line will be that doing science and, in this case, psychology is ultimately an act of love" (Johnson, 2010, p. 199).
 
-- [*Transformative Model: Combining Spiritual Formation and Counseling*](https://www.youtube.com/watch?v=A1ZNfCnFL04){target="_blank"} (2021)
+- [*Transformative Model: Combining Spiritual Formation and Counseling*](https://www.youtube.com/watch?v=A1ZNfCnFL04){target="_blank"} [-@cityvisionuniversityLesson5Transformative2021]
 
 <div class="video-container">
 
@@ -250,7 +250,7 @@ Take note of the model that compares secular psychology with transformational ps
 
 John Coe is one of the main contributors to the transformational psychology approach. In this video you can see how Coe talks about transformational psychology, particularly around the concept of spiritual formation.
 
-- [*Talbot Talks: Spiritual Formation with Dr. John Coe*](https://www.youtube.com/watch?v=_71JqYyb5Jg?si=9pW59jOBjKHpxBza){target="_blank"} (2013)
+- [*Talbot Talks: Spiritual Formation with Dr. John Coe*](https://www.youtube.com/watch?v=_71JqYyb5Jg?si=9pW59jOBjKHpxBza){target="_blank"} [-@biolauniversityTalbotTalksSpiritual2013]
 
 <div class="video-container">
 
@@ -276,7 +276,7 @@ Here is a brief overview of what a Biblical counselling approach is:
 
 > Ultimately, a Biblical counselling approach believes that the Bible and Christian faith depict humanity and behaviour in the right light. Psychological insights can be gleaned from this approach, but the Bible possesses the deepest wisdom. "Christian Ministry is a psychotherapy" (p. 245).
 
-- [*Biblical Counseling Within Five Approaches to Counseling & Christianity*](https://www.youtube.com/watch?v=3L72Gu_0FcQ){target="_blank"} (2021) **(Watch from 00:55-10:45)**
+- [*Biblical Counseling Within Five Approaches to Counseling & Christianity*](https://www.youtube.com/watch?v=3L72Gu_0FcQ){target="_blank"} [-@cityvisionuniversityLesson6Biblical2021] **(Watch from 00:55-10:45)**
 
 <div class="video-container">
 
@@ -297,7 +297,7 @@ After watching the video above consider the following questions:
 
 David Powlison is one of the "big names" in the field of Biblical counselling and the Biblical approach. Watch this video to hear how he talks about how his approach differs from a "regular" counselling approach.
 
-- [*How Does Biblical Counseling Theory Differ from Psychotherapy*](https://www.youtube.com/watch?v=G9STDM_JOgs&list=RDLVg0f6VxbP0GU&index=10){target="_blank"}? (2011)
+- [*How Does Biblical Counseling Theory Differ from Psychotherapy*](https://www.youtube.com/watch?v=G9STDM_JOgs&list=RDLVg0f6VxbP0GU&index=10){target="_blank"}? [-@ccefHowBiblicalCounseling2011]
 
 <div class="video-container">
 
@@ -317,9 +317,9 @@ After completing the activities above consider the following question:
 
 ::: {.learning-activity}
 
-As before, if you feel you have a good understanding of the view from the video, feel free to skip this reading, or read the following section in *Counseling and Christianity: Five Approaches* (Greggo & Sisemore, 2012) for a succinct summary of this approach. You may wish to take notes on this section.
+As before, if you feel you have a good understanding of the view from the video, feel free to skip this reading, or read the following section in *Counseling and Christianity: Five Approaches* [@johnsonCounselingChristianityFive2012]for a succinct summary of this approach. You may wish to take notes on this section.
 
-- [*Counseling and Christianity: Five Approaches*](assets/u6/Counselling_And_Christianity_Pg.32-34.pdf){target="_blank"} (2012)
+- [*Counseling and Christianity: Five Approaches*](assets/u6/Counselling_And_Christianity_Pg.32-34.pdf){target="_blank"} [-@johnsonCounselingChristianityFive2012]
 
 :::
 
@@ -338,7 +338,7 @@ Take a moment to write down in paragraph or point form some of your reactions to
 
 ## Clinical Implications
 
-Our next step will be to investigate the implications for the therapy room of the approaches described above. As part of this course we will read from the book *Counseling and Christianity: Five Approaches* (Greggo & Sisemore, 2012). The sections that explain how each view might apply in a therapist’s work are available to you as PDFs. The clinical case study of Jake will be incorporated into each view.
+Our next step will be to investigate the implications for the therapy room of the approaches described above. As part of this course we will read from the book *Counseling and Christianity: Five Approaches* [@johnsonCounselingChristianityFive2012]. The sections that explain how each view might apply in a therapist’s work are available to you as PDFs. The clinical case study of Jake will be incorporated into each view.
 
 It is important to note before we begin that regardless of the integration approach that you choose for your own practice (if you choose one at all), as therapists it is our ethical duty to never bring up faith in the room unless the client indicates that they are interested. *Critical Issues in Human Services*, a course that we offer in SOCI 400, focuses on this subject. We will discuss this ethical consideration in more detail if you have not taken this course yet. As a Christian therapist or agency, we must respect the autonomy of the client (the ethical principle) and never assume that this is exactly what the client is seeking.
 
@@ -346,10 +346,10 @@ It is important to note before we begin that regardless of the integration appro
 
 ::: {.learning-activity}
 
-Please refer to the reading provided for an example of how the levels of explanation view would look in a therapy room. It can be difficult to determine how each of the five approaches will affect the way we work, which is why *Counseling and Christianity: Five Approaches* (Greggo & Sisemore, 2012) addresses this issue. By providing these examples, it is hoped that the knowledge will be better integrated into practice.
+Please refer to the reading provided for an example of how the levels of explanation view would look in a therapy room. It can be difficult to determine how each of the five approaches will affect the way we work, which is why *Counseling and Christianity: Five Approaches* [@johnsonCounselingChristianityFive2012] addresses this issue. By providing these examples, it is hoped that the knowledge will be better integrated into practice.
 
-- [*Counseling and Christianity: Five Approaches*](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=579536&site=eds-live&scope=site&ebv=EB&ppid=pp_Cover){target="_blank"} (2012)
-- [*Lesson 2: Levels of Explanation & Christian Counselors in Secular Contexts* (2021)](https://www.youtube.com/watch?v=57HiA2kwQTA){target="_blank"}
+- [*Counseling and Christianity: Five Approaches*](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=579536&site=eds-live&scope=site&ebv=EB&ppid=pp_Cover){target="_blank"} [-@johnsonCounselingChristianityFive2012]
+- [*Lesson 2: Levels of Explanation & Christian Counselors in Secular Contexts* (2021)](https://www.youtube.com/watch?v=57HiA2kwQTA){target="_blank"} [-@cityvisionuniversityLesson2Levels2021]
 
 <div class="video-container">
 
@@ -371,9 +371,9 @@ After completing the activities above consider the following questions:
 
 ::: {.learning-activity}
 
-Take a look at the reading provided to see how an integration view would appear in the therapy room. It is sometimes difficult to imagine how each of the five approaches would affect the way we work, and this is precisely why *Counseling and Christianity: Five Approaches* (Greggo & Sisemore, 2012) was written. Hopefully, these examples will help you to solidify how this knowledge is applied.
+Take a look at the reading provided to see how an integration view would appear in the therapy room. It is sometimes difficult to imagine how each of the five approaches would affect the way we work, and this is precisely why *Counseling and Christianity: Five Approaches* [@johnsonCounselingChristianityFive2012] was written. Hopefully, these examples will help you to solidify how this knowledge is applied.
 
-- [*Counseling and Christianity, Five Approaches*](assets/u6/Counseling_and_Christianity_Five_Approaches.pdf){target="_blank"} (2012)
+- [*Counseling and Christianity, Five Approaches*](assets/u6/Counseling_and_Christianity_Five_Approaches.pdf){target="_blank"} [-@johnsonCounselingChristianityFive2012]
 
 **Questions to Consider**
 
@@ -390,9 +390,9 @@ After reading, consider the following questions:
 
 ::: {.learning-activity}
 
-See how a Christian psychology approach would manifest in the therapy room by reading the following. It can be challenging to recognize how each of the five approaches would impact the way in which we work; this is why *Counseling and Christianity: Five Approaches* (Greggo & Sisemore, 2012) was written. It is hoped that these concrete examples will help solidify how knowledge is applied in practice.
+See how a Christian psychology approach would manifest in the therapy room by reading the following. It can be challenging to recognize how each of the five approaches would impact the way in which we work; this is why *Counseling and Christianity: Five Approaches* [@johnsonCounselingChristianityFive2012] was written. It is hoped that these concrete examples will help solidify how knowledge is applied in practice.
 
-- [*Counseling and Christianity: Five Approaches*](assets/u6/Counseling_and_Christianity_Five_Approaches.pdf){target="_blank"} (2012). A Christian Psychology Approach.
+- [*Counseling and Christianity: Five Approaches*](assets/u6/Counseling_and_Christianity_Five_Approaches.pdf){target="_blank"} [-@johnsonCounselingChristianityFive2012]. A Christian Psychology Approach.
 
 **Questions to Consider**
 
@@ -411,7 +411,7 @@ After reading, consider the following questions:
 
 In the following section, the authors do not provide a clear-cut way of discussing implications for the therapy room. As a result, they grapple with areas that may have been overlooked, and present a nuanced interpretation. The intention of this section is to provide you with as much information as possible about the transformational approach that we have been reading about.
 
-- [*Counseling and Christianity: Five Approaches*](assets/u6/Counseling_and_Christianity_Five_Approaches.pdf){target="_blank"} (2012). A Transformational Approach.
+- [*Counseling and Christianity: Five Approaches*](assets/u6/Counseling_and_Christianity_Five_Approaches.pdf){target="_blank"} [-@johnsonCounselingChristianityFive2012]. A Transformational Approach.
 
 **Questions to Consider**
 
@@ -431,9 +431,9 @@ After reading, consider the following questions:
 
 ::: {.learning-activity}
 
-Read the resources provided to see how the Biblical counselling approach will play out in a therapy session. It is difficult to see how each of the five approaches would influence how we work, so that is precisely the purpose of *Counseling and Christianity: Five Approaches* (Greggo & Sisemore, 2012). It is hoped that these tangible examples will assist in solidifying how the knowledge is applied in practice.
+Read the resources provided to see how the Biblical counselling approach will play out in a therapy session. It is difficult to see how each of the five approaches would influence how we work, so that is precisely the purpose of *Counseling and Christianity: Five Approaches* [@johnsonCounselingChristianityFive2012]. It is hoped that these tangible examples will assist in solidifying how the knowledge is applied in practice.
 
-- [*Counseling and Christianity: Five Approaches*](assets/u6/Counseling_and_Christianity_Five_Approaches.pdf){target="_blank"} (2012). A Biblical Counselling Approach.
+- [*Counseling and Christianity: Five Approaches*](assets/u6/Counseling_and_Christianity_Five_Approaches.pdf){target="_blank"} [-@johnsonCounselingChristianityFive2012]. A Biblical Counselling Approach.
 
 **Questions to Consider**
 
@@ -454,7 +454,7 @@ After reading, consider the following questions:
 
 This unit contains a lot of repetition; if you have difficulty understanding the differences between the five approaches, please refer to the summary PDF file available in the unit resources.
 
-- [*Counseling and Christianity: Five Approaches*](assets/u6/Counseling_and_Christianity_Five_Approaches.pdf){target="_blank"} (2012)
+- [*Counseling and Christianity: Five Approaches*](assets/u6/Counseling_and_Christianity_Five_Approaches.pdf){target="_blank"} [-@johnsonCounselingChristianityFive2012]
 - [Summary](assets/u6/Summary.pdf){target="_blank"}
 
 :::
