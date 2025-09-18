@@ -397,10 +397,10 @@ Take notes using the tool below. You may wish to download your notes (please con
 -   There are no recommended videos for Topic 2.
 
 **Readings**
-<!-- //todo #8 -->
+
 -   Courtois, C. [-@courtoisComplexTraumaComplex2004]. Complex trauma, complex reactions: Assessment and treatment: *Psychotherapy: Theory, Research, Practice, Training*, *42*(4), 412–425.
 -   Courtois, C., & Ford, J. D. (Eds.). [-@courtoisTreatingComplexTraumatic2009]. *Treating complex traumatic stress disorder: Scientific foundations and therapeutic models*. Guilford Press.
--   [Hopper, E. K., Grossman, F. K., Spinazzola, J., & Zucker, M. (2021). *Treating adult survivors of childhood emotional abuse and neglect: Component-based psychotherapy*. The Guilford Press.](assets/u1/Beyond_Survival.pdf){target="_blank"}
+-   [Hopper, E. K., Grossman, F. K., Spinazzola, J., & Zucker, M. (2021). *Treating adult survivors of childhood emotional abuse and neglect: Component-based psychotherapy*. The Guilford Press.](assets/u1/Treating%20Adult%20Survivors%20of%20Childhood%20Emotional%20Abuse%20and%20Neglect.pdf){target="_blank"}
 -   Maté, G. [-@mateRealmHungryGhosts2010]. *In the realm of hungry ghosts*. North Atlantic Books.
 -   van der Kolk, B. [-@vanderkolkBodyKeepsScore2015]. *The body keeps the score: Brain, mind, and body in the healing of trauma*. Penguin.
 
