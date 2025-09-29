@@ -1,10 +1,9 @@
 # Introduction to Psych 339 {.unnumbered}
-
 Welcome to Psych 339! I am excited to begin all of the topics and units that we have planned for the following weeks. There will be a lot of information coming at you, especially in the beginning units, but in later units, we will review and refer back to the information, so my hope is that it won’t feel like too much of an overload.
 
 I would like to take the time here to review a couple of things that may help you navigate your way through this information.
 
-### Assignments {.unnumbered}
+#### Assignments {.unnumbered}
 
 The grading portion of classes can be an anxiety-provoking focus and so I thought I would give you all a couple of tips.
 
@@ -20,15 +19,15 @@ The grading portion of classes can be an anxiety-provoking focus and so I though
 
 :::
 
-### Interconnectedness of the Material {.unnumbered}
+#### Interconnectedness of the Material {.unnumbered}
 
 All of the topics that we will be learning about can affect each other, especially trauma, which can be at the root of almost every mental health issue—that is why we are starting with it first. I have not included it in our first unit, but I invite you to watch Gabor Mate’s film *[The Wisdom of Trauma](https://www.kanopy.com/en/product/wisdom-trauma){target="_blank"}.* It is a very meaningful and informative film on the effects of trauma. I also encourage you not to view each unit as a separate unit, but as building upon and being a continuation from each other.
 
-### Research Articles {.unnumbered}
+#### Research Articles {.unnumbered}
 
 I have included a smattering of research articles throughout our learnings together. These are the types of articles I would like you to find for your research papers. Research articles must be peer-reviewed and from a reputable source. Research articles, unlike textbooks, often focus on one specific aspect or finding related to the subject. Notice how they provide an overview of the subject in their introductions, and then focus their research specifically on the question they are trying to answer.
 
-### A Note on Emotion-Focused Family Therapy {.unnumbered}
+#### A Note on Emotion-Focused Family Therapy {.unnumbered}
 
 There are some interventions in the emotion-focused family therapy (EFFT) course resource that we will not be including, as to do so would require target training as well as following the requirement to be a registered therapist with a Master’s degree. However I still invite you to read about clinician chair block work and caregiver chair block work as well as therapeutic apologies, as it is very impactful work.
 
