@@ -10,7 +10,7 @@ visible: false
 The book written by Timothy Keller is an excellent resource for those interested in learning more about theology of suffering and pain. The only section that pertains to our topic today will be read. Despite the fact that he is primarily discussing pain and suffering, his words are applicable to our discussion on grief, loss, and death, as they are also engulfed in worlds of pain and suffering.
 
 **Please read Chapter 11 which you can find here.**
-[Timothy Keller Ch.11](Timothy_Keller_Ch.11.pdf)
+[Timothy Keller Ch.11](Timothy_Keller_Ch11.pdf)
 
 ### Questions to Consider
 
@@ -37,7 +37,7 @@ By inviting you to read this chapter, I hope to initiate a discussion regarding 
 We can apply the concepts from this chapter to all of our units so far as well as our units to come. As scripture tells us, there is a time for everything; a time for weeping and despair is included in this and Tim Keller expands on the importance of weeping for healthy emotional development as well as a means for drawing us closer to God.
 
 **Please Read Chapter 12: Weeping which you can find here.**
-[Timothy Keller Ch.12](Timothy_Keller_Ch.12.pdf)
+[Timothy Keller Ch.12](Timothy_Keller_Ch12.pdf)
 
 ### Questions to Consider
 
