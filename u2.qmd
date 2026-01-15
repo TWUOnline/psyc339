@@ -233,7 +233,11 @@ According to Chapter 19 in Maté’s book [-@mateRealmHungryGhosts2010], there a
 
 Two of these areas are highlighted by EFFT: family environment and emotional processing. The diagram below provides a good visual of this; it was created by Adele LaFrance and Natasha Files (2018) for presentation purposes.
 
+**Figure 2.1 Two Areas Highlighted by EFFT in Mental Health**
+
 ```{mermaid}
+
+%%| fig-width: 6.5
 
 flowchart LR
     M["Mental Health Issues"]
@@ -257,7 +261,10 @@ flowchart LR
     O --> M
     EM --> M
 
+
+
 ```
+
 
 
 <!-- ::: {#fig-image-u2}
