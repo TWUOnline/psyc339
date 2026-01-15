@@ -233,7 +233,34 @@ According to Chapter 19 in Maté’s book [-@mateRealmHungryGhosts2010], there a
 
 Two of these areas are highlighted by EFFT: family environment and emotional processing. The diagram below provides a good visual of this; it was created by Adele LaFrance and Natasha Files (2018) for presentation purposes.
 
-::: {#fig-image-u2}
+```{mermaid}
+
+flowchart LR
+    M["Mental Health Issues"]
+    G["Genes"]
+    T["Temperament / Super-feeler"]
+    F["Family environment"]
+    E["Epigenetics"]
+    S["Social & cultural factors"]
+    L["Life stressors"]
+    P["Puberty"]
+    O["Other..."]
+    EM["Emotion processing"]
+
+    G --> M
+    T --> M
+    F --> M
+    E --> M
+    S --> M
+    L --> M
+    P --> M
+    O --> M
+    EM --> M
+
+```
+
+
+<!-- ::: {#fig-image-u2}
 ![](assets/u2/image1.jpg){#fig-u2_1
 .lightbox
 fig-alt="EFFT: Family Environment and Emotional Processing"
@@ -248,7 +275,7 @@ source-license-link=""
 
 Two Areas Highlighted by EFFT in Mental Health
 
-:::
+::: -->
 
 As we learned in our previous unit, Maté also emphasizes the importance of caregivers and community in the recovery process, which fits well with the EFFT model that emphasizes parental and caregiver involvement in mental health issues. Family environment and emotional processing are the two areas we can "control" and if we work on both, the healing process will be extremely powerful.
 
