@@ -79,7 +79,7 @@ In the course of working with trauma as therapists, we have the tendency to desi
 ::: learning-activity
 View the following videos and listen to Dr. Bessel van der Kolk, one of the most prominent trauma researchers, then answer the following questions. You may want to watch the first video more than once since a lot of information is packed into a short timeframe.
 
--   [*What is Trauma? The Author of "The Body Keeps the Score" Explains*](https://youtu.be/BJfmfkDQb14){target="_blank"} [-@bigthinkWhatTraumaAuthor2021]
+- ["What is trauma? The author of “The Body Keeps the Score” explains](https://youtu.be/BJfmfkDQb14){target="_blank"}(Bessel van der Kolk, 2021)
 
 ::: video-container
 {{< video https://youtu.be/BJfmfkDQb14 >}}
@@ -192,11 +192,11 @@ To develop a preliminary understanding of why trauma occurs, you have learned de
 :::: learning-activity
 Despite being potentially overwhelming, this chapter is extremely informative regarding what happens to the brain when trauma occurs. Please use the following questions to guide your reading, as they will assist you in focusing on the most important information.
 
--   Watch [*What is trauma? The author of "The Body Keeps the Score" explains \| Bessel van der Kolk \| Big Think*](https://www.youtube.com/watch?v=BJfmfkDQb14){target="_blank"}[-@bigthinkWhatTraumaAuthor2021].
+<!-- -   Watch [*What is trauma? The author of "The Body Keeps the Score" explains \| Bessel van der Kolk \| Big Think*](https://www.youtube.com/watch?v=BJfmfkDQb14){target="_blank"}[-@bigthinkWhatTraumaAuthor2021].
 
 ::: video-container
 {{< video https://www.youtube.com/watch?v=BJfmfkDQb14 >}}
-:::
+::: -->
 
 -   Read [*The Body Keeps the Score*](assets/u1/Ch4_TBKS.pdf){target="_blank"}, Chapter 4 [-@vanderkolkBodyKeepsScore2015]
 
