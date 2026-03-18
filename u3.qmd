@@ -226,7 +226,7 @@ Atul Gawande’s book *Being Mortal* [-@gawandeBeingMortalMedicine2017] is a gre
 
 Death and dying is not explicitly discussed in Chapter 1, but how we view the elderly is important, because our avoidance of interaction with elderly people and thinking about this stage of our lives is arguably a result of avoiding thinking about our own deaths.
 
-- [*Being Mortal:* Chapter 1, The Independent Self](assets/u3//Being_Mortal_Chapter1.pdf){target="_blank"} [-@gawandeBeingMortalMedicine2017]
+- [*Being Mortal:* Chapter 1, The Independent Self](assets/u3/Being_Mortal_Chapter1.pdf){target="_blank"} [-@gawandeBeingMortalMedicine2017]
 
 **Questions to Consider**
 
